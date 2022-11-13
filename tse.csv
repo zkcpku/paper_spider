@@ -1,0 +1,699 @@
+name,year,title,link
+tse,42,Editorial: Journal-First Publication for the Software Engineering Community.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Tool-Supported Methodology for Validation and Refinement of Early-Stage Domain Models.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Seer: A Lightweight Online Failure Prediction Approach.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,"Supporting Scope Tracking and Visualization for Very Large-Scale Requirements Engineering-Utilizing FSC+, Decision Patterns, and Atomic Decision Visualizations.",https://dblp.org/db/journals/tse/tse42.html
+tse,42,Supporting Self-Adaptation via Quantitative Verification and Sensitivity Analysis at Run Time.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Automatic Source Code Summarization of Context for Java Methods.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Crossover Designs in Software Engineering Experiments: Benefits and Perils.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,GoPrime: A Fully Decentralized Middleware for Utility-Aware Service Assembly.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Probabilistic Model Checking of Regenerative Concurrent Systems.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,SITAR: GUI Test Script Repair.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Using Reduced Execution Flow Graph to Identify Library Functions in Binary Code.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Metamorphic Testing for Software Quality Assessment: A Study of Search Engines.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,"Detecting, Tracing, and Monitoring Architectural Tactics in Code.",https://dblp.org/db/journals/tse/tse42.html
+tse,42,Verifying Synchronization for Atomicity Violation Fixing.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Connecting and Serving the Software Engineering Community.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Evaluating the Effects of Architectural Documentation: A Case Study of a Large Scale Open Source Project.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Impact of Introducing Domain-Specific Modelling in Software Maintenance: An Industrial Case Study.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Multi-Site Joint Replication of a Design Patterns Experiment Using Moderator Variables to Generalize across Contexts.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,An Approach to Checking Consistency between UML Class Model and Its Java Implementation.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Probabilistic Analysis of the Efficiency of Automated Software Testing.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Black-Box String Test Case Generation through a Multi-Objective Optimization.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,"Mapping Bug Reports to Relevant Files: A Ranking Model, a Fine-Grained Benchmark, and Feature Evaluation.",https://dblp.org/db/journals/tse/tse42.html
+tse,42,Bidirectional Symbolic Analysis for Effective Branch Testing.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Effect of Domain Knowledge on Elicitation Effectiveness: An Internally Replicated Controlled Experiment.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,RELAI Testing: A Technique to Assess and Improve Software Reliability.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Targeted Scrum: Applying Mission Command to Agile Software Development.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,To Be Optimal or Not in Test-Case Prioritization.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,"A Two-Component Language for Adaptation: Design, Semantics and Program Analysis.",https://dblp.org/db/journals/tse/tse42.html
+tse,42,Automatically Recommending Peer Reviewers in Modern Code Review.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Dynamic and Automatic Feedback-Based Threshold Adaptation for Code Smell Detection.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Enforcing Exception Handling Policies with a Domain-Specific Language.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Software Development in Startup Companies: The Greenfield Startup Model.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Game-Theoretic Foundation for the Maximum Software Resilience against Dense Errors.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Designing Autonomic Management Systems by Using Reactive Control Techniques.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Dynamic Software Project Scheduling through a Proactive-Rescheduling Method.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Variability Analysis of Requirements: Considering Behavioral Differences and Reflecting Stakeholders' Perspectives.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Survey on Software Fault Localization.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Model Checking Software with First Order Logic Specifications Using AIG Solvers.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Parallel Performance Problems on Shared-Memory Multicore Systems: Taxonomy and Observation.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,The Role of Ethnographic Studies in Empirical Software Engineering.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Survey on Metamorphic Testing.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Dynamic Testing for Deadlocks via Constraints.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Probabilistic Interface Automata.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Software Reliability Analysis Using Weakest Preconditions in Linear Assignment Programs.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,The Role of Method Chains and Comments in Software Readability and Comprehension - An Experiment.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Lightweight System for Detecting and Tolerating Concurrency Bugs.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,A Multi-Objective Technique to Prioritize Test Cases.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Coverage-Aware Test Database Reduction.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Exploring Mobile End User Development: Existing Use and Design Factors.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,HYDRA: Massively Compositional Model for Cross-Project Defect Prediction.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Composite Constant Propagation and its Application to Android Program Analysis.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Developer Micro Interaction Metrics for Software Defect Prediction.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Enhanced Code Conversion Approach for the Integrated Cross-Platform Mobile Development (ICPMD).,https://dblp.org/db/journals/tse/tse42.html
+tse,42,"Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps.",https://dblp.org/db/journals/tse/tse42.html
+tse,42,Parallel Algorithms for Testing Finite State Machines: Generating UIO Sequences.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Comments on &#34;Researcher Bias: The Use of Machine Learning in Software Defect Prediction&#34;.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,An Industrial Survey of Safety Evidence Change Impact Analysis Practice.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Engineering Adaptive Model-Driven User Interfaces.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Inner Source in Platform-Based Product Engineering.,https://dblp.org/db/journals/tse/tse42.html
+tse,42,Test Case Prioritization Using Lexicographical Ordering.,https://dblp.org/db/journals/tse/tse42.html
+tse,43,An Empirical Comparison of Model Validation Techniques for Defect Prediction Models.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Interaction Models and Automated Control under Partial Observable Environments.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Process Aspects and Social Dynamics of Contemporary Code Review: Insights from Open Source Development and Industrial Practice at Microsoft.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Timed Automata Modeling and Verification for Publish-Subscribe Structures Using Distributed Resources.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,ARENA: An Approach for the Automated Generation of Release Notes.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Study of Causes and Consequences of Client-Side JavaScript Bugs.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Automated Synthesis and Dynamic Analysis of Tradeoff Spaces for Object-Relational Mapping.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,DECAF: A Platform-Neutral Whole-System Dynamic Binary Analysis Platform.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Improving Timeliness and Visibility in Publishing Software Engineering Research.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Automating Live Update for Generic Server Programs.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,CACheck: Detecting and Repairing Cell Arrays in Spreadsheets.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Dependence Guided Symbolic Execution.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Improving Automated Bug Triaging with Specialized Topic Model.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,An Enhanced Bailout Protocol for Mixed Criticality Embedded Software.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,An Improved SDA Based Defect Prediction Framework for Both Within-Project and Cross-Project Class-Imbalance Problems.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Efficient Dynamic Updates of Distributed Components Through Version Consistency.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Mining Sequences of Developer Interactions in Visual Studio for Usage Smells.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Test Oracle Strategies for Model-Based Testing.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Approaches to Co-Evolution of Metamodels and Models: A Survey.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A System for Profiling and Monitoring Database Access Patterns by Application Programs for Anomaly Detection.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Model-Based Self-Aware Performance and Resource Management Using the Descartes Modeling Language.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Self-Adaptive and Online QoS Modeling for Cloud-Based Software Services.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,The Use of Summation to Aggregate Software Metrics Hinders the Performance of Defect Prediction Models.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Automated Steering of Model-Based Test Oracles to Admit Real Program Behaviors.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Online Reliability Prediction via Motifs-Based Dynamic Bayesian Networks for Service-Oriented Systems.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,The Value of Exact Analysis in Requirements Selection.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Dissection of the Test-Driven Development Process: Does It Really Matter to Test-First or to Test-Last?,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Feature-Based Classification of Model Repair Approaches.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Framework for Evaluating the Results of the SZZ Approach for Identifying Bug-Introducing Changes.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Keyword Search for Building Service-Based Systems.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Supporting Change Impact Analysis Using a Recommendation System: An Industrial Case Study in a Safety-Critical Context.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Automatic Contract Insertion with CCBot.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,GK-Tail+ An Efficient Approach to Learn Software Models.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Imprecise Matching of Requirements Specifications for Software Services Using Fuzzy Logic.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Locating Software Faults Based on Minimum Debugging Frontier Set.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Preventing Defects: The Impact of Requirements Traceability Completeness on Software Quality.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Qualitative Study of Application-Level Caching.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,A Survey of App Store Analysis for Software Engineering.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Reporting Usability Defects: A Systematic Literature Review.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Static Analysis of Model Transformations.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Adaptive Multi-Objective Evolutionary Algorithms for Overtime Planning in Software Projects.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Automated Extraction and Clustering of Requirements Glossary Terms.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Deriving Bisimulation Relations from Path Extension Based Equivalence Checkers.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Identifying Extract Method Refactoring Opportunities Based on Functional Relevance.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Software Numerical Instability Detection and Diagnosis by Combining Stochastic and Infinite-Precision Testing.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Language Inclusion Checking of Timed Automata with Non-Zenoness.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Model Transformation Modularization as a Many-Objective Optimization Problem.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Testing from Partial Finite State Machines without Harmonised Traces.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Using Natural Language Processing to Automatically Detect Self-Admitted Technical Debt.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,When and Why Your Code Starts to Smell Bad (and Whether the Smells Go Away).,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Clarifications on the Construction and Use of the ManyBugs Benchmark.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Comments on ScottKnottESD in Response to &#34;An Empirical Comparison of Model Validation Techniques for Defect Prediction Models&#34;.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Autofolding for Source Code Summarization.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,AutoSense: A Framework for Automated Sensitivity Analysis of Program Data.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,On the Positive Effect of Reactive Programming on Software Comprehension: An Empirical Study.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Reasoning About Identifier Spaces: How to Make Chord Correct.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,Semantics-Based Obfuscation-Resilient Binary Code Similarity Comparison with Applications to Software and Algorithm Plagiarism Detection.,https://dblp.org/db/journals/tse/tse43.html
+tse,43,"The Work Life of Developers: Activities, Switches and Perceived Productivity.",https://dblp.org/db/journals/tse/tse43.html
+tse,44,State of the Journal.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Editorial from the New Editor in Chief.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Developer Centered Bug Prediction Model.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Eliminating Path Redundancy via Postconditioned Symbolic Execution.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Empirical Evaluation of the Impact of Object-Oriented Code Refactoring on Quality Attributes: A Systematic Literature Review.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Test Case Generation for Boolean Expressions by Cell Covering.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Templating System to Generate Provenance.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Measuring the Impact of Code Dependencies on Software Architecture Recovery Techniques.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Semantic Slicing of Software Version Histories.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Automatic Software Refactoring via Weighted Clustering in Method-Level Networks.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,"Choosing Component Origins for Software Intensive Systems: In-House, COTS, OSS or Outsourcing? - A Case Survey.",https://dblp.org/db/journals/tse/tse44.html
+tse,44,Complete and Interpretable Conformance Checking of Business Processes.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Formulating Criticality-Based Cost-Effective Fault Tolerance Strategies for Multi-Tenant Service-Based Systems.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Detecting Trivial Mutant Equivalences via Compiler Optimisations.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Hybrid Program Dependence Approximation for Effective Dynamic Impact Prediction.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Refactoring Inspection Support for Manual Refactoring Edits.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Understanding Diverse Usage Patterns from Large-Scale Appstore-Service Profiles.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Are Fix-Inducing Changes a Moving Target? A Longitudinal Case Study of Just-In-Time Defect Prediction.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Detecting Overly Strong Preconditions in Refactoring Engines.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Discipline Matters: Refactoring of Preprocessor Directives in the #ifdef Hell.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Reviving Sequential Program Birthmarking for Multithreaded Software Plagiarism Detection.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A PVS-Simulink Integrated Environment for Model-Based Analysis of Cyber-Physical Systems.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,MAHAKIL: Diversity Based Oversampling Approach to Alleviate the Class Imbalance Issue in Software Defect Prediction.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Predicting Delivery Capability in Iterative Software Development.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Specialising Software for Different Downstream Applications Using Genetic Improvement and Code Transplantation.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Towards Model Checking Android Applications.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Effectively Incorporating Expert Knowledge in Automated Software Remodularisation.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Implementing and Evaluating Candidate-Based Invariant Generation.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Mining Semantic Loop Idioms.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,On Accelerating Source Code Analysis at Massive Scale.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,On the Semantics of Distributed Reactive Programming: The Cost of Consistency.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Comparison of Program Comprehension Strategies by Blind and Sighted Programmers.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Formal Specification and Verification Framework for Timed Security Protocols.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Survey of Recent Trends in Testing Concurrent Software Systems.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Control-Theoretical Software Adaptation: A Systematic Literature Review.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Enhancing the Description-to-Behavior Fidelity in Android Apps with Privacy Policy.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Global-Aware Recommendations for Repairing Violations in Exception Handling.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Heterogeneous Defect Prediction.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Towards Prioritizing Documentation Effort.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Theoretical and Empirical Study of Diversity-Aware Mutation Adequacy Criterion.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Coordination Challenges in Large-Scale Software Development: A Case Study of Planning Misalignment in Hybrid Settings.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Measuring Program Comprehension: A Large-Scale Field Study with Professionals.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Two-Phase Assessment Approach to Improve the Efficiency of Refactoring Identification.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,The Scent of a Smell: An Extensive Comparison Between Textual and Structural Smells.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Data Scientists in Software Teams: State of the Art and Challenges.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Engineering Trustworthy Self-Adaptive Software with Dynamic Assurance Cases.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Expanding Queries for Code Search Using Semantically Related API Class-names.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Metamorphic Testing of RESTful Web APIs.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Predicting Future Developer Behavior in the IDE Using Topic Models.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Using Local Clocks to Reproduce Concurrency Bugs.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Authors' Reply to &#34;Comments on 'Researcher Bias: The Use of Machine Learning in Software Defect Prediction'&#34;.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,A Study of Social Interactions in Open Source Component Use.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Collaborative Model-Driven Software Engineering: A Classification Framework and a Research Map.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,EARMO: An Energy-Aware Refactoring Approach for Mobile Apps.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Entropy Based Software Reliability Analysis of Multi-Version Open Source Software.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,On the Use of Hidden Markov Model to Predict the Time to Fix Bugs.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports.,https://dblp.org/db/journals/tse/tse44.html
+tse,44,Tracking Load-Time Configuration Options.,https://dblp.org/db/journals/tse/tse44.html
+tse,45,Editorial: State of the Journal.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,"A Rigorous Framework for Specification, Analysis and Enforcement of Access Control Policies.",https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automatic Software Repair: A Survey.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Listening to the Crowd for the Release Planning of Mobile Apps.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,What Makes a Great Manager of Software Engineers?,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automated Refactoring of OCL Constraints with Search.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Gray Computing: A Framework for Computing with Background JavaScript Tasks.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Toward a Smell-Aware Bug Prediction Model.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automatically Exploring Tradeoffs Between Software Output Fidelity and Energy Costs.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Competition-Based Crowdsourcing Software Development: A Multi-Method Study from a Customer Perspective.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,"Developer Testing in the IDE: Patterns, Beliefs, and Behavior.",https://dblp.org/db/journals/tse/tse45.html
+tse,45,Integrating Technical Debt Management and Software Quality Management Processes: A Normative Framework and Field Tests.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,MSeer - An Advanced Technique for Locating Multiple Bugs in Parallel.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,An Empirical Study on API Usages.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Combining Code and Requirements Coverage with Execution Cost for Test Suite Reduction.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,On the Multiple Sources and Privacy Preservation Issues for Heterogeneous Defect Prediction.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Smart Bound Selection for the Verification of UML/OCL Class Diagrams.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automatic Detection and Removal of Ineffective Mutants for the Mutation Analysis of Relational Database Schemas.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Coverage-Based Greybox Fuzzing as Markov Chain.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Decomposition-Based Approach for Model-Based Test Generation.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,"The Good, the Bad and the Ugly: A Study of Security Decisions in a Cyber-Physical Systems Game.",https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automatic Identification and Classification of Software Development Video Tutorial Fragments.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automatic Loop Summarization via Path Dependency Analysis.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,ConPredictor: Concurrency Defect Prediction in Real-World Applications.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,makeSense: Simplifying the Integration of Wireless Sensor Networks into Business Processes.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,&#34;Sampling&#34; as a Baseline Optimizer for Search-Based Software Engineering.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Text Filtering and Ranking for Security Bug Report Prediction.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Correction of &#34;A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches&#34;.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Deep Learning Model for Estimating Story Points.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Design Rule Spaces: A New Model for Representing and Analyzing Software Architecture.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,The Impact of Automated Parameter Optimization on Defect Prediction Models.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Toward Methodological Guidelines for Process Theories and Taxonomies in Software Engineering.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Systematic Literature Review of Applications of the Physics of Notations.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Systematic Review of Interaction in Search-Based Software Engineering.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Instance Migration Validity for Dynamic Evolution of Data-Aware Processes.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Verification Templates for the Analysis of User Interface Software Design.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Asymmetric Release Planning: Compromising Satisfaction against Dissatisfaction.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Fully Reflective Execution Environments: Virtual Machines for More Flexible Software.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,How Developers Diagnose Potential Security Vulnerabilities with a Static Analysis Tool.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Predictive Mutation Testing.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Test Generation and Test Prioritization for Simulink Models with Dynamic Behavior.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Screening Test for Disclosed Vulnerabilities in FOSS Components.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Creating Rich and Representative Personas by Discovering Affordances.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Detecting Bugs by Discovering Expectations and Their Violations.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Network-Clustered Multi-Modal Bug Localization.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,UniDoSA: The Unified Specification and Detection of Service Antipatterns.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,How Do Static and Dynamic Test Case Prioritization Techniques Perform on Modern Software Systems? An Extensive Study on GitHub Projects.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Bellwethers: A Baseline Method for Transfer Learning.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Microtask Programming.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Accurate and Scalable Cross-Architecture Cross-OS Binary Code Search with Emulation.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Approximate Oracles and Synergy in Software Energy Search Spaces.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Systematic Evaluation of Static API-Misuse Detectors.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Integrative Double Kaizen Loop (IDKL): Towards a Culture of Continuous Learning and Sustainable Improvements for Software Organizations.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,Automating Change-Level Self-Admitted Technical Debt Determination.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,LEILA: Formal Tool for Identifying Mobile Malicious Behaviour.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction.,https://dblp.org/db/journals/tse/tse45.html
+tse,45,CHiP: A Configurable Hybrid Parallel Covering Array Constructor.,https://dblp.org/db/journals/tse/tse45.html
+tse,46,Need for Sleep: The Impact of a Night of Sleep Deprivation on Novice Developers' Performance.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Automatically Categorizing Software Technologies.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Use and Misuse of Continuous Integration Features: An Empirical Study of Projects That (Mis)Use Travis CI.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Incentivizing Deep Fixes in Software Economies.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Multi-Study Investigation into Dead Code.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,"On the Understandability of Temporal Properties Formalized in Linear Temporal Logic, Property Specification Patterns and Event Processing Language.",https://dblp.org/db/journals/tse/tse46.html
+tse,46,Corrections to &#34;Detecting Bugs by Discovering Expectations and Their Violations&#34;.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Motivation and Satisfaction of Software Engineers.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Identifying Failure-Causing Schemas in the Presence of Multiple Faults.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,An Integrated Approach for Effective Injection Vulnerability Analysis of Web Applications Through Security Slicing and Hybrid Constraint Solving.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Machine Learning-Based Prototyping of Graphical User Interfaces for Mobile Apps.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Safety Practices in Requirements Engineering: The Uni-REPM Safety Module.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Automated Selection of Optimal Model Transformation Chains via Shortest-Path Algorithms.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Analyzing the Effects of Bugs on Software Interfaces.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,"An Empirical Comparison of Combinatorial Testing, Random Testing and Adaptive Random Testing.",https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Framework for Quantitative Modeling and Analysis of Highly (Re)configurable Systems.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Requirements Engineering for Safety-Critical Systems: An Interview Study with Industry Practitioners.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Framework for Temporal Verification Support in Domain-Specific Modelling.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,ConTesa: Directed Test Suite Augmentation for Concurrent Software.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Look into Programmers' Heads.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Extending Abstract Interpretation to Dependency Analysis of Database Applications.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Chaff from the Wheat: Characterizing and Determining Valid Bug Reports.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Observation-Enhanced QoS Analysis of Component-Based Systems.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,On Scheduling Constraint Abstraction for Multi-Threaded Program Verification.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Analyzing Families of Experiments in SE: A Systematic Mapping Study.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,An Interleaving Approach to Combinatorial Testing and Failure-Inducing Interaction Identification.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Combinatorial Testing-Based Approach to Fault Localization.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,"Software Configuration Engineering in Practice Interviews, Survey, and Systematic Literature Review.",https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Test Case Prioritization Genetic Algorithm Guided by the Hypervolume Indicator.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Debugging Static Analysis.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Does Reviewer Recommendation Help Developers?,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Automatic and Accurate Expansion of Abbreviations in Parameters.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Ensuring the Observability of Structural Test Obligations.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Studying Bad Updates of Top Free-to-Download Apps in the Google Play Store.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Finding Faster Configurations Using FLASH.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Value-Flow-Based Demand-Driven Pointer Analysis for C and C++.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,How Practitioners Perceive Automated Bug Report Management Techniques.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,The Adoption of JavaScript Linters in Practice: A Case Study on ESLint.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,"On the Nature of Merge Conflicts: A Study of 2, 731 Open Source Java Projects Hosted by GitHub.",https://dblp.org/db/journals/tse/tse46.html
+tse,46,Tell You a Definite Answer: Whether Your Data is Tainted During Thread Scheduling.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,An Interactive and Dynamic Search-Based Approach to Software Refactoring Recommendations.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Uncovering the Periphery: A Qualitative Survey of Episodic Volunteering in Free/Libre and Open Source Software Communities.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Large-Scale Third-Party Library Detection in Android Markets.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,How Do Users Revise Answers on Technical Q&#38;A Websites? A Case Study on Stack Overflow.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Corrections to &#34;Automatic and Accurate Expansion of Abbreviations in Parameters&#34;.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,ARJA: Automated Repair of Java Programs via Multi-Objective Genetic Programming.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Changeset-Based Topic Modeling of Software Repositories.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Bridging Semantic Gaps between Natural Languages and APIs with Word Embedding.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Automating Intention Mining.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Metamorphic Relations for Enhancing System Understanding and Use.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,How Well Do Change Sequences Predict Defects? Sequence Learning from Software Changes.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Understanding and Detecting Fragmentation-Induced Compatibility Issues for Android Apps.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,The Impact of Class Rebalancing Techniques on the Performance and Interpretation of Defect Prediction Models.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Dynamic Update of Discrete Event Controllers.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,"Perceptions, Expectations, and Challenges in Defect Prediction.",https://dblp.org/db/journals/tse/tse46.html
+tse,46,Deep Semantic Feature Learning for Software Defect Prediction.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Search-Based Crash Reproduction and Its Impact on Debugging.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Cognitive Biases in Software Engineering: A Systematic Mapping Study.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Key Stakeholders' Value Propositions for Feature Selection in Software-Intensive Products: An Industrial Case Study.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,Platform-Independent Dynamic Taint Analysis for JavaScript.,https://dblp.org/db/journals/tse/tse46.html
+tse,46,A Model-Integrated Approach to Designing Self-Protecting Systems.,https://dblp.org/db/journals/tse/tse46.html
+tse,47,Symbolic Refinement of Extended State Machines with Applications to the Automatic Derivation of Sub-Components and Controllers.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"A Systematic Literature Review on Bad Smells-5 W's: Which, When, What, Who, Where.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Automatic Feature Learning for Predicting Vulnerable Software Components.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,CBGA-ES<sup>+</sup>: A Cluster-Based Genetic Algorithm with Non-Dominated Elitist Selection for Supporting Multi-Objective Test Optimization.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Beyond Technical Aspects: How Do Community Smells Influence the Intensity of Code Smells?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Evaluating Model-Driven Development Claims with Respect to Quality: A Family of Experiments.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Study of Feature Scattering in the Linux Kernel.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Mining Fix Patterns for FindBugs Violations.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"Automatically 'Verifying' Discrete-Time Complex Systems through Learning, Abstraction and Refinement.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Automated Documentation of Android Apps.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Coverage Prediction for Accelerating Compiler Testing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Inductive Validity Cores.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,App Store Effects on Software Engineering Practices.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The Impact of Correlated Metrics on the Interpretation of Defect Models.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Empirical Study of Fault Localization Families and Their Combinations.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Too Many User-Reviews! What Should App Developers Look at First?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Specifying Callback Control Flow of Mobile Apps Using Finite Automata.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Mining Treatment-Outcome Constructs from Sequential Software Engineering Data.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Theoretical and Empirical Analysis of Program Spectra Diagnosability.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Mining Likely Analogical APIs Across Third-Party Libraries via Large-Scale Unsupervised API Semantics Embedding.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Which Commits Can Be CI Skipped?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Generic Adaptive Scheduling for Efficient Context Inconsistency Detection.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"A Progression Model of Software Engineering Goals, Challenges, and Practices in Start-Ups.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Automatic Mining of Opinions Expressed About APIs in Stack Overflow.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Toxic Code Snippets on Stack Overflow.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,What Predicts Software Developers' Productivity?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Automatically Assessing Code Understandability.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Topology-Specific Synthesis of Self-Stabilizing Parameterized Systems with Constant-Space Processes.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Exploring Community Smells in Open-Source: An Automated Approach.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Automatic Detection and Update Suggestion for Outdated API Names in Documentation.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Rebooting Research on Detecting Repackaged Android Apps: Literature Review and Benchmark.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Understanding How and Why Developers Seek and Analyze API-Related Opinions.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The Effect of Work Environments on Productivity and Satisfaction of Software Engineers.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Lightweight Assessment of Test-Case Effectiveness Using Source-Code-Quality Indicators.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Layered Reference Architecture for Metamodels to Tailor Quality Modeling and Analysis.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Studying Task Processes for Improving Programmer Productivity.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Dealing with Non-Functional Requirements in Model-Driven Development: A Survey.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Software Development Process Ambidexterity and Project Performance: A Coordination Cost-Effectiveness View.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Empirical Study of Obsolete Answers on Stack Overflow.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Today Was a Good Day: The Daily Life of Software Developers.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"Adaptive Test Case Allocation, Selection and Generation Using Coverage Spectrum and Operational Profile.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Modeling and Recommending Open Source Licenses with findOSSLicense.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Requirements Framing Affects Design Creativity.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Reusing Solutions Modulo Theories.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"Characterizing the Usage, Evolution and Impact of Java Annotations in Practice.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Service Candidate Identification from Monolithic Systems Based on Execution Traces.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Architecture Anti-Patterns: Automatically Detectable Violations of Design Principles.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,$\mathcal K$K-Branching UIO Sequences for Partially Specified Observable Non-Deterministic FSMs.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The Impact of Code Review on Architectural Changes.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The Mutation and Injection Framework: Evaluating Clone Detection Tools with Mutation Analysis.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Erratum to &#34;Accurate and Scalable Cross-Architecture Cross-OS Binary Code Search With Emulation&#34;.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Empirical Study of Boosting Spectrum-Based Fault Localization via PageRank.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Efficient Parametric Model Checking Using Domain Knowledge.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Evolution of the Unix System Architecture: An Exploratory Case Study.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Metamorphic Robustness Testing: Exposing Hidden Defects in Citation Statistics and Journal Impact Factors.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Debugging of Behavioural Models using Counterexample Analysis.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Recommending Participants for Collaborative Merge Sessions.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The ORIS Tool: Quantitative Evaluation of Non-Markovian Systems.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,What Do Package Dependencies Tell Us About Semantic Versioning?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Semantics-Based Hybrid Approach on Binary Code Similarity Comparison.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Characterizing Crowds to Better Optimize Worker Recommendation in Crowdsourced Testing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Enriching API Documentation with Code Samples and Usage Scenarios from Crowd Knowledge.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Controlled Experiment with Novice Developers on the Impact of Task Description Granularity on Software Quality in Test-Driven Development.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,What Do Programmers Discuss About Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions About Blockchain Platforms Across Stack Exchange Communities.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Integration Test Order Strategy to Consider Control Coupling.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Deep Transfer Bug Localization.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,On Company Contributions to Community Open Source Software Projects.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Locating Latent Design Information in Developer Discussions: A Study on Pull Requests.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Impact of Discretization Noise of the Dependent Variable on Machine Learning Classifiers in Software Engineering.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Reactive Auto-Completion of Modeling Activities.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,What's Wrong with My Benchmark Results? Studying Bad Practices in JMH Benchmarks.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Empirical Assessment of Multimorphic Testing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Stability in Software Engineering: Survey of the State-of-the-Art and Research Directions.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Methodological Principles for Reproducible Performance Evaluation in Cloud Computing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Evolving JavaScript Code to Reduce Load Time.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Exploiting Natural Language Structures in Software Informal Documentation.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Empirical Evaluation of Fault Localisation Using Code and Change Metrics.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Finding Substitutable Binary Code By Synthesizing Adapters.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Version Control Systems: An Information Foraging Perspective.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,ModGuard : Identifying Integrity &#38; Confidentiality Violations in Java Modules.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Fine-Grained Dynamic Resource Allocation for Big-Data Applications.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Software Deployment on Heterogeneous Platforms: A Systematic Mapping Study.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Empirical Validation of Oracle Improvement.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Cost-Efficient Auto-Scaling Algorithm for Large-Scale Graph Processing in Cloud Environments with Heterogeneous Resources.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Procedure and Guidelines for Analyzing Groups of Software Engineering Replications.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,METRIC$^{+}$+: A Metamorphic Relation Identification Technique Based on Input Plus Output Domains.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Bayesian Data Analysis in Empirical Software Engineering Research.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Deep Learning Based Code Smell Detection.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Moving from Closed to Open Source: Observations from Six Transitioned Projects to GitHub.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,How does Machine Learning Change Software Development Practices?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Enabling Good Work Habits in Software Developers through Reflective Goal-Setting.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Kernel Spectral Embedding Transfer Ensemble for Heterogeneous Defect Prediction.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,ProXray: Protocol Model Learning and Guided Firmware Analysis.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,POMP++: Facilitating Postmortem Program Diagnosis with Value-Set Analysis.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,SequenceR: Sequence-to-Sequence Learning for End-to-End Program Repair.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,SEthesaurus: WordNet in Software Engineering.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Smart Greybox Fuzzing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Studying the Impact of Noises in Build Breakage Data.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Which Variables Should I Log?,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Enhancing Trustability of Android Applications via User-Centric Flexible Permissions.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Survey on Adaptive Random Testing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Smart Contract Development: Challenges and Opportunities.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,FutureWare: Designing a Middleware for Anticipatory Mobile Computing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Towards a Theory of Software Developer Job Satisfaction and Perceived Productivity.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,The Assessor's Dilemma: Improving Bug Repair via Empirical Game Theory.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,SOSRepair: Expressive Semantic Search for Real-World Program Repair.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,How to &#34;DODGE&#34; Complex Software Analytics.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Metric-Based Fault Prediction for Spreadsheets.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Specification Patterns for Robotic Missions.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,IntRepair: Informed Repairing of Integer Overflows.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Companies' Participation in OSS Development-An Empirical Study of OpenStack.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,On the Energy Footprint of Mobile Testing Frameworks.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,ElementRank: Ranking Java Software Classes and Packages using a Multilayer Complex Network-Based Approach.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Easy-to-Deploy API Extraction by Multi-Level Feature Embedding and Transfer Learning.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"The Art, Science, and Engineering of Fuzzing: A Survey.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Historical Spectrum Based Fault Localization.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Automatic Repair of Timestamp Comparisons.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Improving Vulnerability Inspection Efficiency Using Active Learning.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Explaining Regressions via Alignment Slicing and Mending.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Investigating the Impact of Development Task on External Quality in Test-Driven Development: An Industry Experiment.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Empirical Study of Dependency Downgrades in the npm Ecosystem.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,PatchNet: Hierarchical Deep Learning-Based Stable Patch Identification for the Linux Kernel.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Grammar Based Directed Testing of Machine Learning Systems.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,oo7: Low-Overhead Defense Against Spectre Attacks via Program Analysis.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Reading Answers on Stack Overflow: Not Enough!,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Chaos Engineering System for Live Analysis and Falsification of Exception-Handling in the JVM.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Comparative Analysis of Constraint Handling Techniques for Constrained Combinatorial Testing.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Using Docker to Assist Q&#38;A Forum Users.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Semantic Learning and Emulation Based Cross-Platform Binary Vulnerability Seeker.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Where2Change: Change Request Localization for App Reviews.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,On the Costs and Profit of Software Defect Prediction.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Effects of Personality Traits on Pull Request Acceptance.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Study of Call Graph Construction for JVM-Hosted Languages.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Scrutinizing Implementations of Smart Home Integrations.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Study of Bug Resolution Characteristics in Popular Programming Languages.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Review Dynamics and Their Impact on Software Quality.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,checsdm: A Method for Ensuring Consistency in Heterogeneous Safety-Critical System Design.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Machine Learning Approach to Improve the Detection of CI Skip Commits.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,User Review-Based Change File Localization for Mobile Applications.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,MoMIT: Porting a JavaScript Interpreter on a Quarter Coin.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,RefDiff 2.0: A Multi-Language Refactoring Detection Tool.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,An Empirical Study on Heterogeneous Defect Prediction Approaches.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Contract-Based Program Repair Without The Contracts: An Extended Study.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Qualitative Study of the Benefits and Costs of Logging From Developers' Perspectives.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Checking Smart Contracts With Structural Code Embedding.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,"Relations Between Effort Estimates, Skill Indicators, and Measured Programming Skill.",https://dblp.org/db/journals/tse/tse47.html
+tse,47,ConfigMiner: Identifying the Appropriate Configuration Options for Config-Related User Questions by Mining Online Forums.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Studying the Association Between Bountysource Bounties and the Issue-Addressing Likelihood of GitHub Issue Reports.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,A Longitudinal Study of Application Structure and Behaviors in Android.,https://dblp.org/db/journals/tse/tse47.html
+tse,47,Whence to Learn? Transferring Knowledge in Configurable Systems Using BEETLE.,https://dblp.org/db/journals/tse/tse47.html
+tse,48,The Impact of Surface Features on Choice of (in)Secure Answers by Stackoverflow Readers.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Dominoes: An Interactive Exploratory Data Analysis Tool for Software Relationships.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Property Satisfiability Analysis for Product Lines of Modelling Languages.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A3: Assisting Android API Migrations Using Code Examples.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Effects of Mindfulness on Conceptual Modeling Performance: A Series of Experiments.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Theory of Value for Value-Based Feature Selection in Software Engineering.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Methodology for Analyzing Uptake of Software Technologies Among Developers.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Study of Bug Management Using the Stack Exchange Question and Answering Platform.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Automated Expansion of Abbreviations Based on Semantic Relation and Transfer Expansion.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Quantitative Verification for Monitoring Event-Streaming Systems.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,PackerGrind: An Adaptive Unpacking System for Android Apps.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Inferring Bug Signatures to Detect Real Bugs.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Automatic Generation of Acceptance Test Cases From Use Case Specifications: An NLP-Based Approach.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,TkT: Automatic Inference of Timed and Extended Pushdown Automata.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Quality of Automated Program Repair on Real-World Defects.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Explaining Static Analysis With Rule Graphs.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Automatic Test Case and Test Oracle Generation Based on Functional Scenarios in Formal Specifications for Conformance Testing.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Utilizing Automatic Query Reformulations as Genetic Operations to Improve Feature Location in Software Models.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Machine Learning Testing: Survey, Landscapes and Horizons.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,How Developers Choose Names.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Integrating Provenance Capture and UML With UML2PROV: Principles and Experience.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Code Reviews With Divergent Review Scores: An Empirical Study of the OpenStack and Qt Communities.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Just-In-Time Defect Identification and Localization: A Two-Phase Framework.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Reinforcement-Learning-Guided Source Code Summarization Using Hierarchical Attention.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Incidents are Meant for Learning, Not Repeating: Sharing Knowledge About Security Incidents in Cyber-Physical Systems.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,Contextual Documentation Referencing on Stack Overflow.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Diversified Third-Party Library Prediction for Mobile App Development.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,An Empirical Study of Model-Agnostic Techniques for Defect Prediction Models.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Enabling Mutant Generation for Open- and Closed-Source Android Apps.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Studying Ad Library Integration Strategies of Top Free-to-Download Apps.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Detecting Developers' Task Switches and Types.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How Gender-Biased Tools Shape Newcomer Experiences in OSS Projects.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Managing Episodic Volunteers in Free/Libre/Open Source Software Communities.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Better Data Labelling With EMBLEM (and how that Impacts Defect Prediction).,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Output Sampling for Output Diversity in Automatic Unit Test Generation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Restore: Retrospective Fault Localization Enhancing Automated Program Repair.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Defining Smart Contract Defects on Ethereum.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Automatic Detection, Validation, and Repair of Race Conditions in Interrupt-Driven Embedded Software.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,Pegasus: Performance Engineering for Software Applications Targeting HPC Systems.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Managing Technical Debt in Database Normalization.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Reuse of Similarly Behaving Software Through Polymorphism-Inspired Variability Mechanisms.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Sentinel: A Hyper-Heuristic for the Generation of Mutant Reduction Strategies.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Gender Differences in Personality Traits of Software Engineers.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Why Do Software Developers Use Static Analysis Tools? A User-Centered Study of Developer Needs and Motivations.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Graph Based Mining of Code Change Patterns From Version Control Commits.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How Does Refactoring Impact Security When Improving Quality? A Security-Aware Refactoring Approach.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Logram: Efficient Log Parsing Using $n$n-Gram Dictionaries.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,GUI-Guided Test Script Repair for Mobile Apps.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,RefactoringMiner 2.0.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Execution of Partial State Machine Models.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Formal Verification of Masking Countermeasures for Arithmetic Programs.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Theoretical and Empirical Analyses of the Effectiveness of Metamorphic Relation Composition.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Quantifying, Characterizing, and Mitigating Flakily Covered Program Elements.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,Flexible Combinatorial Interaction Testing.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"CBUA: A Probabilistic, Predictive, and Practical Approach for Evaluating Test Suite Effectiveness.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,Efficient Execution of ATL Model Transformations Using Static Analysis and Parallelism.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Why My App Crashes? Understanding and Benchmarking Framework-Specific Exceptions of Android Apps.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Inputs From Hell.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,On How Bit-Vector Logic Can Help Verify LTL-Based Specifications.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Orderly Generation of Test Data via Sorting Mutant Branches Based on Their Dominance Degrees for Weak Mutation Testing.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Conditional Quantitative Program Analysis.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,DPWord2Vec: Better Representation of Design Patterns in Semantics.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Heuristic and Neural Network Based Prediction of Project-Specific API Member Access.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Deep Learning Based Program Generation From Requirements Text: Are We There Yet?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Clustering Crowdsourced Test Reports of Mobile Applications Using Image Understanding.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Redundancy, Context, and Preference: An Empirical Study of Duplicate Pull Requests in OSS Projects.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,Integrating an Ensemble Surrogate Model's Estimation into Test Data Generation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,What Leads to a Confirmatory or Disconfirmatory Behavior of Software Testers?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Optimization of Software Release Planning Considering Architectural Dependencies, Cost, and Value.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,CODIT: Code Editing With Tree-Based Neural Models.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Watch Out for Extrinsic Bugs! A Case Study of Their Impact in Just-In-Time Bug Prediction Models on the OpenStack Project.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Efficient Summary Reuse for Software Regression Verification.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Effectiveness of Supervised Machine Learning Algorithms in Predicting Software Refactoring.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Fast Clustering Algorithm for Modularization of Large-Scale Software Systems.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Code Review Knowledge Perception: Fusing Multi-Features for Salient-Class Location.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Predicting Defective Lines Using a Model-Agnostic Technique.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,An Empirical Study of C++ Vulnerabilities in Crowd-Sourced Code Examples.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Best Laid Plans or Lack Thereof: Security Decision-Making of Different Stakeholder Groups.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,PerfJIT: Test-Level Just-in-Time Prediction for Performance Regression Introducing Commits.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Probabilistic Preference Planning Problem for Markov Decision Processes.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Enabling Decision and Objective Space Exploration for Interactive Multi-Objective Refactoring.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Real World Scrum A Grounded Theory of Variations in Practice.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Automated Generation of Consistent Graph Models With Multiplicity Reasoning.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Comparing Block-Based Programming Models for Two-Armed Robots.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Experimental Evaluation of Test-Driven Development With Interns Working on a Real Industrial Project.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Detecting Software Security Vulnerabilities Via Requirements Dependency Analysis.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Identifying Self-Admitted Technical Debts With Jitterbug: A Two-Step Approach.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Eyes on Code: A Study on Developers' Code Navigation Strategies.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Can Clean New Code Reduce Technical Debt Density?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Survey on the Use of Computer Vision to Improve Software Engineering Tasks.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Towards Security Threats of Deep Learning Systems: A Survey.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How to Evaluate Solutions in Pareto-Based Search-Based Software Engineering: A Critical Review and Methodological Guidance.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Ranking.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Human Values in Software Engineering: Contrasting Case Studies of Practice.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,An Empirical Study of Release Note Production and Usage in Practice.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How Software Developers Mitigate Their Errors When Developing Code.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Learning From Mistakes: Machine Learning Enhanced Human Expert Effort Estimates.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Wizard of Oz Study Simulating API Usage Dialogues With a Virtual Assistant.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Software Module Clustering: An In-Depth Literature Analysis.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,XPro: A Model to Explain the Limited Adoption and Implementation of Experimentation in Software Startups.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How do Practitioners Perceive the Relevance of Requirements Engineering Research?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Control and Discovery of Environment Behaviour.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Sequential Model Optimization for Software Effort Estimation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Requirements of API Documentation: A Case Study into Computer Vision Services.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Relevance of Classic Fuzz Testing: Have We Solved This One?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Accelerating Continuous Integration by Caching Environments and Inferring Dependencies.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Method to Assess and Argue for Practical Significance in Software Engineering.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Effect of Feature Characteristics on the Performance of Feature Location Techniques.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Within-Project Defect Prediction of Infrastructure-as-Code Using Product and Process Metrics.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Effects of Human Aspects on the Requirements Engineering Process: A Systematic Literature Review.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Survey on the Adoption of Patterns for Engineering Software for the Cloud.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Enhancement of Mutation Testing via Fuzzy Clustering and Multi-Population Genetic Algorithm.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Boosting API Recommendation With Implicit Feedback.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Are You Still Working on This? An Empirical Study on Pull Request Abandonment.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,DefectChecker: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Deprecation of Packages and Releases in Software Ecosystems: A Case Study on NPM.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Codee: A Tensor Embedding Scheme for Binary Code Search.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Impact of Feature Importance Methods on the Interpretation of Defect Classifiers.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Mining Similar Methods for Test Adaptation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Breaking Type Safety in Go: An Empirical Study on the Usage of the unsafe Package.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Will Dependency Conflicts Affect My Program's Semantics?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Looking For Novelty in Search-Based Software Product Line Testing.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,CTOS: Compiler Testing for Optimization Sequences of LLVM.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Study of C/C++ Code Weaknesses on Stack Overflow.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Change-Patterns Mapping: A Boosting Way for Change Impact Analysis.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,DiffTech: Differencing Similar Technologies From Crowd-Scale Comparison Discussions.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Recommending API Function Calls and Code Snippets to Support Software Development.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Forecasting Architectural Decay From Evolutionary History.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Empirically Evaluating the Effect of the Physics of Notations on Model Construction.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Studying Duplicate Logging Statements and Their Relationships With Code Clones.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Engineering Impacts of Anonymous Author Code Review: A Field Experiment.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Defect Reduction Planning (Using TimeLIME).,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How Different is Test Case Prioritization for Open and Closed Source Projects?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Uncovering the Benefits and Challenges of Continuous Integration Practices.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Compositional Approach for Complex Event Pattern Modeling and Transformation to Colored Petri Nets with Black Sequencing Transitions.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Combinatorial Test Generation for Multiple Input Models With Shared Parameters.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Continuously Managing NFRs: Opportunities and Challenges in Practice.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Formal Equivalence Checking for Mobile Malware Detection and Family Classification.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Evaluating Automatic Program Repair Capabilities to Repair API Misuses.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Algorithmic Profiling for Real-World Complexity Problems.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,On the Untriviality of Trivial Packages: An Empirical Study of npm JavaScript Packages.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Comparing Methods for Large-Scale Agile Software Development: A Systematic Literature Review.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Magnifier: A Compositional Analysis Approach for Autonomous Traffic Control.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Improving State-of-the-Art Compression Techniques for Log Management Tools.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Active Learning of Discriminative Subgraph Patterns for API Misuse Detection.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Software Batch Testing to Save Build Test Resources and to Reduce Feedback Time.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Importance of the Correlation in Crossover Experiments.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,SQAPlanner: Generating Data-Informed Software Quality Improvement Plans.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Reinforcement Learning for Test Case Prioritization.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Software Engineering for Internet of Things: The Practitioners' Perspective.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Survey of Performance Optimization for Mobile Applications.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Automated Classification of Overfitting Patches With Statically Extracted Code Features.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Simpler Hyperparameter Optimization for Software Analytics: Why, How, When?",https://dblp.org/db/journals/tse/tse48.html
+tse,48,On the Relationship Between the Developer's Perceptible Race and Ethnicity and the Evaluation of Contributions in OSS.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Impact of Data Merging on the Interpretation of Cross-Project Just-In-Time Defect Models.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Holistic Combination of Structural and Textual Code Information for Context Based API Recommendation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Legion: Massively Composing Rankers for Improved Bug Localization at Adobe.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Systematical Study on Application Performance Management Libraries for Apps.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,SigRec: Automatic Recovery of Function Signatures in Smart Contracts.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Comparison of Natural Language Understanding Platforms for Chatbots in Software Engineering.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,On the Value of Oversampling for Deep Learning in Software Defect Prediction.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Empirical Effort and Schedule Estimation Models for Agile Processes in the US DoD.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Context-Aware Personalized Crowdtesting Task Recommendation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,An Empirical Study of Type-Related Defects in Python Projects.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,In Search of Socio-Technical Congruence: A Large-Scale Longitudinal Study.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Multi-Objective Software Effort Estimation: A Replication Study.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Interacto: A Modern User Interaction Processing Model.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Broken External Links on Stack Overflow.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Generating Unit Tests for Documentation.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Deep Learning Based Vulnerability Detection: Are We There Yet?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,The Ghost Commit Problem When Identifying Fix-Inducing Changes: An Empirical Study of Apache Projects.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Study About the Knowledge and Use of Requirements Engineering Standards in Industry.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Emotions and Perceived Productivity of Software Developers at the Workplace.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Deep Dive into the Impact of COVID-19 on Software Development.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,An Experience Report on Producing Verifiable Builds for Large-Scale Commercial Systems.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,DevOps Research-Based Teaching Using Qualitative Research and Inter-Coder Agreement.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,Assisting Example-Based API Misuse Detection via Complementary Artificial Examples.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Post2Vec: Learning Distributed Representations of Stack Overflow Posts.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,BinDiff<sub>NN</sub>: Learning Distributed Representation of Assembly for Robust Binary Diffing Against Semantic Differences.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,&#34;I just looked for the solution!&#34;On Integrating Security-Relevant Information in Non-Security API Documentation to Support Secure Coding Practices.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Trimmer: An Automated System for Configuration-Based Software Debloating.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,An Ensemble Approach for Annotating Source Code Identifiers With Part-of-Speech Tags.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,What Makes Agile Software Development Agile?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Hashing Fuzzing: Introducing Input Diversity to Improve Crash Detection.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Testing Self-Adaptive Software With Probabilistic Guarantees on Performance Metrics: Extended and Comparative Results.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Factors Affecting On-Time Delivery in Large-Scale Agile Software Development.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Automatic Fairness Testing of Neural Classifiers Through Adversarial Sampling.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Identifying Challenges for OSS Vulnerability Scanners - A Study &#38; Test Suite.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,What Drives and Sustains Self-Assignment in Agile Teams.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Enhancing Dynamic Symbolic Execution by Automatically Learning Search Heuristics.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Combining Genetic Programming and Model Checking to Generate Environment Assumptions.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Detecting the Locations and Predicting the Maintenance Costs of Compound Architectural Debts.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,LogAssist: Assisting Log Analysis Through Log Summarization.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,DevOps Team Structures: Characterization and Implications.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Faceted Taxonomy of Requirements Changes in Agile Contexts.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,X-SBR: On the Use of the History of Refactorings for Explainable Search-Based Refactoring and Intelligent Change Operators.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Modeling Functional Similarity in Source Code With Graph-Based Siamese Networks.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Dependency Smells in JavaScript Projects.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Socio-Technical Grounded Theory for Software Engineering.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Verification Approach for Refactoring Transformation Rules of State-Based Models.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Learning to Find Usages of Library Functions in Optimized Binaries.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Using Symbolic States to Infer Numerical Invariants.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Practical Mutation Testing at Scale: A view from Google.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Mutation Analysis for Cyber-Physical Systems: Scalable Solutions and Results in the Space Domain.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Pots of Gold at the End of the Rainbow: What is Success for Open Source Contributors?,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Accessible or Not? An Empirical Investigation of Android App Accessibility.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Deconstructing the Nature of Collaboration in Organizations Open Source Software Development: The Impact of Developer and Task Characteristics.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Exploring the Use of Chatrooms by Developers: An Empirical Study on Slack and Gitter.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Any-Horizon Uniform Random Sampling and Enumeration of Constrained Scenarios for Simulation-Based Formal Verification.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Analyzing Android Taint Analysis Tools: FlowDroid, Amandroid, and DroidSafe.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,"Verification of Consistency Between Process Models, Object Life Cycles, and Context-Dependent Semantic Specifications.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,${{\sf Colosseum}}$Colosseum: Regression Test Prioritization by Delta Displacement in Test Coverage.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,How Templated Requirements Specifications Inhibit Creativity in Software Engineering.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Back to the Past - Analysing Backporting Practices in Package Dependency Networks.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Variability Fault Localization Approach for Software Product Lines.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,A Theory of Pending Schemas in Combinatorial Testing.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,"The State of Serverless Applications: Collection, Characterization, and Community Consensus.",https://dblp.org/db/journals/tse/tse48.html
+tse,48,RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review.,https://dblp.org/db/journals/tse/tse48.html
+tse,48,Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems.,https://dblp.org/db/journals/tse/tse48.html

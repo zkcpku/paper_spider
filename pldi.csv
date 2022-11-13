@@ -1,0 +1,466 @@
+name,year,title,link
+pldi,2016,"Proceedings of the 37th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2016, Santa Barbara, CA, USA, June 13-17, 2016.",https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Into the depths of C: elaborating the de facto standards.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Living on the edge: rapid-toggling probes with cross-modification on x86.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Polymorphic type inference for machine code.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Data-driven precondition inference with learned features.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Cartesian hoare logic for verifying k-safety properties.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Verifying bit-manipulations of floating-point.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Coverage-directed differential testing of JVM implementations.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Exposing errors related to weak memory in GPU applications.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Lightweight computation tree tracing for lazy functional languages.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Effective padding of multidimensional arrays to avoid cache conflict misses.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,GreenWeb: language extensions for energy-efficient mobile web computing.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Input responsiveness: using canary inputs to dynamically steer approximation.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Configuration synthesis for programmable analog devices with Arco.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,From Datalog to flix: a declarative language for fixed points on lattices.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,"Latte: a language, compiler, and runtime for elegant and efficient deep neural networks.",https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,On the complexity and performance of parsing with derivatives.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Stratified synthesis: automatically learning the x86-64 instruction set.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Remix: online detection and repair of cache contention for the JVM.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Statistical similarity of binaries.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Accepting blame for safe tunneled exceptions.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Occurrence typing modulo theories.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Refinement types for TypeScript.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,MapReduce program synthesis.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,"Programmatic and direct manipulation, together at last.",https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Fast synthesis of fast collections.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Event-driven network programming.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Temporal NetKAT.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,SDNRacer: concurrency analysis for software-defined networks.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Rehearsal: a configuration verification tool for puppet.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Toward compositional verification of interruptible OS kernels and device drivers.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Verified peephole optimizations for CompCert.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Just-in-time static type checking for dynamic languages.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Types from data: making structured data first-class citizens in F#.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Automatically learning shape specifications.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Synthesizing transformations on hierarchically structured data.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Program synthesis from polymorphic refinement types.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Higher-order and tuple-based massively-parallel prefix sums.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,A distributed OpenCL framework using redundant computation and data replication.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Idle time garbage collection scheduling.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Assessing the limits of program-specific garbage collection performance.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Cardinalities and universal quantifiers for verifying parameterized systems.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Ivy: safety verification by interactive generalization.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,"Precise, dynamic information flow for database-backed applications.",https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,End-to-end verification of information-flow security for C and assembly programs.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,A design and verification methodology for secure isolated regions.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Transactional data structure libraries.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,FlexVec: auto-vectorization for irregular loops.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Verified lifting of stencil computations.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2017,"Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2017, Barcelona, Spain, June 18-23, 2017.",https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Cache locality optimization for recursive programs.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Fusing effectful comprehensions.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Generalizations of the theory and deployment of triangular inequality for compiler-based strength reduction.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Alive-Infer: data-driven precondition inference for peephole optimizations in LLVM.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,DemoMatch: API discovery from demonstrations.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Similarity of binaries through re-optimization.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Synthesizing program input grammars.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Compiling Markov chain Monte Carlo algorithms for probabilistic modeling.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,BARRACUDA: binary-level analysis of runtime RAces in CUDA programs.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,BigFoot: static check placement for dynamic race detection.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Dynamic race prediction in linear time.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Systematic black-box analysis of collaborative web applications.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Bringing the web up to speed with WebAssembly.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Miniphases: compilation using modular and efficient tree transformations.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Proactive and adaptive energy-aware programming with mixed typechecking.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,"Simple, fast, and safe manual memory management.",https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Compositional recurrence analysis revisited.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Context transformations for pointer analysis.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Efficient and precise points-to analysis: modeling the heap by merging equivalent automata.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Static deadlock detection for asynchronous C# programs.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Achieving high coverage for floating-point code via unconstrained programming.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Instruction punning: lightweight instrumentation for x86-64.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Low overhead dynamic binary translation on ARM.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Skeletal program enumeration for rigorous compiler testing.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Decomposition instead of self-composition for proving the absence of timing channels.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Automatic program inversion using symbolic transducers.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Control-flow recovery from partial failure reports.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Rigorous analysis of software countermeasures against cache attacks.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Component-based synthesis of table consolidation and transformation tasks from examples.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Network configuration synthesis with abstract topologies.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Synthesizing highly expressive SQL queries from input-output examples.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Synthesizing memory models from framework sketches and Litmus tests.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Compiling without continuations.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,FunTAL: reasonably mixing a functional language with assembly.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,HoTTSQL: proving query rewrites with univalent SQL semantics.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Levity polymorphism.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Synthesis of divide and conquer parallelism for loops.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Futhark: purely functional GPU-programming with nested parallelism and in-place array updates.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Gradual synthesis for static parallelization of single-pass array-processing programs.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,A formally verified compiler for Lustre.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Flatten and conquer: a framework for efficient analysis of string constraints.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Repairing sequential consistency in C/C++11.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Taming undefined behavior in LLVM.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,"Low-synchronization, mostly lock-free, elastic scheduling for streaming runtimes.",https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Practical partial evaluation for high-performance dynamic language runtimes.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Responsive parallel computation: bridging competitive and cooperative threading.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,StreamQRE: modular specification and efficient evaluation of quantitative queries over streaming data.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2018,"Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2018, Philadelphia, PA, USA, June 18-22, 2018.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Verifying that web pages have accessible layout.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,BLeak: automatically debugging memory leaks in web applications.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Putting in all the stops: execution control for JavaScript.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Persistency for synchronization-free regions.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Write-rationing garbage collection for hybrid memories.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Mapping spiking neural networks onto a manycore neuromorphic architecture.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Static serializability analysis for causal consistency.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,CUBA: interprocedural Context-UnBounded Analysis of concurrent programs.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Symbolic reasoning for automatic signal placement.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Advanced automata-based algorithms for program termination checking.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,"HHVM JIT: a profile-guided, region-based compiler for PHP and Hack.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,"On-stack replacement, distilled.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,EffectiveSan: type and memory error detection using dynamically typed C/C++.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Calling-to-reference context translation via constraint-guided CFL-reachability.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,"The semantics of transactions and weak memory in x86, Power, ARM, and C++.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,MixT: a language for mixing consistency in geodistributed transactions.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Bounding data races in space and time.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Finding root causes of floating point error.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Ry&#363;: fast float-to-string conversion.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,To-many or to-one? all-in-one! efficient purely functional multi-maps with type-heterogeneous hash-tries.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Spatial: a language and compiler for application accelerators.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Enhancing computation-to-core assignment with physical location information.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,"SWOOP: software-hardware co-design for non-speculative, execute-ahead, in-order cores.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,iReplayer: in-situ and identical record-and-replay for multithreaded applications.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,D4: fast concurrency debugging with parallel differential analysis.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,"High-coverage, unbounded sound predictive race detection.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,CURD: a dynamic CUDA race detector.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,A general path-based representation for predicting program properties.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Program synthesis using conflict-driven learning.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Accelerating search-based program synthesis using learned probabilistic models.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Inferring crypto API rules from code changes.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Automated clustering and program repair for introductory programming assignments.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,"Search, align, and repair: data-driven feedback generation for introductory programming exercises.",https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Bounded expectations: resource analysis for probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,PMAF: an algebraic framework for static analysis of probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Polyhedral auto-transformation with no integer linear programming.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Partial control-flow linearization.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Locality analysis through static parallel sampling.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Incremental inference for probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Bayonet: probabilistic inference for networks.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Probabilistic programming with programmable inference.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,VeriPhy: verified controller executables from verified cyber-physical system models.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Crellvm: verified credible compilation for LLVM.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Certified concurrent abstraction layers.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Modularity for decidability of deductive verification with applications to distributed systems.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Active learning of points-to specifications.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Pinpoint: fast and precise sparse value flow analysis for million lines of code.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,A data-driven CHC solver.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,User-guided program reasoning using Bayesian inference.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,GPU code optimization using abstract kernel emulation and sensitivity analysis.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Gluon: a communication-optimizing substrate for distributed heterogeneous graph analytics.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Heartbeat scheduling: provable efficiency for nested parallelism.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Guarded impredicative polymorphism.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Typed closure conversion for the calculus of constructions.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Inferring type rules for syntactic sugar.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2019,"Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June 22-26, 2019.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Promising-ARM/RISC-V: a simpler and faster operational concurrency model.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Accelerating sequential consistency for Java with speculative compilation.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Renaissance: benchmarking suite for parallel applications on the JVM.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,LoCal: a language for programs operating on serialized data.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Scenic: a language for scenario specification and scene generation.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Compiling KB-sized machine learning models to tiny IoT devices.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Model checking for weakly consistent libraries.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Towards certified separate compilation for concurrent programs.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Robustness against release/acquire semantics.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,CHET: an optimizing compiler for fully-homomorphic neural-network inferencing.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,"Usuba: high-throughput and constant-time ciphers, by construction.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,FaCT: a DSL for timing-sensitive computation.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Scalable verification of probabilistic networks.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Cost analysis of nondeterministic probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Gen: a general-purpose probabilistic programming system with programmable inference.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Incremental precision-preserving symbolic inference for probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Resource-guided program synthesis.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Using active learning to synthesize models of applications that access databases.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Synthesizing database programs for schema refactoring.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Synthesis and machine learning for heterogeneous extraction.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,AutoPersist: an easy-to-use Java NVM framework based on reachability.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Mesh: compacting memory management for C/C++ applications.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Panthera: holistic memory management for big data processing over hybrid memories.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Lightweight multi-language syntax transformation with parser parser combinators.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,"A typed, algebraic approach to parsing.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Genie: a generator of natural language semantic parsers for virtual assistant commands.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Lazy counterfactual symbolic execution.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Sound regular expression semantics for dynamic symbolic execution of JavaScript.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Effective floating-point analysis via weak-distance minimization.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Huron: hybrid false sharing detection and repair.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Model-driven transformations for multi- and many-core CPUs.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Parallelism-centric what-if and differential analyses.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Verifying message-passing programs with dependent behavioural types.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Toward efficient gradual typing for structural types via coercions.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Bidirectional type checking for relational properties.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Parser-directed fuzzing.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Continuously reasoning about programs using differential Bayesian inference.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Sparse record and replay with controlled scheduling.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Sparse computation data dependence simplification for efficient compiler-generated inspectors.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Modular divide-and-conquer parallelization of nested loops.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Generating piecewise-regular code from irregular structures.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,"ILC: a calculus for composable, computational cryptography.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Proving differential privacy with shadow execution.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Data-trace types for distributed stream processing systems.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,An inductive synthesis framework for verifiable reinforcement learning.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Programming support for autonomizing software.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Wootz: a compiler-based framework for fast CNN pruning via composability.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Optimization and abstraction: a synergistic approach for analyzing neural network robustness.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Unsupervised learning of API aliasing specifications.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Scalable taint specification inference with big code.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Learning stateful preconditions modulo a test generator.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,SLING: using dynamic analysis to infer program invariants in separation logic.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Abstract interpretation under speculative execution.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,A fast analytical model of fully associative caches.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,"Sound, fine-grained traversal fusion for heterogeneous trees.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Size-change termination as a contract: dynamically and statically enforcing termination for higher-order programs.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,SemCluster: clustering of imperative programming assignments based on quantitative semantic features.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Computing summaries of string loops in C for better testing and refactoring.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Reusable inline caching for JavaScript performance.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,"Composable, sound transformations of nested recursion and loops.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Low-latency graph streaming using compressed purely-functional trees.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Co-optimizing memory-level parallelism and cache-level parallelism.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Characterising renaming within OCaml's module system: theory and implementation.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Type-level computations for Ruby libraries.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Replication-aware linearizability.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,DFix: automatically fixing timing bugs in distributed systems.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Ignis: scaling distribution-oblivious systems with light-touch distribution.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Semantic program alignment for equivalence checking.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Verified compilation on a verified processor.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Argosy: verifying layered storage systems with recovery refinement.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Simple and precise static analysis of untrusted Linux kernel extensions.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,"Transactional concurrency control for intermittent, energy-harvesting computing systems.",https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Supporting peripherals in intermittent systems with just-in-time checkpoints.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Verification of programs under the release-acquire semantics.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,A complete formal semantics of x86-64 user-level instruction set architecture.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,An applied quantum Hoare logic.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2020,"Proceedings of the 41st ACM SIGPLAN International Conference on Programming Language Design and Implementation, PLDI 2020, London, UK, June 15-20, 2020.",https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Data-driven inference of representation invariants.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Type error feedback via analytic program repair.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Synthesizing structured CAD models with equality saturation and inverse transformations.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Compiler and runtime support for continuation marks.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,"Crafty: efficient, HTM-compatible persistent transactions.",https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,From folklore to fact: comparing implementations of stacks and continuations.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Typilus: neural type hints.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Learning nonlinear loop invariants with gated continuous logic networks.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,"Blended, precise semantic program embeddings.",https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Towards a verified range analysis for JavaScript JITs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Binary rewriting without control flow recovery.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,BlankIt library debloating: getting what you want instead of cutting what you don't.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Verifying concurrent search structure templates.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Armada: low-effort verification of high-performance concurrent programs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Decidable verification under a causally consistent shared memory.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Inductive sequentialization of asynchronous programs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,The essence of Bluespec: a core language for rule-based hardware design.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,LLHD: a multi-level intermediate representation for hardware description languages.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,On the principles of differentiable quantum programming languages.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Silq: a high-level quantum language with safe uncomputation and intuitive semantics.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Improving program locality in the GC using hotness.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,A marriage of pointer- and epoch-based reclamation.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,CARAT: a case for virtual memory through compiler- and runtime-based address translation.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Repairing and mechanising the JavaScript relaxed memory model.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Promising 2.0: global optimizations in relaxed memory concurrency.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,"NVTraverse: in NVRAM data structures, the destination is more important than the journey.",https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Predictable accelerator design with time-sensitive affine types.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Type-directed scheduling of streaming accelerators.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,FreezeML: complete and easy type inference for first-class polymorphism.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Securing smart contract with runtime validation.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Ethainter: a smart contract security analyzer for composite vulnerabilities.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Behavioral simulation for smart contracts.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Multi-modal synthesis of regular expressions.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Optimizing homomorphic evaluation circuits by program synthesis and term rewriting.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,CacheQuery: learning replacement policies from hardware caches.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,HipHop.js: (A)Synchronous reactive web programming.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,EVA: an encrypted vector arithmetic language and compiler for efficient homomorphic computation.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Towards an API for the real numbers.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Responsive parallelism with futures and state.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,SympleGraph: distributed graph processing with precise loop-carried dependency guarantee.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,PMEvo: portable inference of port mappings for out-of-order processors by evolutionary optimization.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,PMThreads: persistent memory threads harnessing versioned shadow copies.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,SCAF: a speculation-aware collaborative dependence analysis framework.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Scalable validation of binary lifters.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Polynomial invariant generation for non-deterministic recursive programs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Templates and recurrences: better together.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,First-order quantified separators.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Validating SMT solvers via semantic fusion.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Debugging and detecting numerical errors in computation with posits.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,SmartTrack: efficient predictive race detection.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Understanding memory and thread safety practices and issues in real-world Rust programs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Fast graph simplification for interleaved Dyck-reachability.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,"Static analysis of Java enterprise applications: frameworks and caches, the elephants in the room.",https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Automated derivation of parametric data movement lower bounds for affine programs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Automatic generation of efficient sparse tensor format conversion routines.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,OOElala: order-of-evaluation based alias analysis for compiler optimization.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Effective function merging in the SSA form.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Proving almost-sure termination by omega-regular decomposition.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,&#955;PSI: exact inference for higher-order probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Reactive probabilistic programming.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Constant-time foundations for the new spectre era.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,"Gillian, part i: a multi-language platform for symbolic execution.",https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Efficient handling of string-number conversion.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,NV: an intermediate language for verification of network control planes.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Detecting network load violations for distributed control planes.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Compiler-directed soft error resilience for lightweight GPU register file protection.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Adaptive low-overhead scheduling for periodic and reactive intermittent execution.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Faster general parsing through context-free memoization.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Zippy LL(1) parsing with derivatives.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Debug information validation for optimized code.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Semantic code search via equational reasoning.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Proving data-poisoning robustness in decision trees.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,A study of the learnability of relational properties: model counting meets machine learning (MCML).,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Learning fast and precise numerical analysis.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Exact and approximate methods for proving unrealizability of syntax-guided synthesis problems.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Question selection for interactive program synthesis.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Reconciling enumerative and deductive program synthesis.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2021,"PLDI '21: 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, Virtual Event, Canada, June 20-25, 2021.",https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Incremental whole-program analysis in Datalog with lattices.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Repairing serializability bugs in distributed database programs via automated schema refactoring.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Gleipnir: toward practical error analysis for Quantum programs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Alive2: bounded translation validation for LLVM.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Transfinite Iris: resolving an existential dilemma of step-indexed separation logic.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Perceus: garbage free reference counting with reuse.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Proof repair across type equivalences.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Compiler-assisted object inlining with value fields.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Unleashing the hidden power of compiler optimization on binary code difference: an empirical study.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,RefinedC: automating the foundational verification of C code with refined ownership types.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Wire sorts: a language abstraction for safe hardware composition.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,DeepCuts: a deep learning optimization framework for versatile GPU workloads.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Retrofitting effect handlers onto OCaml.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Unqomp: synthesizing uncomputation in Quantum circuits.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Zooid: a DSL for certified multiparty computation: from mechanised metatheory to certified multiparty processes.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Fluid: a framework for approximate concurrency via controlled dependency relaxation.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Developer and user-transparent compiler optimization for interactive applications.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Demanded abstract interpretation.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Learning to find naming issues with big code and small supervision.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,DIY assistant: a multi-modal end-user programmable virtual assistant.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Web question answering with neurosymbolic program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,RbSyn: type- and effect-guided program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,High performance correctly rounded math libraries for 32-bit floating point representations.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Porcupine: a synthesizing compiler for vectorized homomorphic encryption.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Concolic program repair.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,"Concise, type-safe, and efficient structural diffing.",https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,CoStar: a verified ALL(*) parser.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Automated conformance testing for JavaScript engines via deep compiler fuzzing.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Beyond the elementary representations of program invariants over algebraic data types.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Fast and precise certification of transformers.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Trace-based control-flow analysis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Filling typed holes with live GUIs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Concurrent deferred reference counting with constant-time overhead.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Quantum abstract interpretation.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Central moment analysis for cost accumulators in probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Synthesizing data structure refinements from integrity constraints.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Provable repair of deep neural networks.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Integration verification across software and hardware for a simple embedded system.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Symbolic Boolean derivatives for efficiently solving extended regular expression constraints.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Abstraction for conflict-free replicated data types.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Boosting SMT solver performance on mixed-bitwise-arithmetic expressions.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Distance-in-time versus distance-in-space.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,An efficient interpreter for Datalog by de-specializing relations.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Adaptive restarts for stochastic synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Scooter &#38; Sidecar: a domain-specific approach to writing secure database migrations.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,When threads meet events: efficient and precise static race detection with origins.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,"Viaduct: an extensible, optimizing compiler for secure distributed programs.",https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Reticle: a virtual machine for programming modern FPGAs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Polynomial reachability witnesses via Stellens&#228;tze.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Sound probabilistic inference via guide types.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,SPPL: probabilistic programming with fast exact symbolic inference.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Reverse engineering for reduction parallelization via semiring polynomials.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Automatically enforcing fresh and consistent inputs in intermittent systems.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Modular data-race-freedom guarantees in the promising semantics.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,DNNFusion: accelerating deep neural networks execution with advanced operator fusion.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,SyRust: automatic testing of Rust libraries with semantic-aware program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Path-sensitive sparse analysis without path conditions.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Cyclic program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Hashing modulo alpha-equivalence.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Phased synthesis of divide and conquer programs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,"Snapshot-free, transparent, and robust memory reclamation for lock-free data structures.",https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Logical bytecode reduction.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Test-case reduction and deduplication almost for free with transformation-based compiler testing.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Proving non-termination by program reversal.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Vectorized secure evaluation of decision forests.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Task parallel assembly language for uncompromising parallelism.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,JPortal: precise and efficient control-flow tracing for JVM programs with Intel processor trace.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,CompCertO: compiling certified open C components.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Example-guided synthesis of relational queries.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Canary: practical static detection of inter-thread value-flow bugs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Robustness certification with generative models.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Execution reconstruction: harnessing failure reoccurrences for failure reproduction.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Quantitative analysis of assertion violations in probabilistic programs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,IOOpt: automatic derivation of I/O complexity bounds for affine programs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Specification synthesis with constrained Horn clauses.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Mirror: making lock-free data structures persistent.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,AKG: automatic kernel generation for neural processing units using polyhedral transformations.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,"Frequent background polling on a shared thread, using light-weight compiler interrupts.",https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Satisfiability modulo ordering consistency theory for multi-threaded program verification.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Termination analysis without the tears.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,On probabilistic termination of functional programs with continuous distributions.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Practical smart contract sharding with ownership and commutativity analysis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2022,"PLDI '22: 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, San Diego, CA, USA, June 13 - 17, 2022.",https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Modular information flow through ownership.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,ANOSY: approximated knowledge synthesis with refinement types for declassification.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Hardening attack surfaces with formally proven binary format parsers.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,P4BID: information flow control in p4.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Turning manual concurrent memory reclamation into automatic reference counting.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,"Low-latency, high-throughput garbage collection.",https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,"Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters.",https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,PaC-trees: supporting parallel and compressed purely-functional collections.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Type-directed program synthesis for RESTful APIs.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Visualization question answering using introspective program synthesis.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,WebRobot: web robotic process automation using interactive programming-by-demonstration.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Synthesizing analytical SQL queries from computation demonstration.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Finding typing compiler bugs.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,IRDL: an IR definition language for SSA compilers.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Sequential reasoning for optimizing compilers under weak memory concurrency.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Can reactive synthesis and syntax-guided synthesis be friends?,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Recursion synthesis with unrealizability witnesses.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,&#34;Synthesizing input grammars&#34;: a replication study.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Autoscheduling for sparse tensor algebra with an asymptotic cost model.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,DISTAL: the distributed tensor algebra compiler.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,All you need is superword-level parallelism: systematic control-flow vectorization with SLP.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Warping cache simulation of polyhedral programs.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Certified mergeable replicated data types.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Hamband: RDMA replicated data types.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,RunTime-assisted convergence in replicated data types.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Adore: atomic distributed objects with certified reconfiguration.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,CycleQ: an efficient basis for cyclic equational reasoning.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Finding the dwarf: recovering precise types from WebAssembly binaries.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Abstract interpretation repair.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Differential cost analysis with simultaneous potentials and anti-potentials.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,A flexible type system for fearless concurrency.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,A study of real-world data races in Golang.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Checking robustness to weak persistency models.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Sound sequentialization for concurrent program verification.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Choosing mathematical function implementations for speed and accuracy.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Guaranteed bounds for posterior inference in universal probabilistic programming.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Progressive polynomial approximations for fast correctly rounded math libraries.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,A typed continuation-passing translation for lexical effect handlers.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Deep and shallow types for gradual languages.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Kleene algebra modulo theories: a framework for concrete KATs.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Semantic soundness for language interoperability.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Quartz: superoptimization of Quantum circuits.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Giallar: push-button verification for the qiskit Quantum compiler.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,PyLSE: a pulse-transfer level language for superconductor electronics.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Bind the gap: compiling real software to hardware FFT accelerators.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Exocompilation for productive programming of hardware accelerators.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,PDL: a high-level hardware design language for pipelined processors.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Software-hardware codesign for efficient in-memory regular pattern matching.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Deoptless: speculation with dispatched on-stack replacement and specialized continuations.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Karp: a language for NP reductions.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,WARio: efficient code generation for intermittent computing.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Compass: strong and compositional library specifications in relaxed memory separation logic.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Diaframe: automated verification of fine-grained concurrent programs in Iris.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Islaris: verification of machine code against authoritative ISA semantics.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Efficient approximations for cache-conscious data placement.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Lasagne: a static binary translator for weak memory model architectures.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Verifying optimizations of concurrent programs in the promising semantics.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Formally verified lifting of C-compiled x86-64 binaries.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Leapfrog: certified equivalence for protocol parsers.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Computing correctly with inductive relations.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Interpreter-guided differential JIT compiler unit testing.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Landmarks and regions: a robust approach to data extraction.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Odin: on-demand instrumentation with on-the-fly recompilation.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Quickstrom: property-based acceptance testing with LTL specifications.,https://dblp.org/db/conf/pldi/pldi2022.html

@@ -1,0 +1,1092 @@
+name,year,title,link
+fse,2016,"Proceedings of the 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering, FSE 2016, Seattle, WA, USA, November 13-18, 2016.",https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,&#34;Womenomics&#34; and gender-inclusive software: what software engineers need to know (invited talk).,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Building a socio-technical theory of coordination: why and how (outstanding research award).,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Correct or usable? the limits of traditional verification (impact paper award).,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Continuous deployment of mobile software at facebook (showcase).,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,"Model, execute, and deploy: answering the hard questions in end-user programming (showcase).",https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Making invisible things visible: tracking down known vulnerabilities at 3000 companies (showcase).,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Developer workflow at google (showcase).,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Titanium: efficient analysis of evolving alloy specifications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Mining performance specifications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Designing minimal effective normative systems with the help of lightweight formal methods.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Proteus: computing disjunctive loop summary via path dependency analysis.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,A cross-tool communication study on program analysis tool notifications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Factors influencing code review processes in industry.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,"Foraging and navigations, fundamentally: developers' predictions of value and cost.",https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,How to break an API: cost negotiation and community values in three software ecosystems.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Python predictive analysis for bug detection.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Crash consistency validation made easy.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Discovering bug patterns in JavaScript.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Detecting sensitive data disclosure via bi-directional text correlation analysis.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Multi-representational security analysis.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,String analysis for side channels with segmented oracles.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,WebRanz: web page randomization for better advertisement delivery and web-bot prevention.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,A discrete-time feedback controller for containerized cloud applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Keep it SIMPLEX: satisfying multiple goals with guarantees in control-based self-adaptive systems.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Automated change impact analysis between SysML models of requirements and design.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Parameter-free probabilistic API mining across GitHub.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,API deprecation: a retrospective analysis and detection method for code examples on the web.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,When should internal interfaces be promoted to public?,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,POLLUX: safely upgrading dependent application libraries.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Extracting instruction semantics via symbolic execution of code generators.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Efficient generation of inductive validity cores for safety properties.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Correctness witnesses: exchanging verification results between verifiers.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,SMT-based verification of parameterized systems.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,On-the-fly decomposition of specifications in software model checking.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,On well-separation of GR(1) specifications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Lightweight specification and analysis of dynamic systems with rich configurations.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Gray links in the use of requirements traceability.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Understanding and detecting wake lock misuses for Android applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,DiagDroid: Android performance diagnosis via anatomizing asynchronous executions.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Minimizing GUI event traces.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Causal impact analysis for app releases in google play.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Static DOM event dependency analysis for testing web applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,On-demand strong update analysis via value-flow refinement.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Call graph construction for Java libraries.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Revamping JavaScript static analysis via localization and remediation of root causes of imprecision.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,What would users change in my app? summarizing app reviews for recommending software changes.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,API code recommendation using statistical learning from fine-grained changes.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,TIPMerge: recommending experts for integrating changes across branches.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Interactive and guided architectural refactoring with search-based recommendation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Can testedness be effectively measured?,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,A large-scale empirical comparison of static and dynamic test case prioritization techniques.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Analyzing the validity of selective mutation with dominator mutants.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,An extensive study of static regression test selection in modern software evolution.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,PerfGuard: binary-centric application performance monitoring in production environments.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Python probabilistic type inference with natural language support.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Detecting and fixing precision-specific operations for measuring floating-point errors.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Deep API learning.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Build system with lazy retrieval for Java projects.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,iGen: dynamic interaction inference for configurable software.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,CacheOptimizer: helping developers configure caching frameworks for hibernate-based database-centric web applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,BinGo: cross-architecture cross-OS binary search.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Relationship-aware code search for JavaScript frameworks.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Code relatives: detecting similarly behaving software.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Understanding and generating high quality patches for concurrency bugs.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Anti-patterns in search-based program repair.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Semi-supervised verified feedback generation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,WATERFALL: an incremental approach for repairing record-replay tests of web applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Efficiency of projectional editing: a controlled experiment.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,ECHO: instantaneous in situ race detection in the IDE.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Detecting table clones and smells in spreadsheets.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Flow-sensitive composition of thread-modular abstract interpretation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,A deployable sampling strategy for data race detection.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Online shared memory dependence reduction via bisectional coordination.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Parallel data race detection for task parallel programs with locks.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Paradise unplugged: identifying barriers for female participation on stack overflow.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Why we refactor? confessions of GitHub contributors.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Effectiveness of code contribution: from patch-based to pull-request-based tools.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Isomorphic regression testing: executing uncovered branches without test augmentation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Directed test generation to detect loop inefficiencies.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Field-exhaustive testing.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Sustainable software design.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Designing for dystopia: software engineering research for the post-apocalypse.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Disrupting developer productivity one bot at a time.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Training the future workforce through task curation in an OSS ecosystem.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Reaching the masses: a new subdiscipline of app programmer education.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Studying developer gaze to empower software engineering research and practice.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,DeepSoft: a vision for a deep model of software.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Budgeted testing through an algorithmic lens.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Reasoning with imprecise privacy preferences.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Bing developer assistant: improving developer productivity by recommending sample code.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Cluster-based test suite functional analysis.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,A portable interface for runtime energy monitoring.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Learning for test prioritization: an industrial case study.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Combinatorial generation of structurally complex test inputs for commercial software applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Automated test input generation for Android: are we really there yet in an industrial case?,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,NonDex: a tool for detecting and debugging wrong assumptions on Java API specifications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,TIPMerge: recommending developers for merging branches.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Time-travel debugging for JavaScript/Node.js.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,PUMConf: a tool to configure product specific use case and domain models in a product line.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,T2API: synthesizing API code usage templates from English texts with statistical translation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,JBSE: a symbolic executor for Java programs with complex heap inputs.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,ARdoc: app reviews development oriented classifier.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Hunter: next-generation code reuse for Java.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,BigDebug: interactive debugger for big data analytics in Apache Spark.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Visualizing code and coverage changes for code review.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,End-to-end memory behavior profiling with DINAMITE.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Validate your SPDX files for open source license violations.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,FSX: a tool for fine-grained incremental unit test generation for C/C++ programs.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Refactoring and migration of cascading style sheets: towards optimization and improved maintainability.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Developing a reusable control-based approach to build self-adaptive software systems with formal guarantees.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Automating repetitive code changes using examples.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Understanding and improving continuous integration.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Guided code synthesis using deep neural networks.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Generating interactive web pages from storyboards.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Data structure synthesis.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Understanding behavioural patterns in JavaScript.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Regression testing of web applications using Record/Replay tools.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Supporting change in product lines within the context of use case-driven development and testing.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Input-sensitive performance testing.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,On the utility of dominator mutants for mutation testing.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Effective assignment and assistance to software developers and reviewers.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,RABIEF: range analysis based integer error fixing.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Fine-grained binary code authorship identification.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Identifying participants for collaborative merge.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Cozy: synthesizing collection data structures.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Constraint-based event trace reduction.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Automatic trigger generation for end user written rules for home automation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Hotspot symbolic execution of floating-point programs.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Evaluation of fault localization techniques.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,How should static analysis tools explain anomalies to developers?,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Repairing test dependence.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Combining bug detection and test case generation.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,SmartDebug: an interactive debug assistant for Java.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Static loop analysis and its applications.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Social health cues developers use when choosing open source packages.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Finding and breaking test dependencies to speed up test execution.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Automatic performance testing using input-sensitive profiling.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Enforcing correct array indexes with a type system.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Discovering additional violations of Java API invariants.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Preventing signedness errors in numerical computations in Java.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Bounded model checking of state-space digital systems: the impact of finite word-length effects on the implementation of fixed-point digital controllers based on state-space modeling.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,"Atlas: an intelligent, performant framework for web-based grid computing.",https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2017,"Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017, Paderborn, Germany, September 4-8, 2017.",https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,The rising tide lifts all boats: the advancement of science in cyber security (invited talk).,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Verifying the forecast: how climate models are developed and tested (invited talk).,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Software engineering research results in industrial practice: a tale of two projects (invited talk).,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Reflections on the REST architectural style and &#34;principled design of the modern web architecture&#34; (impact paper award).,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,A fast causal profiler for task parallel programs.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,On the scalability of Linux kernel maintainers' work.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Modeling and verification of evolving cyber-physical spaces.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Easy over hard: a case study on deep learning.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Finding near-optimal configurations in product lines by random sampling.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Revisiting unsupervised learning for defect prediction.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Loopster: static loop termination analysis.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,CodeCarbonCopy.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,The power of &#34;why&#34; and &#34;why not&#34;: enriching scenario exploration with provenance.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Where is the bug and how is it fixed? an experiment with practitioners.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Understanding misunderstandings in source code.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Measuring neural efficiency of program comprehension.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Bayesian specification learning for finding API usage errors.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Synergistic debug-repair of heap manipulations.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Failure-directed program trimming.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Why modern open source projects fail.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,"Trade-offs in continuous integration: assurance, security, and flexibility.",https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,&#181;Droid: an energy-aware mutation testing framework for Android.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,PATDroid: permission-aware GUI testing of Android.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Enabling mutation testing for Android apps.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,"Guided, stochastic model-based GUI testing of Android apps.",https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Using bad learners to find good configurations.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Attributed variability models: outside the comfort zone.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Kmax: finding all configurations of Kbuild makefiles statically.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Is there a mismatch between real-world feature models and product-line research?,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Adaptively generating high quality fixes for atomicity violations.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,AtexRace: across thread and execution sampling for in-house race detection.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Symbolic execution of programmable logic controller code.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Thread-modular static analysis for relaxed memory models.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,ARTINALI: dynamic invariant detection for cyber-physical system security.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,A symbolic justice violations transition system for unrealizable GR(1) specifications.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automated control of multiple software goals using multiple actuators.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Why do developers use trivial packages? an empirical case study on npm.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Detecting missing information in bug descriptions.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Continuous variable-specific resolutions of feature interactions.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,"Model-level, platform-independent debugging in the context of the model-driven development of real-time systems.",https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Cooperative kernels: GPU multitasking for blocking algorithms.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Toward full elasticity in distributed static analysis: the case of callgraph analysis.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Probabilistic model checking of perturbed MDPs with applications to cloud computing.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Understanding the impact of refactoring on smells: a longitudinal study of 23 software projects.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Cimplifier: automatically debloating containers.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Craig vs. Newton in software model checking.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Fairness testing: testing software for discrimination.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,The care and feeding of wild-caught mutants.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,QTEP: quality-aware test case prioritization.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Constraint normalization and parameterized caching for quantitative program analysis.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Generalized observational slicing for tree-represented modelling languages.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,On evidence preservation requirements for forensic-ready systems.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,BDCI: behavioral driven conflict identification.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,NoFAQ: synthesizing command repairs from examples.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,S3: syntax- and semantic-guided repair synthesis via programming by examples.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Counterexample-guided approach to finding numerical invariants.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Discovering relational specifications.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Steelix: program-state based binary fuzzing.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,CodeMatch: obfuscation won't conceal your repackaged app.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,A compiler and verifier for page access oblivious computation.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automatic generation of inter-component communication exploits for Android applications.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,OASIS: prioritizing static analysis warnings for Android apps based on app user reviews.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,"Recovering clear, natural identifiers from obfuscated JS names.",https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,DESCRY: reproducing system-level concurrency failures.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Reproducing concurrency failures from crash stacks.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automatically analyzing groups of crashes for finding correlations.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automatic inference of code transforms for patch generation.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,A feasibility study of using automated program repair for introductory programming assignments.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automatically diagnosing and repairing error handling bugs in C.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Are deep neural networks the best choice for modeling source code?,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Understanding the impact of support for iteration on code search.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,LAMP: data provenance for graph based machine learning algorithms through derivative computation.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,More accurate recommendations for method-level changes.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Regression test selection across JVM boundaries.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Measuring the cost of regression testing in practice: a study of Java projects using continuous integration.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Better test cases for better automated program repair.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,When program analysis meets mobile security: an industrial study of misusing Android internet sockets.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,File-level vs. module-level regression test selection for .NET.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Record and replay for Android: are we there yet in industrial cases?,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Model-driven software engineering in practice: privacy-enhanced filtering of network traffic.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Strong agile metrics: mining log data to determine predictive power of software metrics for continuous delivery teams.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Screening heuristics for project gating systems.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Natural language querying in SAP-ERP platform.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Serverless computing: economic and architectural impact.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,What do software engineers care about? gaps between research and practice.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Reference architectures and Scrum: friends or foes?,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Guidelines for adopting frontend architectures and patterns in microservices-based systems.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Improving understanding of dynamically typed software developed by agile practitioners.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automated identification of security issues from commit messages and bug reports.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,LaChouTi: kernel vulnerability responding framework for the fragmented Android devices.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Applying deep learning based automatic bug triager to industrial projects.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Static analysis for optimizing big data queries.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automated testing of hybrid Simulink/Stateflow controllers: industrial case studies.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,QEMU-based framework for non-intrusive virtual machine instrumentation and introspection.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,RunDroid: recovering execution call graphs for Android applications.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,RGSE: a regular property guided symbolic executor for Java.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,A tool for automated reasoning about traces based on configurable formal semantics.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,VART: a tool for the automatic detection of regression faults.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,DynAlloy analyzer: a tool for the specification and analysis of alloy models with dynamic behaviour.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,From scenario modeling to scenario programming for reactive systems with dynamic topology.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,CLTSA: labelled transition system analyser with counting fluent support.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,The MONDO collaboration framework: secure collaborative modeling over existing version control systems.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Model-based privacy and security analysis with CARiSMA.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,"Cherry-picking of code commits in long-running, multi-release software.",https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,ARCC: assistant for repetitive code comprehension.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,JoanAudit: a tool for auditing common injection vulnerabilities.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,XSearch: a domain-specific cross-language relevant question retrieval tool.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Using search-based software engineering to handle the changes with uncertainties for self-adaptive systems.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,DRACO: discovering refactorings that improve architecture using fine-grained co-change dependencies.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,User- and analysis-driven context aware software development in mobile computing.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Recommender system for model driven software development.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,On the similarity of software development documentation.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Application of search-based software engineering methodologies for test suite optimization and evolution in mission critical mobile application development.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Summarizing software engineering communication artifacts from different sources.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Model-based dynamic software project scheduling.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,System performance optimization via design and configuration space exploration.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Suggesting meaningful variable names for decompiled code: a machine translation approach.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Practical symbolic verification of regular properties.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,FOSS version differentiation as a benchmark for static analysis security testing tools.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,DecisionDroid: a supervised learning-based system to identify cloned Android applications.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Reasons and drawbacks of using trivial npm packages: the developers' perspective.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Detecting wearable app permission mismatches: a case study on Android wear.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Automating traceability link recovery through classification.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2017,Improving performance of automatic program repair using learned heuristics.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2018,"Proceedings of the 2018 ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2018, Lake Buena Vista, FL, USA, November 04-09, 2018.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Behind every great deep learning framework is an even greater programming languages concept (keynote).,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Ten years of hunting for similar code for fun and profit (keynote).,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,CloudRaid: hunting concurrency bugs in the cloud via log-mining.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Testing multithreaded programs via thread speed control.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Data race detection on compressed traces.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Practical AJAX race detection for JavaScript web applications.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Using finite-state models for log differencing.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Identifying impactful service system problems via log analysis.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Learning to sample: exploiting similarities across environments to learn performance models for configurable systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Performance comprehension at WiredTiger.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,MemFix: static analysis-based repair of memory deallocation errors for C.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,RefiNym: using names to refine types.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Darwinian data structure selection.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Scalability-first pointer analysis with self-tuning context-sensitivity.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,DeepSim: deep learning code functional similarity.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Deep learning type inference.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Code vectors: understanding programs through embedded abstracted symbolic traces.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,MODE: automated neural network model debugging via state differential analysis and input selection.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Towards a theory of software development expertise.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,What makes a code change easier to review: an empirical investigation on code change reviewability.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Singularity: pattern fuzzing for worst case complexity.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Bug synthesis: challenging bug-finding tools with deep faults.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,"Modify, enhance, select: co-evolution of combinatorial models and test plans.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,FraudDroid: automated ad fraud detection for Android apps.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,"AppFlow: using machine learning to synthesize robust, reusable UI tests.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Winning the app production rally.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,One size does not fit all: an empirical study of containerized continuous deployment workflows.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Be careful of when: an empirical study on time-related misuse of issue tracking data.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Do the dependency conflicts in my project matter?,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Do Android taint analysis tools keep their promises?,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Neural-augmented static analysis of Android communication.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Oreo: detection of clones in the twilight zone.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Concurrency verification with maximal path causality.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Adversarial symbolic execution for detecting concurrency-related cache timing leaks.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Symbolic execution with existential second-order constraints.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Parameterized model counting for string and numeric constraints.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,NAR-miner: discovering negative association rules from code for bug detection.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Path-based function embedding and its application to error-handling specification mining.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Putback-based bidirectional model transformations.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,"Model transformation languages under a magnifying glass: a controlled experiment with Xtend, ATL, and QVT.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Applications of psychological science for actionable analytics.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,A novel automated approach for software effort estimation based on data augmentation.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Predicting Node failure in cloud service systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Detecting speech act types in developer question/answer conversations during bug repair.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Visual web test repair.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Syntax-guided synthesis of Datalog programs.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Large-scale study of substitutability in the presence of effects.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,An empirical study on crash recovery bugs in large-scale distributed systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Complementing global and local contexts in representing API descriptions to improve API retrieval tasks.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Phys: probabilistic physical unit assignment and inconsistency detection.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Testing probabilistic programming systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Verifying the long-run behavior of probabilistic system models in the presence of uncertainty.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Feedback-directed differential testing of interactive debuggers.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Improving IR-based bug localization with context-aware query reformulation.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,How should compilers explain problems to developers?,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Ecosystem-level determinants of sustained activity in open-source projects: a case study of the PyPI ecosystem.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Optimizing test prioritization via test distribution analysis.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,How well are regular expressions tested in the wild?,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Detection of energy inefficiencies in Android wear watch faces.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Stochastic energy optimization for mobile GPS applications.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Gamifying static analysis.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,The case for experiment-oriented computing.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,On the naturalness of proofs.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Does ACM's code of ethics change ethical decision making in software development?,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,How are spreadsheet templates used in practice: a case study on Enron.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,DLFuzz: differential fuzzing testing of deep learning systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Towards data-driven vulnerability prediction for requirements.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Beyond testing configurable systems: applying variational execution to automatic program repair and higher order mutation testing.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Software fairness.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Software engineering collaboratories (SEClabs) and collaboratories as a service (CaaS).,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Towards counterexample-guided k-induction for fast bug detection.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Salient-class location: help developers understand code change in code review.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Towards quantifying the development value of code contributions.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Operationalizing human values in software: a research roadmap.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Modeling and testing a family of surgical robots: an experience report.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Efficient static checking of library updates.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Are mobile banking apps secure? what can be improved?,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,VulSeeker-pro: enhanced semantic learning based binary vulnerability seeker with emulation.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,PAFL: extend fuzzing optimizations of single mode to industrial parallel mode.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Software development challenges with air-gap isolation.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Design and validation of precooked developer dashboards.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Testing and validating end user programmed calculated fields.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Automated refactoring of nested-IF formulae in spreadsheets.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,FACTS: automated black-box testing of FinTech systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Regression test selection for TizenRT.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Building lean continuous integration and delivery pipelines by applying DevOps principles: a case study at Varidesk.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,"The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,BigSift: automated debugging of big data analytics in data-intensive scalable computing.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,"FOT: a versatile, configurable, extensible fuzzing framework.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Themis: automatically testing software for discrimination.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Vista: web test repair using computer vision.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Augmenting stack overflow with API usage patterns mined from GitHub.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,PowerStation: automatically detecting and fixing inefficiencies of database-backed web applications in IDE.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,SketchFix: a tool for automated program repair approach using lazy candidate generation.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,WarningsGuru: integrating statistical bug models with static analysis to provide timely and specific bug warnings.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,DSM: a specification mining tool using recurrent neural network based language model.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,EClone: detect semantic clones in Ethereum via symbolic transaction sketch.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,INFAR: insight extraction from app reviews.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,PyDriller: Python framework for mining software repositories.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,A formal verification tool for Ethereum VM bytecode.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,ASketch: a sketching framework for Alloy.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,AlloyInEcore: embedding of first-order relational logic into meta-object facility for automated model reasoning.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,VT-revolution: interactive programming tutorials made possible.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Practices and tools for better software testing.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Automated support for mobile application testing and maintenance.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Moving towards objective measures of program comprehension.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Semantic inference from natural language privacy policies and Android code.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Intelligent bug fixing with software bug knowledge graph.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Quality assurance automation in autonomous systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,"How do developers resolve merge conflicts? an investigation into the processes, tools, and improvements.",https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Automated scenario-based integration testing of distributed systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Towards learning-augmented languages.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,On the adoption of neural networks in modeling software reliability.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Type migration in large-scale code bases.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Reshaping distributed agile and adaptive development environment.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,How Dance(Sport) can help to produce better software.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Feature-interaction aware configuration prioritization.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Dara: hybrid model checking of distributed systems.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Bugs in the wild: examining the effectiveness of static analyzers at finding real-world bugs.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Mining error-handling specifications for systems software.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Diversity and decorum in open source communities.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2019,"Proceedings of the ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26-30, 2019.",https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Living with feature interactions (keynote).,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Safety and robustness for deep learning with provable guarantees (keynote).,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Insights from open source software supply chains (keynote).,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Concolic testing for models of state-based systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Target-driven compositional concolic testing with function summary refinement for effective bug detection.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Lifting Datalog-based analyses to software product lines.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,An empirical study of real-world variability bugs detected by variability-oblivious tools.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Principles of feature modeling.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Understanding GCC builtins to develop better tools.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Assessing the quality of the steps to reproduce in bug reports.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A learning-based approach for automatic construction of domain glossary from source code and documentation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,On using machine learning to identify knowledge in API reference documentation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Generating query-specific class API summaries.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Semantic relation based expansion of abbreviations.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Diversity-based web test generation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Web test dependency detection.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Testing scratch programs automatically.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A large-scale empirical study of compiler errors in continuous integration.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A statistics-based performance testing methodology for cloud applications.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,How bad can a bug get? an empirical analysis of software failures in the OpenStack cloud computing platform.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Towards more efficient meta-heuristic algorithms for combinatorial test generation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Compiler bug isolation via effective witness test program generation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Concolic testing with adaptively changing search heuristics.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Symbolic execution-driven extraction of the parallel execution plans of Spark applications.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Generating effective test cases for self-driving cars from police reports.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Preference-wise testing for Android applications.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Bisecting commits and modeling commit risk during testing.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,White-box testing of big data analytics with complex user-defined functions.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,"Empirical review of Java program repair tools: a large-scale experiment on 2, 141 bugs and 23, 551 repair attempts.",https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,iFixR: bug report driven program repair.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Exploring and exploiting the correlations between bug-inducing and bug-fixing commits.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Effects of explicit feature traceability on program comprehension.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,What the fork: a study of inefficient and efficient forking practices in social coding.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,ServDroid: detecting service usage inefficiencies in Android applications.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Together strong: cooperative Android app analysis.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A framework for writing trigger-action todo comments in executable format.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Decomposing the rationale of code commits: the software developer's perspective.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Model-based testing of breaking changes in Node.js libraries.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Monitoring-aware IDEs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Going big: a large-scale study on what big data developers ask.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Why aren't regular expressions a lingua franca? an empirical study on the re-use and portability of regular expressions.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Nodest: feedback-driven static analysis of Node.js applications.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Effective error-specification inference via domain-knowledge expansion.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,DeepStellar: model-based quantitative analysis of stateful deep learning systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,REINAM: reinforcement learning for input-grammar inference.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Boosting operational DNN testing efficiency through conditioning.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A comprehensive study on deep learning bug characteristics.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Just fuzz it: solving floating-point constraints using coverage-guided fuzzing.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Cerebro: context-aware adaptive fuzzing for effective vulnerability detection.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,iFixFlakies: a framework for automatically fixing order-dependent flaky tests.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Binary reduction of dependency graphs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,AggrePlay: efficient record and replay of multi-threaded programs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,The review linkage graph for code review analytics: a recovery approach and empirical study.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Mitigating power side channels during compilation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Maximal multi-layer specification synthesis.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Phoenix: automated data-driven synthesis of repairs for static analysis violations.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Black box fairness testing of machine learning models.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Java reflection API: revealing the dark side of the mirror.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A conceptual replication of continuous integration pain points in the context of Travis CI.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Ethnographic research in software engineering: a critical review and checklist.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Achilles' heel of plug-and-Play software architectures: a grounded theory based approach.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Latent error prediction and fault localization for microservice applications by learning from system trace logs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,The importance of accounting for real-world labelling when predicting software vulnerabilities.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Detecting concurrency memory corruption vulnerabilities.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Locating vulnerabilities in binaries via memory layout recovering.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Storm: program reduction for testing and debugging probabilistic programming systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,NullAway: practical type-based null safety for Java.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Automatically detecting missing cleanup for ungraceful exits.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Finding and understanding bugs in software model checkers.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A segmented memory model for symbolic execution.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Releasing fast and slow: an exploratory case study at ING.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,SAR: learning cross-language API mappings with little knowledge.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Robust log-based anomaly detection on unstable log data.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Pinpointing performance inefficiencies in Java.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Understanding flaky tests: the developer's perspective.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,SEntiMoji: an emoji-powered learning approach for sentiment analysis in software engineering.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,FinExpert: domain-specific test generation for FinTech systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Design diagrams as ontological source.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Predicting pull request completion time: a case study on large scale cloud services.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,TERMINATOR: better automated UI test case prioritization.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Risks and assets: a qualitative study of a software ecosystem in the mining industry.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Using microservices for non-intrusive customization of multi-tenant SaaS.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Predicting breakdowns in cloud services (with SPIKE).,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,DeepDelta: learning to repair compilation errors.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,WhoDo: automating reviewer suggestions at scale.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,An IR-based approach towards automated integration of geo-spatial datasets in map-based software systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Code coverage at Google.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,When deep learning met code search.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,FUDGE: fuzz driver generation at scale.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Industry practice of coverage-guided enterprise Linux kernel fuzzing.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Architectural decision forces at work: experiences in an industrial consultancy setting.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,The role of limitations and SLAs in the API industry.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Evaluating model testing and model checking for finding requirements violations in Simulink models.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Model checking a C++ software framework: a case study.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Evolving with patterns: a 31-month startup experience report.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Bridging the gap between ML solutions and their business requirements using feature interactions.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Design thinking in practice: understanding manifestations of design thinking in software engineering.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,MOTSD: a multi-objective test selection tool using test suite diagnosability.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,BIKER: a tool for Bi-information source based API method recommendation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Mart: a mutant generation tool for LLVM.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,VARYS: an agnostic model-driven monitoring-as-a-service framework for the cloud.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,JCOMIX: a search-based tool to detect XML injection vulnerabilities in web applications.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Event trace reduction for effective bug replay of Android apps via differential GUI state analysis.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,PyGGI 2.0: language independent genetic improvement framework.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,CloneCognition: machine learning based code clone validation tool.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,EVMFuzzer: detect EVM vulnerabilities via fuzz testing.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A dynamic taint analyzer for distributed systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Governify for APIs: SLA-driven ecosystem for API governance.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Developing secure bitcoin contracts with BitML.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,DISCOVER: detecting algorithmic complexity vulnerabilities.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,AnswerBot: an answer summary generation tool based on stack overflow.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Eagle: a team practices audit framework for agile software development.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A taxonomy of metrics for software fault prediction.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Distributed execution of test cases and continuous integration.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A longitudinal field study on creation and use of domain-specific languages in industry.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Failure-driven program repair.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,On extending single-variant model transformations for reuse in software product line engineering.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Exploratory test agents for stateful software systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Helping developers search and locate task-relevant information in natural language documents.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Improving requirements engineering practices to support experimentation in software startups.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Managing the open cathedral.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Machine-learning supported vulnerability detection in source code.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Software clusterings with vector semantics and the call graph.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Machine learning-assisted performance testing.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,File tracing by intercepting disk requests.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Recommending related functions from API usage-based function clone structures.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Identifying the most valuable developers using artifact traceability graphs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Automated patch porting across forked projects.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Employing different program analysis methods to study bug evolution.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Reducing the workload of the Linux kernel maintainers: multiple-committer model.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Efficient computing in a safe environment.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,The lessons software engineers can extract from painters to improve the software development process.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,An industrial application of test selection using test suite diagnosability.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Understanding source code comments at large-scale.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,A graph-based framework for analysing the design of smart contracts.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Finding the shortest path to reproduce a failure found by TESTAR.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Analysing socio-technical congruence in the package dependency network of Cargo.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Tuning backfired? not (always) your fault: understanding and detecting configuration-related performance bugs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,On the use of lambda expressions in 760 open source Python projects.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Test-related factors and post-release defects: an empirical study.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Static deep neural network analysis for robustness.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Are existing code smells relevant in web games? an empirical study.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Tackling knowledge needs during software evolution.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,On the scalable dynamic taint analysis for distributed systems.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Suggesting reviewers of software artifacts using traceability graphs.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Using software testing to repair models.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Rethinking Regex engines to address ReDoS.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Context-aware test case adaptation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Empirical study of customer communication problem in agile requirements engineering.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2020,"ESEC/FSE '20: 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Virtual Event, USA, November 8-13, 2020.",https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A behavioral notion of robustness for software systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,ARDiff: scaling program equivalence checking via iterative abstraction and refinement of common code.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,C2S: translating natural language comments to formal program specifications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Detecting and understanding JavaScript global identifier conflicts on the web.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Domain-independent interprocedural program analysis using block-abstraction memoization.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Flexeme: untangling commits using lexical flows.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,HISyn: human learning-inspired natural language programming.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Inductive program synthesis over noisy data.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Inherent vacuity for GR(1) specifications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Interval counterexamples for loop invariant learning.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Java Ranger: statically summarizing regions for efficient symbolic execution of Java.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,JShrink: in-depth investigation into debloating modern Java applications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Making symbolic execution promising by learning aggressive state-pruning strategy.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Mining assumptions for software components using machine learning.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Mining input grammars from dynamic control flow.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Modular collaborative program analysis in OPAL.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Past-sensitive pointer analysis for symbolic execution.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,TypeWriter: neural type prediction with search-based validation.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,UBITect: a precise and scalable method to detect use-before-initialization bugs in Linux kernel.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Exploring how deprecated Python library APIs are (not) handled.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Selecting third-party libraries: the practitioners' perspective.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A principled approach to GraphQL query cost analysis.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Beware the evolving 'intelligent' web service! an integration architecture tactic to guard AI-first components.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Block public access: trust safety verification of access control policies.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Efficient incident identification from multi-dimensional issue reports via meta-heuristic search.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Identifying linked incidents in large-scale online service systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Real-time incident prediction for online service systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Configuration smells in continuous delivery pipelines: a linter and a six-month study on GitLab.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Dimensions of software configuration: on the configuration context in modern software development.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Global cost/quality management across multiple applications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Understanding and discovering software configuration dependencies in cloud and datacenter systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Docable: evaluating the executability of software tutorials.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,RulePad: interactive authoring of checkable design rules.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A first look at good first issues on GitHub.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A randomized controlled trial on the effects of embedded computer language switching.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A theory of the engagement in open source projects via summer of code programs.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,An empirical analysis of the costs of clone- and platform-oriented software reuse.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,An empirical study of bots in software development: characteristics and challenges from a practitioner's perspective.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,"Biases and differences in code review using medical imaging and eye-tracking: genders, humans, and machines.",https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Community expectations for research artifacts and evaluation processes.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Does stress impact technical interview performance?,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Exploring the evolution of software practices.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Heard it through the Gitvine: an empirical study of tool diffusion across the npm ecosystem.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,"Interactive, effort-aware library version harmonization.",https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,On the naturalness of hardware descriptions.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,On the relationship between design discussions and design quality: a case study of Apache projects.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,On the relationship between refactoring actions and bugs: a differentiated replication.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Questions for data scientists in software engineering: a replication.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Reducing implicit gender biases in software development: does intergroup contact theory work?,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Robotics software engineering: a perspective from the service robotics domain.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Thinking aloud about confusing code: a qualitative investigation of program comprehension and atoms of confusion.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Understanding build issue resolution in practice: symptoms and fix patterns.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Understanding type changes in Java.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Do the machine learning models on a crowd sourced platform exhibit bias? an empirical study on model fairness.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Fairway: a way to build fair ML software.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Towards automated verification of smart contract fairness.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Boosting fuzzer efficiency: an information theoretic perspective.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,CrFuzz: fuzzing multi-purpose programs through input validation.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Detecting critical bugs in SMT solvers using blackbox mutational fuzzing.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Fuzzing: on the exponential cost of vulnerability discovery.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Intelligent REST API data fuzzing.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,MTFuzz: fuzzing with a multi-task neural network.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A comprehensive study on challenges in deploying deep learning based software.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,AMS: generating AutoML search spaces from weak specifications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Correlations between deep neural network model coverage criteria and model quality.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Deep learning library testing via effective model generation.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,DeepSearch: a simple and effective blackbox attack for deep neural networks.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,DENAS: automated rule generation by knowledge extraction from neural networks.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Detecting numerical bugs in neural network architectures.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Dynamic slicing for deep neural networks.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Is neuron coverage a meaningful measure for testing deep neural networks?,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Machine translation testing via pathological invariance.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Model-based exploration of the frontier of behaviours for deep learning system testing.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,On decomposing a deep neural network into modules.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Operational calibration: debugging confidence errors for DNNs in the field.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,All your app links are belong to us: understanding the threats of instant apps based attacks.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Automated construction of energy test oracles for Android.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Borrowing your enemy's arrows: the case of code reuse in Android via direct inter-app code invocation.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Static asynchronous component misuse detection for Android applications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Automatically identifying performance issue reports with heuristic linguistic patterns.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Calm energy accounting for multithreaded Java applications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Dynamically reconfiguring software microbenchmarks: reducing execution time without sacrificing result quality.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Testing self-adaptive software with probabilistic guarantees on performance metrics.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,API method recommendation via explicit matching of functionality verb phrases.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Code recommendation for exception handling.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,eQual: informing early design decisions.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Recommending stack overflow posts for fixing runtime exceptions using failure scenario matching.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Understanding the impact of GitHub suggested changes on recommendations between developers.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,An evaluation of methods to port legacy code to SGX enclaves.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Search-based adversarial testing and improvement of constrained credit scoring systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,SinkFinder: harvesting hundreds of unknown interesting function pairs with just one seed.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Baital: an adaptive weighted sampling approach for improved t-wise coverage.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Cost measures matter for mutation testing study validity.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Detecting optimization bugs in database engines via non-optimizing reference engine construction.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Efficient binary-level coverage analysis.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Efficiently finding higher-order mutants.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Evolutionary improvement of assertion oracles.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,FrUITeR: a framework for evaluating UI test reuse.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Object detection for graphical user interface: old fashioned or deep learning or a combination?,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Understanding and automatically detecting conflicting interactions between smart home IoT applications.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,When does my program do this? learning circumstances of software behavior.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Adapting bug prediction models to predict reverted commits at Wayfair.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Can microtask programming work in industry?,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Change impact analysis in Simulink designs of embedded systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Clustering test steps in natural language toward automating test automation.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Efficient customer incident triage via linking with system incidents.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Effort-aware just-in-time defect identification in practice: a case study at Alibaba.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Enhancing the interoperability between deep learning frameworks by model conversion.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Establishing key performance indicators for measuring software-development processes at a large organization.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Estimating GPU memory consumption of deep learning models.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Exempla gratis (E.G.): code examples for free.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Fireteam: a small-team development practice in industry.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Graph-based trace analysis for microservice architecture understanding and problem diagnosis.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Harvey: a greybox fuzzer for smart contracts.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,How to mitigate the incident? an effective troubleshooting guide recommendation technique for online service systems.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Improving cybersecurity hygiene through JIT patching.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,IntelliCode compose: code generation using transformer.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Learning to extract transaction function from requirements: an industrial case on financial software.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Online sports betting through the prism of software engineering.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Reducing DNN labelling cost using surprise adequacy: an industrial case study for autonomous driving.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Scaling static taint analysis to industrial SOA applications: a case study at Alibaba.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Towards intelligent incident management: why we need it and how we make it.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,WebRR: self-replay enhanced robust record/replay for web application testing.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Beyond accuracy: assessing software documentation quality.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Continuous experimentation on artificial intelligence software: a research agenda.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Inferring and securing software configurations using automated reasoning.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Next generation automated software evolution refactoring at scale.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Revealing the complexity of automotive software.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Software documentation and augmented reality: love or arranged marriage?,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Testing machine learning code using polyhedral region.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Towards learning visual semantics.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,AlloyMC: Alloy meets model counting.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,"ARCADE: an extensible workbench for architecture recovery, change, and decay evaluation.",https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,BEE: a tool for structuring and analyzing bug reports.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,BugsInPy: a database of existing bugs in Python programs to enable controlled testing and debugging studies.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,CRSG: a serious game for teaching code review.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Dads: dynamic slicing continuously-running distributed programs with budget constraints.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,DeepCommenter: a deep code comment generation tool with hybrid lexical and syntactical information.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,DiffTech: a tool for differencing similar technologies from question-and-answer discussions.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Enhancing developer interactions with programming screencasts through accurate code extraction.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,JITO: a tool for just-in-time defect identification and localization.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,LibComp: an IntelliJ plugin for comparing Java libraries.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,MCBAT: a practical tool for model counting constraints on bounded integer arrays.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,ModCon: a model-based testing platform for smart contracts.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Mono2Micro: an AI-based toolchain for evolving monolithic enterprise applications to a microservice architecture.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,MutAPK 2.0: a tool for reducing mutation testing effort of Android apps.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,PAClab: a program analysis collaboratory.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,PCA: memory leak detection using partial call-path analysis.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,PRF: a framework for building automatic program repair prototypes for JVM-based languages.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,PRODeep: a platform for robustness verification of deep neural networks.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,SVMRanker: a general termination analysis framework of loop programs via SVM.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,SWAN: a static analysis framework for swift.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Threshy: supporting safe usage of intelligent web services.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,tsDetect: an open source test smells detection tool.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,UIED: a hybrid tool for GUI element detection.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,UIScreens: extracting user interface screens from mobile programming video tutorials.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,WebJShrink: a web service for debloating Java bytecode.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Assisting the elite-driven open source development through activity data.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Enhancing developers' support on pull requests activities with software bots.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Machine learning based test data generation for safety-critical software.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Reusing software engineering knowledge from developer communication.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Towards transferring lean software startup practices in software engineering education.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Attention tracking for developers.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Impact of programming languages on energy consumption for mobile devices.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Recommender systems: metric suggestion mechanisms applied to adaptable software dashboards.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Repairing confusion and bias errors for DNN-based image classifiers.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2020,Synthesizing correct code for machine learning programs.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2021,"ESEC/FSE '21: 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Athens, Greece, August 23-28, 2021.",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Programming and execution models for next generation code intelligence systems (keynote).,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,"The 4ps: product, process, people, and productivity: a data-driven approach to improve software engineering (keynote).",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Interactive analysis of large code bases (invited talk).,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Managers hate uncertainty: good and bad experiences with adaptive project management (invited talk).,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Industrial best practices for continuous integration (CI) and continuously delivery (CD) (invited talk).,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Huawei's practices on trusted software engineering capability improvement (invited talk).,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Hazard analysis for human-on-the-loop interactions in sUAS systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,An exploratory study of autopilot software bugs in unmanned aerial vehicles.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Code integrity attestation for PLCs using black box neural network predictions.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,PHYSFRAME: type checking physical frames of reference for robotic systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Automating serverless deployments for DevOps organizations.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,"Algebraic-datatype taint tracking, with applications to understanding Android identifier leaks.",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Vet: identifying and avoiding UI exploration tarpits.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Checking conformance of applications against GUI policies.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Data-driven accessibility repair revisited: on the effectiveness of generating labels for icons in Android apps.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Benchmarking automated GUI testing for Android against real-world bugs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,"Checking LTL[F, G, X] on compressed traces in polynomial time.",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Conditional interpolation: making concurrent program verification more effective.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,AlloyMax: bringing maximum satisfaction to relational specifications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Timely and accurate detection of model deviation in self-adaptive software-intensive systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Lightweight and modular resource leak verification.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,JSISOLATE: lightweight in-browser JavaScript isolation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Cross-language code search using static and dynamic analyses.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Automating the removal of obsolete TODO comments.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Estimating residual risk in greybox fuzzing.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,HeteroFuzz: fuzz testing to detect platform dependent divergence for heterogeneous applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Sound and efficient concurrency bug prediction.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Detecting Node.js prototype pollution vulnerabilities via object lookup analysis.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Detecting concurrency vulnerabilities based on partial orders of memory and thread events.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Vulnerability detection with fine-grained interpretations.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Identifying casualty changes in software patches.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,ACHyb: a hybrid analysis approach to detect kernel access control vulnerabilities.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Context-aware and data-driven feedback generation for programming assignments.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A syntax-guided edit decoder for neural program repair.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,VarFix: balancing edit expressiveness and search effectiveness in automated program repair.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Flaky test detection in Android via event order exploration.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,SmartCommit: a graph-based interactive assistant for activity-oriented commits.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A first look at developers' live chat on Gitter.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Reel life vs. real life: how software developers share their daily life through vlogs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,An empirical study on challenges of application development in serverless computing.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Bias in machine learning software: why? how? what to do?,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Understanding neural code intelligence through program simplification.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Multi-objectivizing software configuration tuning.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Embedding app-library graph for neural third party library recommendation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,"A large-scale empirical study on Java library migrations: prevalence, trends, and rationales.",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Learning-based extraction of first-order logic representations of API directives.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,DIFFBASE: a differential factbase for effective software evolution management.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Would you like a quick peek? providing logging support to monitor data processing in big data applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Identifying bad software changes via multimodal anomaly detection for online service systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,An automatic refactoring framework for replacing test-production inheritance by mocking mechanism.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,&#208;Archer: detecting on-chain-off-chain synchronization bugs in decentralized applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,iBatch: saving Ethereum fees via secure and cost-effective batching of smart-contract invocations.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Which abbreviations should be expanded?,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Validation on machine reading comprehension software without annotated labels: a property-based method.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,FLEX: fixing flaky tests in machine learning projects by updating assertion bounds.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Parallel shadow execution to accelerate the debugging of numerical errors.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Exposing numerical bugs in deep learning via gradient back-propagation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Metamorphic testing of Datalog engines.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Synthesis of web layouts from examples.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Boosting coverage-based fault localization via graph-based representation learning.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,SynGuar: guaranteeing generalization in programming by example.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,StateFormer: fine-grained type recovery from binaries using generative state modeling.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Empirical study of transformers for source code.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Explaining mispredictions of machine learning models using rule induction.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Generalizable and interpretable learning for configuration extrapolation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Lightweight global and local contexts guided method name recommendation with prior knowledge.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,To read or to rotate? comparing the effects of technical reading training and spatial skills training on novice programming ability.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Connecting the dots: rethinking the relationship between code and prose writing with functional connectivity.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,LastPyMile: identifying the discrepancy between sources and packages.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A grounded theory of the role of coordination in software security patch management.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,TaintStream: fine-grained taint tracking for big data platforms through dynamic code translation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Demystifying &#34;bad&#34; error messages in data science libraries.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,NIL: large-scale detection of large-variance clones.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Understanding and detecting server-side request races in web applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Detecting and localizing keyboard accessibility failures in web applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Swarmbug: debugging configuration bugs in swarm robotics.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Probabilistic Delta debugging.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Finding broken Linux configuration specifications by statically analyzing the Kconfig language.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Semantic bug seeding: a learning-based approach for creating realistic bugs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Characterizing search activities on stack overflow.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Authorship attribution of source code: a language-agnostic approach and applicability in software engineering.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Probing model signal-awareness via prediction-preserving input minimization.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Generating efficient solvers from constraint models.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A comprehensive study of deep learning compiler bugs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Fair preprocessing: towards understanding compositional fairness of data transformers in machine learning pipeline.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Fairea: a model behaviour mutation approach to benchmarking bias mitigation methods.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Feature trace recording.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A longitudinal analysis of bloated Java dependencies.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,XAI tools in the public sector: a case study on predicting combined sewer overflows.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,How disabled tests manifest in test maintainability challenges?,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Sustainability forecasting for Apache incubator projects.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Graph-based seed object synthesis for search-based unit testing.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,LS-sampling: an effective local search based sampling approach for achieving high t-wise coverage.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,GLIB: towards automated test oracle for graphically-rich applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Reassessing automatic evaluation metrics for code summarization tasks.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Toward efficient interactions between Python and native libraries.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Accelerating JavaScript static analysis via dynamic shortcuts.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Skeletal approximation enumeration for SMT solver testing.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Boosting static analysis accuracy with instrumented test executions.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Symbolic parallel adaptive importance sampling for probabilistic program analysis.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,IDE support for cloud-based static analyses.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A bounded symbolic-size model for symbolic execution.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Efficient module-level dynamic analysis for dynamic languages with module recontextualization.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Mono2Micro: a practical and effective tool for decomposing monolithic Java applications to microservices.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Data-driven test selection at scale.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Effective low capacity status prediction for cloud systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Automated code transformation for context propagation in Go.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Onion: identifying incident-indicating logs for cloud systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Generating metamorphic relations for cyber-physical systems with genetic programming: an industrial case study.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Domain adaptation for an automated classification of deontic modalities in software engineering contracts.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,"How can manual testing processes be optimized? developer survey, optimization guidelines, and case studies.",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Turnover-induced knowledge loss in practice.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,One thousand and one stories: a large-scale survey of software refactoring.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A comprehensive study on learning-based PE malware family classification methods.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Infiltrating security into development: exploring the world's largest software security study.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Data-driven extract method recommendations: a study at ING.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Duplicated code pattern mining in visual programming languages.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Making smart contract development more secure and easier.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Quantifying no-fault-found test failures to prioritize inspection of flaky tests at Ericsson.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,When life gives you oranges: detecting and diagnosing intermittent job failures at Mozilla.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,FuzzBench: an open fuzzer benchmarking platform and service.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,An empirical investigation of practical log anomaly detection for online service systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,RAPID: checking API usage for the cloud in the cloud.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,An empirical study of GUI widget detection for industrial mobile games.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Intelligent container reallocation at Microsoft 365.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Organizational implications of agile adoption: a case study from the public sector.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Towards immersive software archaeology: regaining legacy systems' design knowledge via interactive exploration in virtual reality.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Reducing the search space of bug inducing commits using failure coverage.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,The gas triangle and its challenges to the development of blockchain-powered applications.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Selecting test inputs for DNNs using differential testing with subspecialized model instances.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Term interrelations and trends in software engineering.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,"Software robustness: a survey, a theory, and prospects.",https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Towards automating code review at scale.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Learning type annotation: is big data enough?,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,New visions on metamorphic testing after a quarter of a century of inception.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Health of smart ecosystems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,LLSC: a parallel symbolic execution compiler for LLVM IR.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,OwlEyes-online: a fully automated platform for detecting and localizing UI display issues.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Exploit those code reviews! bigger data for deeper learning.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,BRAID: an API recommender supporting implicit user feedback.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,KGAMD: an API-misuse detector driven by fine-grained API-constraint knowledge graph.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Sangrahaka: a tool for annotating and querying knowledge graphs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Code2Que: a tool for improving question titles from mined code snippets in stack overflow.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,BF-detector: an automated tool for CI build failure detection.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,AlloyFL: a fault localization framework for Alloy.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,BiasRV: uncovering biased sentiment predictions at runtime.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,ICME: an informed consent management engine for conformance in smart building environments.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,StackEmo: towards enhancing user experience by augmenting stack overflow with emojis.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,AC&#178;: towards understanding architectural changes in Python projects.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,csDetector: an open source tool for community smells detection.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,CrossVul: a cross-language vulnerability dataset with commit data.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Slicer4J: a dynamic slicer for Java.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,CrossASR++: a modular differential testing framework for automatic speech recognition.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Frontmatter: mining Android user interfaces at scale.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,GenSys: a scalable fixed-point engine for maximal controller synthesis over infinite state spaces.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Analysis of specifications of multiparty sessions with dcj-lint.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reuse of 'a systematic study of the class imbalance problem in convolutional neural networks'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reuse of 'on the number of linear regions of deep neural networks'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reuse of 'a systematic literature review of techniques and metrics to reduce the cost of mutation testing'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reuse of 'RefactoringMiner 2.0'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reuse of 'what is a feature? a qualitative study of features in industrial software product lines'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reuse of '&#34;why should I trust you?&#34;: explaining the predictions of any classifier'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a replication of 'populating a release history database from version control and bug tracking systems'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a replication of 'analyze this! 145 questions for data scientists in software engineering'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Documenting evidence of a reproduction of 'is there a &#34;golden&#34; feature set for static warning identification? - an experimental evaluation'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A replication of 'DeepBugs: a learning approach to name-based bug detection'.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Investigating documented information for accurate effort estimation in agile software development.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Security guarantees for automated software testing.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Unveiling multiple facets of design degradation in modern code review.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Freeing hybrid distributed AI training configuration.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Towards an approach for resource-driven adaptation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Deployment coordination for cross-functional DevOps teams.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Lightweight verification via specialized typecheckers.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Multi-location cryptographic code repair with neural-network-based methodologies.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Improving the effectiveness of peer code review in identifying security defects.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Reducing cost in continuous integration with a collection of build selection approaches.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A live environment for inspection and refactoring of software systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,PorkFuzz: testing stateful software-defined network applications with property graphs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A qualitative study of cleaning in Jupyter notebooks.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Automated generation of realistic test inputs for web APIs.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Contextualizing toxicity in open source: a qualitative study.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Accelerating redundancy-based program repair via code representation learning and adaptive patch filtering.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,SMT solver testing with type and grammar based mutation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Overcoming metric diversity in meta-analysis for software engineering: proposed approach and a case study on its usage on the effects of software reuse.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,A general approach to modeling Java framework behaviors.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Discovering repetitive code changes in ML systems.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Does reusing pre-trained NLP model propagate bugs?,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Mitigating security attacks in kubernetes manifests for security best practices violation.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2022,"Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2022, Singapore, Singapore, November 14-18, 2022.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"AI-assisted programming: applications, user experiences, and neuro-symbolic techniques (keynote).",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"On safety, assurance, and reliability: a software engineering perspective (keynote).",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Task modularity and the emergence of software value streams (impact award paper keynote).,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Academic prototyping (invited tutorial).,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Multi-perspective representation learning for source code analytics (invited tutorial).,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Adaptive fairness improvement based on causality analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,NatGen: generative pre-training by &#34;naturalizing&#34; source code.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Testing of autonomous driving systems: where are we and where should we go?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Fuzzing deep-learning libraries via automated relational API inference.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SEDiff: scope-aware differential fuzzing to test internal function models in symbolic execution.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Perfect is the enemy of test oracle.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Scenario-based test reduction and prioritization for multi-module autonomous driving systems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,MOSAT: finding safety violations of autonomous driving systems using multi-objective genetic algorithm.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Are we building on the rock? on the importance of data preprocessing for code summarization.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Correlates of programmer efficacy and their link to experience: a combined EEG and eye-tracking study.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,What motivates software practitioners to contribute to inner source?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,A retrospective study of one decade of artifact evaluations.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Quantifying community evolution in developer social networks.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Understanding skills for OSS communities on GitHub.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Accurate method and variable tracking in commit history.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Classifying edits to variability in source code.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,The evolution of type annotations in python: an empirical study.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"UTANGO: untangling commits with context-aware, graph-based, code change clustering learning model.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Static executes-before analysis for event driven programs.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Security code smells in apps: are we getting better?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Large-scale analysis of non-termination bugs in real-world OSS projects.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,On-the-fly syntax highlighting using neural networks.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Declarative smart contracts.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Asynchronous technical interviews: reducing the effect of supervised think-aloud on communication ability.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,How to formulate specific how-to questions in software development?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Pair programming conversations with agents vs. developers: challenges and opportunities for SE community.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"Psychologically-inspired, unsupervised inference of perceptual groups of GUI widgets from GUI images.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Toward interactive bug reporting for (android app) end-users.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Understanding performance problems in deep learning systems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,API recommendation for machine learning libraries: how far are we?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,No more fine-tuning? an experimental evaluation of prompt tuning in code intelligence.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Cross-device record and replay for Android apps.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Online testing of RESTful APIs: promises and challenges.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Avgust: automating usage-based test generation from videos of app executions.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Detecting non-crashing functional bugs in Android apps via deep-state differential analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,RoboFuzz: fuzzing robotic systems over robot operating system (ROS) for finding correctness bugs.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,AgileCtrl: a self-adaptive framework for configuration tuning.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Using nudges to accelerate code reviews at scale.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,First come first served: the impact of file position on code review.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"Code, quality, and process metrics in graduated and retired ASFI projects.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"CommentFinder: a simpler, faster, more accurate code review comments recommendation.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,AutoPruner: transformer-based call graph pruning.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Lighting up supervised learning in user review-based code localization: dataset and benchmark.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Hierarchical Bayesian multi-kernel learning for integrated classification and summarization of app reviews.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Semi-supervised pre-processing for learning-based traceability framework on real-world software projects.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Input invariants.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Modus: a Datalog dialect for building container images.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Multi-phase invariant synthesis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Parasol: efficient parallel synthesis of large model spaces.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Neural termination analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,PaReco: patched clones and missed patches among the divergent variants of a software family.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Fault localization to detect co-change fixing locations.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,The best of both worlds: integrating semantic features with expert features for defect prediction and localization.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,An exploratory study on the predominant programming paradigms in Python code.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Making Python code idiomatic by automatic refactoring non-idiomatic Python code with pythonic idioms.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"An empirical study of blockchain system vulnerabilities: modules, types, and patterns.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,How to better utilize code graphs in semantic code search?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,23 shades of self-admitted technical debt: an empirical study on machine learning software.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,NeuDep: neural binary memory dependence analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,DynaPyt: a dynamic analysis framework for Python.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Cross-language Android permission specification.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Peahen: fast and precise static deadlock detection via context reduction.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"A case study of implicit mentoring, its prevalence, and impact in Apache.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Software security during modern code review: the developer's perspective.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Program merge conflict resolution via neural transformers.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Automated unearthing of dangerous issue reports.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,On the vulnerability proneness of multilingual code.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Tracking patches for open source software vulnerabilities.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,DeJITLeak: eliminating JIT-induced timing side-channel leaks.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Quantitative relational modelling with QAlloy.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Demystifying the underground ecosystem of account registration bots.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Using graph neural networks for program termination.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,PyTER: effective program repair for Python type errors.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,VulRepair: a T5-based automated software vulnerability repair.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,DeepDev-PERF: a deep learning-based approach for improving software performance.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"Less training, more repairing please: revisiting automated program repair via zero-shot learning.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,NL2Viz: natural language to visualization via constrained syntax-guided synthesis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,AccessiText: automated detection of text accessibility issues in Android apps.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Actionable and interpretable fault localization for recurring failures in online service systems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,AUGER: automatically generating review comments with pre-training models.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Automatically deriving JavaScript static analyzers from specifications using Meta-level static analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Automating code review activities by large-scale pre-training.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Corporate dominance in open source ecosystems: a case study of OpenStack.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Detecting Simulink compiler bugs via controllable zombie blocks mutation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Diet code is healthy: simplifying programs for pre-trained models of code.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Do bugs lead to unnaturalness of source code?,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Generating realistic vulnerabilities via neural code editing: an empirical study.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Generic sensitivity: customizing context-sensitive pointer analysis for generics.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,MAAT: a novel ensemble approach to addressing fairness and performance bugs for machine learning software.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Minerva: browser API fuzzing with dynamic mod-ref analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,NMTSloth: understanding and testing efficiency degradation of neural machine translation systems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,RULER: discriminative and iterative adversarial training for deep neural network fairness.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SamplingCA: effective and efficient sampling-based pairwise testing for highly configurable software systems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SPINE: a scalable log parser with feedback guidance.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SymMC: approximate model enumeration and counting using symmetry information for Alloy specifications.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,TraceCRL: contrastive representation learning for microservice trace analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,You see what I want you to see: poisoning vulnerabilities in neural code search.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Nalanda: a socio-technical graph platform for building software analytics tools at enterprise scale.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Uncertainty-aware transfer learning to evolve digital twins for industrial elevators.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,All you need is logs: improving code completion by learning from anonymous IDE usage logs.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Testing of machine learning models with limited samples: an industrial vacuum pumping application.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Improving ML-based information retrieval software with user-driven functional testing and defect class analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,What improves developer productivity at google? code quality.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Understanding why we cannot model how long a code review will take: an industrial case study.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Leveraging test plan quality to improve code review efficacy.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Are elevator software robust against uncertainties? results and experiences from an industrial case study.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Achievement unlocked: a case study on gamifying DevOps practices in industry.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Sometimes you have to treat the symptoms: tackling model drift in an industrial clone-and-own software product line.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Input splitting for cloud-based static application security testing platforms.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Metadata-based retrieval for resolution recommendation in AIOps.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Workgraph: personal focus vs. interruption for engineers at Meta.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Understanding automated code review process and developer experience in industry.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Unite: an adapter for transforming analysis tools to web services via OSLC.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Discovering feature flag interdependencies in Microsoft office.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,What did you pack in my app? a systematic analysis of commercial Android packers.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,An empirical study of deep transfer learning-based program repair for Kotlin projects.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,An empirical investigation of missing data handling in cloud node failure prediction.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,An empirical study of log analysis at Microsoft.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,AutoTSG: learning and synthesis for incident troubleshooting.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Demystifying &#34;removed reviews&#34; in iOS app store.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Exploring and evaluating personalized models for code generation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,FlakeRepro: automated and efficient reproduction of concurrency-related flaky tests.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Group-based corpus scheduling for parallel fuzzing.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Incorporating domain knowledge through task augmentation for front-end JavaScript code generation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Industry experiences with large-scale refactoring.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Industry practice of configuration auto-tuning for cloud applications and services.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Investigating and improving log parsing in practice.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Towards developer-centered automatic program repair: findings from Bloomberg.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Trace analysis based microservice architecture measurement.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,In war and peace: the impact of world politics on software ecosystems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Reflections on software failure analysis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"Language-agnostic dynamic analysis of multilingual code: promises, pitfalls, and prospects.",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,A study on identifying code author from real development.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Paving the way for mature secondary research: the seven types of literature review.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,iTiger: an automatic issue title generation tool.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,CodeMatcher: a tool for large-scale code search based on query semantics matching.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Context-aware code recommendation in Intellij IDEA.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Python-by-contract dataset.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,MultIPAs: applying program transformations to introductory programming assignments for data augmentation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,PolyFax: a toolkit for characterizing multi-language software.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,CLIFuzzer: mining grammars for command-line invocations.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,RecipeGen++: an automated trigger action programs generator.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,TAPHSIR: towards AnaPHoric ambiguity detection and ReSolution in requirements.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,COREQQA: a COmpliance REQuirements understanding using question answering tool.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SolSEE: a source-level symbolic execution engine for solidity.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,MpBP: verifying robustness of neural networks with multi-path bound propagation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,eGEN: an energy-saving modeling language and code generator for location-sensing of mobile apps.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SFLKit: a workbench for statistical fault localization.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,WikiDoMiner: wikipedia domain-specific miner.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,RegMiner: mining replicable regression dataset from code repositories.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,FIM: fault injection and mutation for Simulink.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,JSIMutate: understanding performance results through mutations.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,VulCurator: a vulnerability-fixing commit detector.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,KVS: a tool for knowledge-driven vulnerability searching.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,FastKLEE: faster symbolic execution via reducing redundant bound checking of type-safe pointers.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Clang __usercall: towards native support for user defined calling conventions.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,GFI-bot: automated good first issue recommendation on GitHub.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,SemCluster: a semi-supervised clustering tool for crowdsourced test reports with deep image understanding.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,TSA: a tool to detect and quantify network side-channels.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Blackbox adversarial attacks and explanations for automatic speech recognition.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,This is your cue! assisting search behaviour with resource style properties.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Infrastructure as code for dynamic deployments.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Automated capacity analysis of limitation-aware microservices architectures.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Change-aware mutation testing for evolving systems.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Effective and scalable fault injection using bug reports and generative language models.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Explaining and debugging pathological program behavior.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Sentiment in software engineering: detection and application.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,A practical call graph construction method for Python.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Automated generation of test oracles for RESTful APIs.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,CheapET-3: cost-efficient use of remote DNN models.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Improving IDE code inspections with tree automata.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,RESTInfer: automated inferring parameter constraints from natural language RESTful API descriptions.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Program analysis using WALA (tutorial).,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,"Dynamic data race prediction: fundamentals, theory, and practice (tutorial).",https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Machine learning and natural language processing for automating software testing (tutorial).,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Performing large-scale mining studies: from start to finish (tutorial).,https://dblp.org/db/conf/sigsoft/fse2022.html

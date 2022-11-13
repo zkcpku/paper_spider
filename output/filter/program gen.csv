@@ -1,0 +1,8 @@
+name,year,title,link
+ase,2016,Program generation for performance.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2017,Automatic testing of symbolic execution engines via program generation and differential testing.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2019,History-Guided Configuration Diversification for Compiler Test-Program Generation.,https://dblp.org/db/conf/kbse/ase2019.html
+fse,2019,Compiler bug isolation via effective witness test program generation.,https://dblp.org/db/conf/sigsoft/fse2019.html
+iclr,2018,Neural Sketch Learning for Conditional Program Generation.,https://dblp.org/db/conf/iclr/iclr2018.html
+nips,2021,Neural Program Generation Modulo Static Analysis.,https://dblp.org/db/conf/nips/neurips2021.html
+tse,48,Deep Learning Based Program Generation From Requirements Text: Are We There Yet?,https://dblp.org/db/journals/tse/tse48.html

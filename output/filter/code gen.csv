@@ -1,0 +1,29 @@
+name,year,title,link
+aaai,2019,A Grammar-Based Structural CNN Decoder for Code Generation.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2020,TreeGen: A Tree-Based Transformer Architecture for Code Generation.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2021,Improving Tree-Structured Decoder Training for Code Generation via Mutual Learning.,https://dblp.org/db/conf/aaai/aaai2021.html
+acl,2016,Latent Predictor Networks for Code Generation.,https://dblp.org/db/conf/acl/acl2016-1.html
+acl,2017,A Syntactic Neural Model for General-Purpose Code Generation.,https://dblp.org/db/conf/acl/acl2017-1.html
+acl,2017,Abstract Syntax Networks for Code Generation and Semantic Parsing.,https://dblp.org/db/conf/acl/acl2017-1.html
+acl,2021,Exploring Dynamic Selection of Branch Expansion Orders for Code Generation.,https://dblp.org/db/conf/acl/acl2021-1.html
+acl1,2020,Semantic Scaffolds for Pseudocode-to-Code Generation.,https://dblp.org/db/conf/acl/acl2020.html
+acl1,2020,Incorporating External Knowledge through Pre-training for Natural Language to Code Generation.,https://dblp.org/db/conf/acl/acl2020.html
+ase,2021,Improving Mutation-Based Fault Localization with Plausible-code Generating Mutation Operators.,https://dblp.org/db/conf/kbse/ase2021.html
+emnlp,2019,JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation.,https://dblp.org/db/conf/emnlp/emnlp2019-1.html
+emnlp1,2018,Retrieval-Based Neural Code Generation.,https://dblp.org/db/conf/emnlp/emnlp2018.html
+fse,2016,Extracting instruction semantics via symbolic execution of code generators.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2020,IntelliCode compose: code generation using transformer.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2022,Exploring and evaluating personalized models for code generation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Incorporating domain knowledge through task augmentation for front-end JavaScript code generation.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,eGEN: an energy-saving modeling language and code generator for location-sensing of mobile apps.,https://dblp.org/db/conf/sigsoft/fse2022.html
+iclr,2022,Synchromesh: Reliable Code Generation from Pre-trained Language Models.,https://dblp.org/db/conf/iclr/iclr2022.html
+icse,2016,Coverage-driven test code generation for concurrent classes.,https://dblp.org/db/conf/icse/icse2016.html
+icsme,2018,Stereo: Editing Clones Refactored as Code Generators.,https://dblp.org/db/conf/icsm/icsme2018.html
+ijcai,2022,CERT: Continual Pre-training on Sketches for Library-oriented Code Generation.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,Lyra: A Benchmark for Turducken-Style Code Generation.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+pacmpl,5,Verified code generation for the polyhedral model.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pldi,2022,WARio: efficient code generation for intermittent computing.,https://dblp.org/db/conf/pldi/pldi2022.html
+saner,2022,Goal and Policy Based Code Generation and Deployment of Smart Contracts.,https://dblp.org/db/conf/wcre/saner2022.html
+tosem,28,The Virtual Developer: Integrating Code Generation and Manual Development with Conflict Resolution.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,31,In-IDE Code Generation from Natural Language: Promise and Challenges.,https://dblp.org/db/journals/tosem/tosem31.html
+www,2020,Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning.,https://dblp.org/db/conf/www/www2020.html

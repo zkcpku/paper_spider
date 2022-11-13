@@ -1,0 +1,814 @@
+name,year,title,link
+ase,2016,"Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering, ASE 2016, Singapore, September 3-7, 2016.",https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Program generation for performance.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Changing microsoft's build: revolution or evolution.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,The power of probabilistic thinking.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,An empirical investigation into the nature of test smells.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Evaluating non-adequate test-case reduction.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Optimizing customized program coverage.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,What makes killing a mutant hard.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Test case permutation to improve execution time.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Predicting semantically linkable knowledge in developer online forums via convolutional neural network.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Testing advanced driver assistance systems using multi-objective search and neural networks.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Privacy preserving via interval covering based subclass division and manifold learning based bi-directional obfuscation for effort estimation.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Deep learning code fragments for code clone detection.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Automatically recommending code reviewers based on their expertise: an empirical comparison.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Evaluating the evaluations of code recommender systems: a reality check.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Too much automation? the bellwether effect and its implications for transfer learning.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Automatic microbenchmark generation to prevent dead code elimination and constant folding.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Visualization of combinatorial models and test plans.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Finding access control bugs in web applications with CanCheck.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,SOFIA: an automated security oracle for black-box testing of SQL-injection vulnerabilities.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Supporting oracle construction via static analysis.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Local-based active classification of test report to assist crowdsourced testing.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Multi-objective test report prioritization using image understanding.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,CrowdService: serving the individuals through mobile crowdsourcing and service composition.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,QUICKAR: automatic query reformulation for concept location using crowdsourced knowledge.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Taming Android fragmentation: characterizing and detecting compatibility issues for Android apps.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Automated model-based Android GUI testing using multi-level GUI comparison criteria.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,HybriDroid: static analysis framework for Android hybrid applications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Locus: locating bugs from software changes.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Fine-tuning spectrum based fault localisation with frequent method item sets.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Recommending relevant classes for bug reports using multi-objective search.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,An empirical study on dependence clusters for effort-aware fault-proneness prediction.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,StraightTaint: decoupled offline symbolic taint analysis.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,IncA: a DSL for the definition of incremental program analyses.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,What developers want and need from program analysis: an empirical study.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,DistIA: a cost-effective dynamic impact analysis for distributed programs.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Radius aware probabilistic testing of deadlocks with guarantees.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,LockPeeker: detecting latent locks in Java APIs.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Sound static deadlock analysis for C/Pthreads.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Static race detection for device drivers: the Goblint approach.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,An empirical evaluation of two user interfaces of an interactive program verifier.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Traceability maintenance: factors and guidelines.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,"Usage, costs, and benefits of continuous integration in open-source projects.",https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,DSL-maps: from requirements to design of domain-specific languages.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,The IDE as a scriptable information system.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Inferring annotations for device drivers from verification histories.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Array length inference for C library bindings.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,APEx: automated inference of error specifications for C APIs.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,On essential configuration complexity: measuring interactions in highly-configurable systems.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Precise semantic history slicing through dynamic delta refinement.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Goal-conflict detection based on temporal satisfiability checking.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Symbolic execution of stored procedures in database management systems.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Conc-iSE: incremental symbolic execution of concurrent software.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Model-based whitebox fuzzing for program binaries.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Symbolic execution of complex program driven by machine learning based constraint solving.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Towards bounded model checking using nonlinear programming solver.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Identifying domain elements from textual specifications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Continuous detection of design flaws in evolving object-oriented programs using incremental multi-pattern matching.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Efficient detection of inconsistencies in a multi-developer engineering environment.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,How good are the specs? a study of the bug-finding effectiveness of existing Java API specifications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Greedy combinatorial test case generation using unsatisfiable cores.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Towards automatically generating descriptive names for unit tests.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Applying combinatorial test data generation to big data applications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Generating test cases to expose concurrency bugs in Android applications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Automatic test image generation using procedural noise.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Move-optimized source code tree differencing.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Migrating cascading style sheets to preprocessors by introducing mixins.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Automatic runtime recovery via error handler synthesis.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Mining revision histories to detect cross-language clones without intermediates.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Battery-aware transformations in mobile applications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Bugram: bug detection with n-gram language models.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Mining input grammars from dynamic taints.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Phrase-based extraction of user opinions in mobile app reviews.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Practical guidelines for change recommendation using association rule mining.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Learning a dual-language vector space for domain-specific cross-lingual question retrieval.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Reflection-aware static analysis of Android apps.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Relda2: an effective static analysis tool for resource leak detection in Android apps.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,An end-user oriented tool suite for development of mobile applications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Model driven design of heterogeneous synchronous embedded systems.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,MACKE: compositional analysis of low-level vulnerabilities with symbolic execution.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,BovInspector: automatic inspection and repair of buffer overflow vulnerabilities.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,CORRECT: code reviewer recommendation at GitHub for Vendasta technologies.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,ProcessPAIR: a tool for automated performance analysis and improvement recommendation in software development.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,CVExplorer: identifying candidate developers by mining and exploring their open source contributions.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Lightweight collection and storage of software repository data with DataRover.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Visual contract extractor: a tool for reverse engineering visual contracts using dynamic analysis.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,SuperMod: tool support for collaborative filtered model-driven software product line engineering.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,AnModeler: a tool for generating domain models from textual specifications.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,SimilarTech: automatically recommend analogical libraries across different programming languages.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,TeeVML: tool support for semi-automatic integration testing environment emulation.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,The interactive verification debugger: effective understanding of interactive proof attempts.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Verifying simulink stateflow model: timed automata approach.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,GUICat: GUI testing as a service.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,An automated collaborative requirements engineering tool for better validation of requirements.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,An extensible framework for variable-precision data-flow analyses in MPS.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Towards efficient and effective automatic program repair.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Automated testing and notification of mobile app privacy leak-cause behaviours.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Factoring requirement dependencies in software requirement selection using graphs and integer programming.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Statistical analysis of large sets of models.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,Developer targeted analytics: supporting software development decisions with runtime information.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2016,API recommendation system for software development.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2017,"Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering, ASE 2017, Urbana, IL, USA, October 30 - November 03, 2017.",https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Cobra - an interactive static code analyzer.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Mining structures from massive text data: will it help software engineering?,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Software engineering without borders.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Systematically testing background services of mobile apps.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Crowd intelligence enhances automated mobile testing.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,EHBDroid: beyond GUI testing for Android applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Sketch-guided GUI test generation for mobile applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Saying 'hi!' is not enough: mining inputs for effective test generation.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Learn&#38;Fuzz: machine learning for input fuzzing.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,The impact of continuous integration on other software development practices: a large-scale empirical study.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Perceived language complexity in GitHub issue discussions and their effect on issue resolution.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Can automated pull requests encourage software developers to upgrade out-of-date dependencies?,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Are developers aware of the architectural impact of their changes?,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,SentiCR: a customized sentiment analysis tool for code review interactions.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Detecting fragile comments.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Improving software text retrieval using conceptual knowledge in source code.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatically generating commit messages from diffs using neural machine translation.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Improving missing issue-commit link recovery using positive and unlabeled data.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,APIBot: question answering bot for API documentation.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatic summarization of API reviews.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,iCoq: regression proof selection for large-scale verification projects.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,More effective interpolations in software model checking.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Proof-based coverage metrics for formal verification.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Model checker execution reports.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Modular verification of interrupt-driven software.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,BProVe: a formal verification framework for business process models.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Static detection of asymptotic resource side-channel vulnerabilities in web applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,PAD: programming third-party web advertisement censorship.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,"All about activity injection: threats, semantics, and detection.",https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Detecting information flow by mutating input data.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatically assessing crashes from heap overflows.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Learning to share: engineering adaptive decision-support for online social networks.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,UI driven Android application reduction.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,SimplyDroid: efficient event sequence simplification for Android application.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automated cross-platform inconsistency detection for mobile apps.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,In-memory fuzzing for binary code similarity analysis.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,DSIbin: identifying dynamic data structures in C/C++ binaries.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Towards robust instruction-level trace alignment of binary code.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Testing intermediate representations for binary analysis.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Comprehensive failure characterization.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,TrEKer: tracing error propagation in operating system kernels.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,RuntimeSearch: Ctrl+F for a running program.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Mining implicit design templates for actionable code reuse.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Exploring regular expression comprehension.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatically assessing code understandability: how far are we?,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Improved query reformulation for concept location using CodeRank and document structures.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Understanding feature requests by leveraging fuzzy method and linguistic analysis.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,O2O service composition with social collaboration.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Gremlin-ATL: a scalable model transformation framework.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Diagnosing assumption problems in safety-critical products.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Software performance self-adaptation through efficient model predictive control.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Transfer learning for performance modeling of configurable systems: an exploratory analysis.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,A comprehensive study of real-world numerical bug characteristics.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,A comprehensive study on real world concurrency bugs in Node.js.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Generating simpler AST edit scripts by considering copy-and-paste.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Renaming and shifted code in structured merging: looking ahead for precision and performance.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Semantics-assisted code review: an efficient toolchain and a user study.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Detecting unknown inconsistencies in web applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Why and how JavaScript developers use linters.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatic testing of symbolic execution engines via program generation and differential testing.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Floating-point symbolic execution: a case study in n-version programming.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Rethinking pointer reasoning in symbolic execution.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Leveraging abstract interpretation for efficient dynamic symbolic execution.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Tortoise: interactive system configuration repair.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Contract-based program repair without the contracts.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,ELIXIR: effective object oriented program repair.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Leveraging syntax-related code for automated program repair.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Boosting complete-code tool for partial program.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,A language model for statements of software code.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Context-aware integrated development environment command recommender systems.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Predicting relevance of change recommendations.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,AnswerBot: automated generation of answer summary to developers&#378; technical questions.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Recommending crowdsourced software developers in consideration of skill improvement.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,The rise of the (modelling) bots: towards assisted modelling via social networks.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,UNDEAD: detecting and preventing deadlocks in production software.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Promoting secondary orders of event pairs in randomized scheduling using a randomized stride.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Parallel bug-finding in concurrent programs via reduced interleaving instances.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Understanding and overcoming parallelism bottlenecks in ForkJoin applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Quick verification of concurrent programs by iteratively relaxed scheduling.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatic loop-invariant generation and refinement through selective sampling.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,FiB: squeezing loop invariants by interpolation between Forward/Backward predicate transformers.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,SymInfer: inferring program invariants using symbolic states.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Parsimony: an IDE for example-guided synthesis of lexers and parsers.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Mining constraints for event-based monitoring in systems of systems.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Programming bots by synthesizing natural language expressions into API invocations.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Test suite parallelization in open-source projects: a study on its usage and impact.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Systematic reduction of GUI test sequences.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Automatically reducing tree-structured test inputs.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Synthetic data generation for statistical testing.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,SEALANT: a detection and visualization tool for inter-app security vulnerabilities in Android.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Visualization support for requirements monitoring in systems of systems.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,A demonstration of simultaneous execution and editing in a development environment.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,TREM: a tool for mining timed regular specifications from system traces.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,ModelWriter: text and model-synchronized document engineering platform.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Incrementally slicing editable submodels.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,DSSynth: an automated digital controller synthesis tool for physical plants.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,A static analysis tool with optimizations for reachability determination.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,CogniCrypt: supporting developers in using cryptography.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,BProVe: tool support for business process verification.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,taco: a tool to generate tensor algebra kernels.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,STARTS: STAtic regression test selection.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,EventFlowSlicer: a tool for generating realistic goal-driven GUI tests.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,ANDROFLEET: testing WiFi peer-to-peer mobile apps in the large.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,FEMIR: a tool for recommending framework extension examples.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,TiQi: a natural language interface for querying software project data.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Opiner: an opinion search and summarization engine for APIs.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Defaultification refactoring: a tool for automatically converting Java methods to default.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Kobold: web usability as a service.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,IntPTI: automatic integer error repair with proper-type inference.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Learning effective changes for software projects.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Characterizing and taming non-deterministic bugs in JavaScript applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Towards API-specific automatic program repair.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Managing software evolution through semantic history slicing.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Towards the automatic classification of traceability links.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Towards a software vulnerability prediction model using traceable code patterns and software metrics.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Towards search-based modelling and analysis of requirements and architecture decisions.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,Privacy-aware data-intensive applications.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2018,"Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ASE 2018, Montpellier, France, September 3-7, 2018.",https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,"Software heritage: collecting, preserving, and sharing all our source code (keynote).",https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Automated requirements engineering challenges with examples from small unmanned aerial systems (keynote).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Implementation science for software engineering: bridging the gap between research and practice (keynote).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,The need for context in software engineering (IEEE CS Harlan Mills award keynote).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,On adopting linters to deal with performance concerns in Android apps.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,PerfLearner: learning from bug reports to understand and generate performance test frames.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,AutoConfig: automatic configuration tuning for distributed message systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Is this class thread-safe? inferring documentation using graph-based learning.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A large-scale study of test coverage evolution.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Effectiveness and challenges in generating concurrent tests for thread-safe classes.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Scalable incremental building with dynamic task dependencies.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Noise and heterogeneity in historical build data: an empirical study of Travis CI.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Automated directed fairness testing.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Concolic testing for deep neural networks.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,DeepGauge: multi-granularity testing criteria for deep learning systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Testing autonomous cars for feature interaction failures using many-objective search.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Tackling combinatorial explosion: a study of industrial needs and practices for analyzing highly configurable systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Understanding and detecting evolution-induced compatibility issues in Android apps.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Characterizing the natural language descriptions in software logging statements.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Assessing the type annotation burden.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Mining file histories: should we consider branches?,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Tell them apart: distilling technology differences from crowd-scale comparison discussions.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,ReScue: crafting regular expression DoS attacks.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,TDroid: exposing app switching attacks in Android with control flow specialization.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Model-driven run-time enforcement of complex role-based access control policies.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,ContractFuzzer: fuzzing smart contracts for vulnerability detection.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,SEEDE: simultaneous execution and editing in a development environment.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Effective API recommendation without historical software repositories.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,API method recommendation without worrying about the task-API knowledge gap.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,An automated approach to estimating code coverage measures via execution logs.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,How many of all bugs do we find? a study of static bug detectors.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,TRIMMER: application specialization for code debloating.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A unified lattice model and framework for purity analyses.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Control flow-guided SMT solving for program verification.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,PaMpeR: proof method recommendation system for Isabelle/HOL.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Neural-machine-translation-based commit message generation: how far are we?,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Deep learning based feature envy detection.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Improving automatic source code summarization via deep reinforcement learning.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Template-guided concolic testing via online learning.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Android testing via synthetic symbolic execution.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,PARTI: a multi-interval theory solver for symbolic execution.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Client-specific equivalence checking.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Replay without recording of production bugs for service oriented applications.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Reducing interactive refactoring effort via clustering-based multi-objective search.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,FairFuzz: a targeted mutation strategy for increasing greybox fuzz testing coverage.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Efficiently manifesting asynchronous programming errors in Android apps.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Expandable group identification in spreadsheets.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Break the dead end of dynamic slicing: localizing data and control omission bug.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A genetic algorithm for goal-conflict identification.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Understanding and detecting callback compatibility issues for Android applications.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Detecting and summarizing GUI changes in evolving mobile apps.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Empirically assessing opportunities for prefetching and caching in mobile apps.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Safe stream-based programming with refinement types.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Automated model repair for Alloy.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,PFix: fixing concurrency bugs based on memory access patterns.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Generating reusable web components from mockups.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Semantic crash bucketing.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A symbolic model checking approach to the analysis of string and length constraints.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Domain-independent multi-threaded software model checking.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Scheduling constraint based abstraction refinement for weak memory models.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Datalog-based scalable semantic diffing of concurrent programs.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,&#945;Diff: cross-version binary code similarity detection with DNN.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,ClDiff: generating concise linked code differences.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Characterizing and identifying misexposed activities in Android applications.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A tale of two cities: how WebView induces bugs to Android applications.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Dual-force: understanding WebView malware via cross-language forced execution.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Self-protection of Android systems from inter-component communication attacks.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,An empirical study of Android test generation tools in industrial cases.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Achieving test automation with testers without coding skills: an industrial report.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Navigating the maze: the impact of configurability in bioinformatics software.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Automatically testing implementations of numerical abstract domains.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Experiences applying automated architecture analysis tool suites.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Continuous code quality: are we (really) doing that?,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,RUDSEA: recommending updates of Dockerfiles via software environment analysis.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Delta debugging microservice systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Personalized teammate recommendation for crowdsourced software developers.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,S-gram: towards semantic-aware security auditing for Ethereum smart contracts.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,An evolutionary approach for analyzing Alloy specifications.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A neural framework for retrieval and summarization of source code.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,An empirical investigation into learning bug-fixing patches in the wild via neural machine translation.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Loop path reduction by state pruning.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,node2defect: using network embedding to improve software defect prediction.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Towards automating disambiguation of regulations: using the wisdom of crowds.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,jStanley: placing a green thumb on Java collections.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,SRCIROR: a toolset for mutation testing of C source code and LLVM intermediate representation.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Lightweight source code monitoring with Triggr.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,OCELOT: a search-based test-data generation tool for C.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Live versioning of web applications through refactoring.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,code_call_lens: raising the developer awareness of critical code.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Code2graph: automatic generation of static call graphs for Python source code.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,The electrum analyzer: model checking relational first-order temporal specifications.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,ESBMC 5.0: an industrial-strength C model checker.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,L-CMP: an automatic learning-based parameterized verification tool.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,VulSeeker: a semantic learning based vulnerability seeker for cross-platform binary.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,CPA-SymExec: efficient symbolic execution in CPAchecker.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,CANAL: a cache timing analysis framework via LLVM transformation.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Descartes: a PITest engine to detect pseudo-tested methods: tool demonstration.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,DKVF: a framework for rapid prototyping and evaluating distributed key-value stores.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,DroidMate-2: a platform for Android test generation.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Assessing and evaluating functional suitability of software.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Automatic mining of constraints for monitoring systems of systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Towards automatic restrictification of CUDA kernel arguments.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A DSL for requirements in the context of a seamless approach.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,A multi-objective framework for effective performance fault injection in distributed systems.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Top-down model-driven engineering of web services from extended OpenAPI models.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Differential program analysis with fuzzing and symbolic execution.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Software engineering techniques applied to relational databases.,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Automatically quantifying the impact of a change in systems (journal-first abstract).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Estimating the number of remaining links in traceability recovery (journal-first abstract).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Bounded model checking of C++ programs based on the Qt cross-platform framework (journal-first abstract).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2018,Understanding Semi-structured merge conflict characteristics in open-source Java projects (journal-first abstract).,https://dblp.org/db/conf/kbse/ase2018.html
+ase,2019,"34th IEEE/ACM International Conference on Automated Software Engineering, ASE 2019, San Diego, CA, USA, November 11-15, 2019.",https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Assessing the Generalizability of Code2vec Token Embeddings.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Multi-modal Attention Network Learning for Semantic Source Code Retrieval.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Experience Paper: Search-Based Testing in Automated Driving Control Applications.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,AutoFocus: Interpreting Attention-Based Neural Networks by Code Perturbation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Test Transfer Across Mobile Apps Through Semantic Mapping.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Test Migration Between Mobile Apps with Similar Functionality.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,DaPanda: Detecting Aggressive Push Notifications in Android Apps.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automatic Self-Validation for Code Coverage Profilers.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Efficient Test Generation Guided by Field Coverage Criteria.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,A Qualitative Analysis of Android Taint-Analysis Results.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Goal-Driven Exploration for Android Applications.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,RANDR: Record and Replay for Android Applications via Targeted Runtime Instrumentation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,"Discovering, Explaining and Summarizing Controversial Discussions in Community Q&#38;A Sites.",https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automating App Review Response Generation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automatic Generation of Pull Request Descriptions.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Systematically Covering Input Structure.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,SEGATE: Unveiling Semantic Inconsistencies between Code and Specification of String Inputs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Detecting Error-Handling Bugs without Error Specification Input.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Grading-Based Test Suite Augmentation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Emotions Extracted from Text vs. True Emotions-An Empirical Evaluation in SE Context.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Learning from Examples to Find Fully Qualified Names of API Elements in Code Snippets.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Inferring Program Transformations From Singular Examples via Big Code.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Performance-Boosting Sparsification of the IFDS Algorithm with Applications to Taint Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Characterizing Android App Signing Issues.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,OAUTHLINT: An Empirical Study on OAuth Bugs in Android Applications.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,History-Guided Configuration Diversification for Compiler Test-Program Generation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,ReduKtor: How We Stopped Worrying About Bugs in Kotlin Compiler.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Targeted Example Generation for Compilation Errors.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Understanding Exception-Related Bugs in Large-Scale Cloud Systems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,iFeedback: Exploiting User Feedback for Real-Time Issue Detection in Large-Scale Online Service Systems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Continuous Incident Triage for Large-Scale Online Service Systems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Apricot: A Weight-Adaptation Approach to Fixing Deep Learning Models.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Re-Factoring Based Program Repair Applied to Programming Assignments.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,InFix: Automatically Repairing Novice Program Inputs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Understanding Automatically-Generated Patches Through Symbolic Invariant Differences.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,"Regexes are Hard: Decision-Making, Difficulties, and Risks in Programming Regular Expressions.",https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Testing Regex Generalizability And Its Implications: A Large-Scale Many-Language Measurement Study.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Accurate String Constraints Solution Counting with Weighted Automata.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Subformula Caching for Model Counting and Quantitative Program Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,ACTGAN: Automatic Configuration Tuning for Software Systems with Generative Adversarial Networks.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,V2: Fast Detection of Configuration Drift in Python.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Feature-Interaction Aware Configuration Prioritization for Configurable Code.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Combining Spectrum-Based Fault Localization and Statistical Debugging: An Empirical Study.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,SCMiner: Localizing System-Level Concurrency Faults from Large System Call Traces.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Root Cause Localization for Unreproducible Builds via Causality Analysis Over System Call Tracing.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Mutation Analysis for Coq.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Verifying Arithmetic in Cryptographic C Programs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Model Checking Embedded Control Software using OS-in-the-Loop CEGAR.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Get Rid of Inline Assembly through Verification-Oriented Lifting.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,CodeKernel: A Graph Kernel Based Approach to the Selection of API Usage Examples.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Machine Learning Based Recommendation of Method Names: How Far are We.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,MARBLE: Mining for Boilerplate Code to Identify API Usability Problems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,DIRE: A Neural Approach to Decompiled Identifier Naming.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Accurate Modeling of Performance Histories for Evolving Software Systems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,An Industrial Experience Report on Performance-Aware Refactoring on a Database-Centric Web Application.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,How Do API Selections Affect the Runtime Performance of Data Analytics Tasks?,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,An Experience Report of Generating Load Tests Using Log-Recovered Workloads at Varying Granularities of User Behaviour.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Demystifying Application Performance Management Libraries for Android.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Predicting Licenses for Changed Source Code.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Empirical Evaluation of the Impact of Class Overlap on Software Defect Prediction.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Combining Program Analysis and Statistical Language Model for Code Statement Completion.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,MAP-Coverage: A Novel Coverage Criterion for Testing Thread-Safe Classes.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automating Non-Blocking Synchronization In Concurrent Data Abstractions.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automating CUDA Synchronization via Program Transformation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Efficient Transaction-Based Deterministic Replay for Multi-threaded Programs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,A Study of Oracle Approximations in Testing Deep Learning Libraries.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Property Inference for Deep Neural Networks.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,An Empirical Study Towards Characterizing Deep Learning Development and Deployment Across Different Frameworks and Platforms.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,RefBot: Intelligent Software Refactoring Bot.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automated Refactoring to Reactive Programming.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Empirical Study of Programming to an Interface.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Statistical Log Differencing.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Code-First Model-Driven Engineering: On the Agile Adoption of MDE Tooling.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Size and Accuracy in Model Inference.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Debreach: Mitigating Compression Side Channels via Static Analysis and Transformation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Fine-Grain Memory Object Representation in Symbolic Execution.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,RENN: Efficient Reverse Execution with Neural-Network-Assisted Alias Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Batch Alias Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Improving the Decision-Making Process of Self-Adaptive Systems by Accounting for Tactic Volatility.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Cautious Adaptation of Defiant Components.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Active Hotspot: An Issue-Oriented Model to Monitor Software Evolution and Degradation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automated Trainability Evaluation for Smart Software Functions.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,The Impact of Structure on Software Merging: Semistructured Versus Structured Merge.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Semistructured Merge in JavaScript Systems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,B2SFinder: Detecting Open-Source Software Reuse in COTS Software.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,CoRA: Decomposing and Describing Tangled Code Changes for Reviewer.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,A Quantitative Analysis Framework for Recurrent Neural Network.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,LIRAT: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Humanoid: A Deep Learning-Based Approach to Automated Black-box Android App Testing.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,TestCov: Robust Test-Suite Execution and Coverage Measurement.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,VisFuzz: Understanding and Intervening Fuzzing with Interactive Visualization.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Developer Reputation Estimator (DRE).,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,CocoQa: Question Answering for Coding Conventions Over Knowledge Graphs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,MutAPK: Source-Codeless Mutant Generation for Android Apps.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,"SWAN_ASSIST: Semi-Automated Detection of Code-Specific, Security-Relevant Methods.",https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Sip4J: Statically Inferring Access Permission Contracts for Parallelising Sequential Java Programs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Visual Analytics for Concurrent Java Executions.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,NeuralVis: Visualizing and Interpreting Deep Learning Models.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Kotless: A Serverless Framework for Kotlin.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,FogWorkflowSim: An Automated Simulation Toolkit for Workflow Performance Evaluation in Fog Computing.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,PraPR: Practical Program Repair via Bytecode Mutation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,SPrinter: A Static Checker for Finding Smart Pointer Errors in C++ Programs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,FPChecker: Detecting Floating-Point Exceptions in GPU Applications.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Pangolin: An SFL-Based Toolset for Feature Localization.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,SiMPOSE - Configurable N-Way Program Merging Strategies for Superimposition-Based Analysis of Variant-Rich Software.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,VeriAbs : Verification by Abstraction and Test Generation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,SGUARD: A Feature-Based Clustering Tool for Effective Spreadsheet Defect Detection.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,PeASS: A Tool for Identifying Performance Changes at Code Level.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,VeriSmart 2.0: Swarm-Based Bug-Finding for Multi-threaded Programs with Lazy-CSeq.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,CONVUL: An Effective Tool for Detecting Concurrency Vulnerabilities.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,DeepMutation++: A Mutation Testing Framework for Deep Learning Systems.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Coverage-Guided Fuzzing for Feedforward Neural Networks.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,"Prema: A Tool for Precise Requirements Editing, Modeling and Analysis.",https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,TsmartGP: A Tool for Finding Memory Defects with Pointer Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Ares: Inferring Error Specifications through Static Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,PMExec: An Execution Engine of Partial UML-RT Models.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,mCUTE: A Model-Level Concolic Unit Testing Engine for UML State Machines.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,"BuRRiTo: A Framework to Extract, Specify, Verify and Analyze Business Rules.",https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,XRaSE: Towards Virtually Tangible Software using Augmented Reality.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,MuSC: A Tool for Mutation Testing of Ethereum Smart Contract.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Lancer: Your Code Tell Me What You Need.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,PHANTA: Diversified Test Code Quality Measurement for Modern Software Development.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Test Automation and Its Limitations: A Case Study.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,PTracer: A Linux Kernel Patch Trace Bot.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Trusted Software Supply Chain.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,A Journey Towards Providing Intelligence and Actionable Insights to Development Teams in Software Delivery.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Better Development of Safety Critical Systems: Chinese High Speed Railway System Development Experience Report.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Improving Collaboration Efficiency in Fork-Based Development.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Inference of Properties from Requirements and Automation of Their Formal Verification.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Generating Tests to Analyse Dynamically-Typed Programs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Improving Patch Quality by Enhancing Key Components of Automatic Program Repair.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automatic Generation of Graphical User Interface Prototypes from Unrestricted Natural Language Requirements.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Automatically Repairing Binary Programs Using Adapter Synthesis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Tackling Build Failures in Continuous Integration.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Enabling Continuous Improvement of a Continuous Integration Process.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Retrieve and Refine: Exemplar-Based Neural Comment Generation.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,API Design Implications of Boilerplate Client Code.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Compile-Time Detection of Machine Image Sniping.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,An Image-Inspired and CNN-Based Android Malware Detection Approach.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Toward Practical Automatic Program Repair.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,User Preference Aware Multimedia Pricing Model using Game Theory and Prospect Theory for Wireless Communications.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,An Approach for Investigating Emotion Dynamics in Software Development.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Verifying Determinism in Sequential Programs.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Empirical Study of Python Call Graph.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Crowdsourced Report Generation via Bug Screenshot Understanding.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Boosting Neural Commit Message Generation with Code Semantic Analysis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,Towards Comprehensible Representation of Controllers using Machine Learning.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2019,A Machine Learning Based Approach to Identify SQL Injection Vulnerabilities.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2020,"35th IEEE/ACM International Conference on Automated Software Engineering, ASE 2020, Melbourne, Australia, September 21-25, 2020.",https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Safety and Robustness for Deep Learning with Provable Guarantees.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Is Software Engineering Research Addressing Software Engineering Problems? (Keynote).,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Accelerating All-SAT Computation with Short Blocking Clauses.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Predictive Analysis for Detecting Deadlock in MPI Programs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Learning to Handle Exceptions.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,BUILDFAST: History-Aware Build Outcome Prediction for Fast Feedback and Reduced Cost in Continuous Integration.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,LEGION: Best-First Concolic Testing.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Plug the Database &#38; Play With Automatic Testing: Improving System Testing by Exploiting Persistent Data.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Enhanced Compiler Bug Isolation via Memoized Search.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,M3: Semantic API Migrations.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,The Impact of Generic Data Structures: Decoding the Role of Lists in the Linux Kernel.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Pending Constraints in Symbolic Execution for Better Exploration and Seeding.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Broadening Horizons of Multilingual Static Analysis: Semantic Summary Extraction from C Code for JNI Program Analysis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Assessing and Restoring Reproducibility of Jupyter Notebooks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Verified from Scratch: Program Analysis for Learners' Programs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Interval Change-Point Detection for Runtime Probabilistic Model Checking.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,UNCHARTIT: An Interactive Framework for Program Recovery from Charts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Demystifying Diehard Android Apps.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Subdomain-Based Generality-Aware Debloating.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,"Revisiting the Relationship Between Fault Detection, Test Adequacy Criteria, and Test Set Size.",https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Synthesis of Infinite-State Systems with Random Behavior.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Demystifying Loops in Smart Contracts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Patching as Translation: the Data and the Metaphor.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,DeepTC-Enhancer: Improving the Readability of Automatically Generated Tests.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Hybrid Deep Neural Networks to Infer State Models of Black-Box Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Representing and Reasoning about Dynamic Code.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Deep Multitask Learning Approach for Requirements Discovery and Annotation from Open Forum.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Retrieve and Refine: Exemplar-based Neural Comment Generation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,How Incidental are the Incidents? Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Stay Professional and Efficient: Automatically Generate Titles for Your Bug Reports.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Owl Eyes: Spotting UI Display Issues via Visual Understanding.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Multiple-Boundary Clustering and Prioritization to Promote Neural Network Retraining.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Marble: Model-based Robustness Analysis of Stateful Deep Learning Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,MockSniffer: Characterizing and Recommending Mocking Decisions for Unit Tests.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Defect Prediction Guided Search-Based Software Testing.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Multi-task Learning based Pre-trained Language Model for Code Completion.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Audee: Automated Testing for Deep Learning Frameworks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Interpreting Recurrent Neural Networks through Probabilistic Abstraction.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Continuous Compliance.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,SADT: Syntax-Aware Differential Testing of Certificate Validation in SSL/TLS Implementations.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,CoFI: Consistency-Guided Fault Injection for Cloud Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,ChemTest: An Automated Software Testing Framework for an Emerging Paradigm.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automatic Extraction of Cause-Effect-Relations from Requirements Artifacts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,BiLO-CPDP: Bi-Level Programming for Automated Model Discovery in Cross-Project Defect Prediction.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automating Just-In-Time Comment Updating.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automated Implementation of Windows-related Security-Configuration Guides.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Identifying Software Performance Changes Across Variants and Versions.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,CP-Detector: Using Configuration-related Performance Properties to Expose Performance Bugs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Just-In-Time Reactive Synthesis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,JISET: JavaScript IR-based Semantics Extraction Toolchain.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,FlashRegex: Deducing Anti-ReDoS Regexes from Examples.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Inferring and Applying Def-Use Like Configuration Couplings in Deployment Descriptors.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Mastering Uncertainty in Performance Estimations of Configurable Software Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Team Discussions and Dynamics During DevOps Tool Adoptions in OSS Projects.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,TestMC: Testing Model Counters using Differential and Metamorphic Testing.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,BigFuzz: Efficient Fuzz Testing for Data Analytics Using Framework Abstraction.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Scaling Client-Specific Equivalence Checking via Impact Boundary Search.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,"Code to Comment &#34;Translation&#34;: Data, Metrics, Baselining &#38; Evaluation.",https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Exploring the Architectural Impact of Possible Dependencies in Python Software.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,NEURODIFF: Scalable Differential Verification of Neural Networks using Fine-Grained Approximation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Identifying and Describing Information Seeking Tasks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Predicting Code Context Models for Software Development Tasks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,SCDetector: Software Functional Clone Detection Based on Semantic Tokens Analysis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Generating Concept based API Element Comparison Using a Knowledge Graph.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Multiplex Symbolic Execution: Exploring Multiple Paths by Solving Once.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Zeror: Speed Up Fuzzing with Coverage-sensitive Tracing and Scheduling.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Detecting and Explaining Self-Admitted Technical Debts with Attention-based Neural Networks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,OCoR: An Overlapping-Aware Code Retriever.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Understanding Performance Concerns in the API Documentation of Data Science Libraries.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,On the Effectiveness of Unified Debugging: An Extensive Study on 16 Program Repair Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automated Third-Party Library Detection for Android Applications: Are We There Yet?,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,CCGraph: a PDG-based code clone detector with approximate graph matching.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Generating Thread-Safe Classes Automatically.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,No Strings Attached: An Empirical Study of String-related Software Bugs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automated Patch Correctness Assessment: How Far are We?,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Evaluating Representation Learning of Code Changes for Predicting Patch Correctness in Program Repair.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Scalable Multiple-View Analysis of Reactive Systems via Bidirectional Model Transformations.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Trace-Checking Signal-based Temporal Properties: A Model-Driven Approach.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Attend and Represent: A Novel View on Algorithm Selection for Software Verification.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Cats Are Not Fish: Deep Learning Testing Calls for Out-Of-Distribution Awareness.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Metamorphic Object Insertion for Testing Object Detection Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Synthesis-Based Resolution of Feature Interactions in Cyber-Physical Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,MoFuzz: A Fuzzer Suite for Testing Model-Driven Software Engineering Tools.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Prober: Practically Defending Overflows with Page Protection.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Summary-Based Symbolic Evaluation for Smart Contracts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Applying Learning Techniques to Oracle Synthesis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automated Generation of Client-Specific Backends Utilizing Existing Microservices and Architectural Knowledge.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,SAT-Based Arithmetic Support for Alloy.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Robust Production Machine Learning Systems: Managing Dataset Shift.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Transparency-Encouraging Partial Software Disclosure to Enable Trust in Data Usage.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Using Defect Prediction to Improve the Bug Detection Capability of Search-Based Software Testing.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,The New Approach to IT Testing : Real Transaction-Based Automated Validation Solution.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Automatic Generation of IFTTT Mashup Infrastructures.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Building Robust DNN Applications: An Industrial Case Study of Evolutionary Data Augmentation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Industry Practice of JavaScript Dynamic Analysis on WeChat Mini-Programs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Lightweight MBT Testing for National e-Health Portal in Norway.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Code-Based Vulnerability Detection in Node.js Applications: How far are we?,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Framework for Automated Test Mocking of Mobile Apps.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Hybrid Analysis to Detect Java Serialisation Vulnerabilities.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,BugPecker: Locating Faulty Methods with Deep Learning on Revision Graphs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Closer to the Edge: Testing Compilers More Thoroughly by Being Less Conservative About Undefined Behaviour.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Making Fair ML Software using Trustworthy Explanation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,On Benign Features in Malware Detection.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Proving Termination by k-Induction.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,SRRTA: Regression Testing Acceleration via State Reuse.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,An Automated Assessment of Android Clipboards.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Edge4Sys: A Device-Edge Collaborative Framework for MEC based Smart Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Efficient Multiplex Symbolic Execution with Adaptive Search Strategy.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Managing App Testing Device Clouds: Issues and Opportunities.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Styx: A Data-Oriented Mutation Framework to Improve the Robustness of DNN.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Synthesizing Smart Solving Strategy for Symbolic Execution.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,"The Symptom, Cause and Repair of Workaround.",https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Immersive Comprehension of Software Systems Using Augmented Reality - An Empirical Evaluation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Towards Programming and Verification for Activity-Oriented Smart Home Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,AirMochi - A Tool for Remotely Controlling iOS Devices.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,"Botsing, a Search-based Crash Reproduction Framework for Java.",https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Express: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems**This research is in part supported by the National Natural Science Foundation of China Project No. 61972001.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Edge4Real: A Cost-Effective Edge Computing based Human Behaviour Recognition System for Human-Centric Software Engineering.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,FILO: FIx-LOcus Localization for Backward Incompatibilities Caused by Android Framework Upgrades.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,GUI2WiRe: Rapid Wireframing with a Mined and Large-Scale GUI Repository using Natural Language Requirements.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,HomoTR: Online Test Recommendation System Based on Homologous Code Matching.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,ImpAPTr: A Tool For Identifying The Clues To Online Service Anomalies.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,OSLDetector: Identifying Open-Source Libraries through Binary Analysis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Sosed: a tool for finding similar software projects.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,WASim: Understanding WebAssembly Applications through Classification.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,STIFA: Crowdsourced Mobile Testing Report Selection Based on Text and Image Fusion Analysis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,JITBot: An Explainable Just-In-Time Defect Prediction Bot.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Speeding up GUI Testing by On-Device Test Generation.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,PerfCI: A Toolchain for Automated Performance Testing during Continuous Integration of Python Projects.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,SmartBugs: A Framework to Analyze Solidity Smart Contracts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,RepoSkillMiner: Identifying software expertise from GitHub repositories using Natural Language Processing.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Machine Learning based Approach to Autogenerate Diagnostic Models for CNC machines.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Program Verification based Approach to Find Data Race Vulnerabilities in Interrupt-driven Program.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,A Unified Framework to Learn Program Semantics with Graph Neural Networks.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Anti-patterns for Java Automated Program Repair Tools.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,CrossPriv: User Privacy Preservation Model for Cross-Silo Federated Software.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Discovering UI Display Issues with Visual Understanding.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Dynamic Algorithm Selection for SMT.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,FLUX: From SQL to GQL query translation tool.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Finding Ethereum Smart Contracts Security Issues by Comparing History Versions.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Formal Verification of Masking Countermeasures for Arithmetic Programs.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Identifying Mutation Subsumption Relations.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Scalability and Precision Improvement of Neural Program Synthesis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,The Classification and Propagation of Program Comments.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Source Code and Binary Level Vulnerability Detection and Hot Patching.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,When Deep Learning Meets Smart Contracts.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2021,"36th IEEE/ACM International Conference on Automated Software Engineering, ASE 2021, Melbourne, Australia, November 15-19, 2021.",https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Explainable AI for Software Engineering.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Tackling Flaky Tests: Understanding the Problem and Providing Practical Solutions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automating User Notice Generation for Smart Contract Functions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,End-to-End Automation of Feedback on Student Assembly Programs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Is Historical Data an Appropriate Benchmark for Reviewer Recommendation Systems? : A Case Study of the Gerrit Community.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,An Empirical Study of Bugs in WebAssembly Compilers.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Detecting TensorFlow Program Bugs in Real-World Industrial Environment.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Why Do Developers Remove Lambda Expressions in Java?,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Context Debloating for Object-Sensitive Pointer Analysis.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Dynamic Generation of Python Bindings for HPC Kernels.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Testing Your Question Answering Software via Asking Recursively.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Improving Test Case Generation for REST APIs Through Hierarchical Clustering.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,ISPY: Automatic Issue-Solution Pair Extraction from Community Live Chats.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,EditSum: A Retrieve-and-Edit Framework for Source Code Summarization.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Interactive Cross-language Code Retrieval with Auto-Encoders.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,"Data-Driven Design and Evaluation of SMT Meta-Solving Strategies: Balancing Performance, Accuracy, and Cost.",https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,ASE: A Value Set Decision Procedure for Symbolic Execution.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,CorbFuzz: Checking Browser Security Policies with Fuzzing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Restoring the Executability of Jupyter Notebooks by Automatic Upgrade of Deprecated APIs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Adversarial Attacks to API Recommender Systems: Time to Wake Up and Smell the Coffee&#402;.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,REPFINDER: Finding Replacements for Missing APIs in Library Update.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Targeting Requirements Violations of Autonomous Driving Systems by Dynamic Evolutionary Search.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,On the Real-World Effectiveness of Static Bug Detectors at Finding Null Pointer Exceptions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Subtle Bugs Everywhere: Generating Documentation for Data Wrangling Code.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Distribution Models for Falsification and Verification of DNNs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,SATune: A Study-Driven Auto-Tuning Approach for Configurable Software Verification Tools.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Efficient SMT-Based Model Checking for Signal Temporal Logic.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Efficient state synchronisation in model-based testing through reinforcement learning.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Faster Mutation Analysis with Fewer Processes and Smaller Overheads.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,FRUGAL: Unlocking Semi-Supervised Learning for Software Analytics.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,PyExplainer: Explaining the Predictions of Just-In-Time Defect Models.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Graph-based Incident Aggregation for Large-Scale Online Service Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,On Multi-Modal Learning of Editing Source Code.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Learning Highly Recursive Input Grammars.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automated Testing for Machine Translation via Constituency Invariance.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Race Detection for Event-Driven Node.js Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Log-based Anomaly Detection Without Log Parsing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Finding the Missing Piece: Permission Specification Analysis for Android NDK.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Characterizing and Detecting Configuration Compatibility Issues in Android Apps.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Where to Start: Studying Type Annotation Practices in Python.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,APIzation: Generating Reusable APIs from StackOverflow Code Snippets.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,FIGCPS: Effective Failure-inducing Input Generation for Cyber-Physical Systems with Deep Reinforcement Learning.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,RULF: Rust Library Fuzzing via API Dependency Graph Traversal.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,PyNose: A Test Smell Detector For Python.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,JSTAR: JavaScript Specification Type Analyzer using Refinement.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Can Neural Clone Detection Generalize to Unseen Functionalities&#402;.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,&#34;What makes my queries slow?&#34;: Subgroup Discovery for SQL Workload Analysis.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Performance Testing for Cloud Computing with Dependent Data Bootstrapping.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Nekara: Generalized Concurrency Testing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,QDiff: Differential Testing of Quantum Software Stacks.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Finding A Needle in a Haystack: Automated Mining of Silent Vulnerability Fixes.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automated Repair of Size-Based Inaccessibility Issues in Mobile Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Mining Cross-Domain Apps for Software Evolution: A Feature-based Approach.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,UI Test Migration Across Mobile Platforms.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Intelligent Change Operators for Multi-Objective Refactoring.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Refactorings and Technical Debt in Docker Projects: An Empirical Study.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,FirmGuide: Boosting the Capability of Rehosting Embedded Linux Kernels through Model-Guided Kernel Execution.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,IFIZZ: Deep-State and Efficient Fault-Scenario Generation to Test IoT Firmware.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Learning Patterns in Configuration.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Transcode: Detecting Status Code Mapping Errors in Large-Scale Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Evolutionary-Guided Synthesis of Verified Pareto-Optimal MDP Policies.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automating Developer Chat Mining.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Understanding and Detecting Performance Bugs in Markdown Compilers.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Deep GUI: Black-box GUI Input Generation with Deep Learning.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Towards Exploring the Limitations of Active Learning: An Empirical Study.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Learning Domain-Specific Edit Operations from Model Repositories with Frequent Subgraph Mining.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Unsupervised Labeling and Extraction of Phrase-based Concepts in Vulnerability Descriptions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,A Compositional Deadlock Detector for Android Java.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Binary Diffing as a Network Alignment Problem via Belief Propagation.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,CiFi: Versatile Analysis of Class and Field Immutability.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Modeling Team Dynamics for the Characterization and Prediction of Delays in User Stories.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automated Verification of Go Programs via Bounded Model Checking.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,A Prediction Model for Software Requirements Change Impact.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,DSInfoSearch: Supporting Experimentation Process of Data Scientists.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Towards the generation of machine learning defect reports.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Leveraging Code Clones and Natural Language Processing for Log Statement Prediction.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,An Automated Pipeline for Privacy Leak Analysis of Android Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Training Automated Test Oracles to Identify Semantic Bugs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Binary Code Similarity Detection.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,"API Compatibility Issue Detection, Testing and Analysis for Android Apps.",https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Effectively Analyzing Evolving Software with Differential Facts.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automated Approach for System-level Testing of Unmanned Aerial Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Cross-Lingual Transfer Learning Framework for Program Analysis.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Fuzzing Methods Recommendation Based on Feature Vectors.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Gas Estimation and Optimization for Smart Contracts on Ethereum.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Quality analysis of mobile applications with special focus on security aspects.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Semi-automated Cross-Component Issue Management and Impact Analysis.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,How Can Subgroup Discovery Help AIOps?,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Access Control Tree for Testing and Learning.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,FinFuzzer: One Step Further in Fuzzing Fintech Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Evaluating Semantic Autocompletion of Business Processes with Domain Experts.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Learning-based Assistant for Data Migration of Enterprise Information Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Reducing Time-To-Fix For Fuzzer Bugs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automatically Deciding on the Integration of Commits Based on Their Descriptions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,BeeSwarm: Enabling Parallel Scaling Performance Measurement in Continuous Integration for HPC Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Lessons learned from hyper-parameter tuning for microservice candidate identification.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Learning GraphQL Query Cost.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Towards a Serverless Java Runtime.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,BIFF: Practical Binary Fuzzing Framework for Programs of IoT and Mobile Devices.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Infrastructure in Code: Towards Developer-Friendly Cloud Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Metamorphic Testing on Multi-module UAV Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Decoupling Server and Client Code Through Cloud-Native Domain-Specific Functions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automatically Annotating Sentences for Task-specific Bug Report Summarization.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Genetic Optimisation of C++ Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Revisiting Textual Feature of Bug-Triage Approach.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,A First Look at the Effect of Deep Learning in Coverage-guided Fuzzing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Counterexample Guided Inductive Repair of Reactive Contracts.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,AST-Transformer: Encoding Abstract Syntax Trees Efficiently for Code Summarization.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Detecting Adversarial Samples with Graph-Guided Testing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Using Static Analysis to Address Microservice Architecture Reconstruction.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Business Process Extraction Using Static Analysis.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Improving Mutation-Based Fault Localization with Plausible-code Generating Mutation Operators.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Using Version Control and Issue Tickets to detect Code Debt and Economical Cost.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,"Human-in-the-Loop XAI-enabled Vulnerability Detection, Investigation, and Mitigation.",https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,BeAFix: An Automated Repair Tool for Faulty Alloy Models.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,FLACK: Localizing Faults in Alloy Models.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,IncBL: Incremental Bug Localization.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Q&#38;A MAESTRO: Q&#38;A Post Recommendation for Fixing Java Runtime Exceptions.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,GenTree: Inferring Configuration Interactions using Decision Trees.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Quito: a Coverage-Guided Test Generator for Quantum Programs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Revizor: A Data-Driven Approach to Automate Frequent Code Changes Based on Graph Matching.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Scalable Fuzzing of Program Binaries with E9AFL.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,EvoMe: A Software Evolution Management Engine Based on Differential Factbase.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Automated Code Refactoring upon Database-Schema Changes in Web Applications.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Muskit: A Mutation Analysis Tool for Quantum Software Testing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,JTDog: a Gradle Plugin for Dynamic Test Smell Detection.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,RefactorInsight: Enhancing IDE Representation of Changes in Git with Refactorings Information.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Shaker: a Tool for Detecting More Flaky Tests Faster.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,DEVIATE: A Deep Learning Variance Testing Framework.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,SoManyConflicts: Resolve Many Merge Conflicts Interactively and Systematically.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,A Mocktail of Source Code Representations.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Empowering Web Applications with WebAssembly: Are We There Yet?,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Property-based Test for Part-of-Speech Tagging Tool.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Understanding Code Fragments with Issue Reports.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,An Empirical Study on Obsolete Issue Reports.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Did You Do Your Homework? Raising Awareness on Software Fairness and Discrimination.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Shake Those System Parameters! On the Need for Parameter Coverage for Decision Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,What do pre-trained code models know about code?,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Towards Systematic and Dynamic Task Allocation for Collaborative Parallel Fuzzing.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Adaptation<sup>2</sup>: Adapting Specification Learners in Assured Adaptive Systems.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Log Anomaly to Resolution: AI Based Proactive Incident Remediation.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,HyperGI: Automated Detection and Repair of Information Flow Leakage.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Privacy as first-class requirements in software development: A socio-technical approach.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Towards Fluid Software Architectures: Bidirectional Human-AI Interaction.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Bugs4Q: A Benchmark of Real Bugs for Quantum Programs.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Defeating Program Analysis Techniques via Ambiguous Translation.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,A Program Synthesis Approach for Adding Architectural Tactics to An Existing Code Base.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Program Synthesis with Algorithm Pseudocode Guidance.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,py2src: Towards the Automatic (and Reliable) Identification of Sources for PyPI Package.,https://dblp.org/db/conf/kbse/ase2021.html

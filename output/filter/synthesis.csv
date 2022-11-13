@@ -1,0 +1,343 @@
+name,year,title,link
+aaai,2016,Analysis-Synthesis Dictionary Learning for Universality-Particularity Representation Based Classification.,https://dblp.org/db/conf/aaai/aaai2016.html
+aaai,2016,Dynamic Controllability of Disjunctive Temporal Networks: Validation and Synthesis of Executable Strategies.,https://dblp.org/db/conf/aaai/aaai2016.html
+aaai,2017,Automated Data Extraction Using Predictive Program Synthesis.,https://dblp.org/db/conf/aaai/aaai2017.html
+aaai,2017,Near-Optimal Active Learning of Halfspaces via Query Synthesis in the Noisy Setting.,https://dblp.org/db/conf/aaai/aaai2017.html
+aaai,2018,Synthesis of Programs from Multimodal Datasets.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2018,Glass-Box Program Synthesis: A Machine Learning Approach.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2018,Disjunctive Program Synthesis: A Robust Approach to Programming by Example.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2018,r-BTN: Cross-Domain Face Composite and Synthesis From Limited Facial Patches.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2018,S-Net: From Answer Extraction to Answer Synthesis for Machine Reading Comprehension.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2018,Synthesis of Orchestrations of Transducers for Manufacturing.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2018,Face Sketch Synthesis From Coarse to Fine.,https://dblp.org/db/conf/aaai/aaai2018.html
+aaai,2019,PGANs: Personalized Generative Adversarial Networks for ECG Synthesis to Improve Patient-Specific Deep ECG Classification.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,3D Face Synthesis Driven by Personality Impression.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Stepping Stones to Inductive Synthesis of Low-Level Looping Programs.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Adversarial Learning of Semantic Relevance in Text to Image Synthesis.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Neural Speech Synthesis with Transformer Network.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Perceptual Pyramid Adversarial Networks for Text-to-Image Synthesis.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Look across Elapse: Disentangled Representation Learning and Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Robust Multi-Object Detection Based on Data Augmentation with Realistic Image Synthesis for Point-of-Sale Automation.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Verifiable and Interpretable Reinforcement Learning through Program Synthesis.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,Lipper: Speaker Independent Speech Synthesis Using Multi-View Lipreading.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2019,MIGAN: Malware Image Synthesis Using GANs.,https://dblp.org/db/conf/aaai/aaai2019.html
+aaai,2020,Grammar Filtering for Syntax-Guided Synthesis.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,LTL&#402; Synthesis with Fairness and Stability Assumptions.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,High Tissue Contrast MRI Synthesis Using Multi-Stage Attention-GAN for Segmentation.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Hybrid Compositional Reasoning for Reactive Synthesis from Finite-Horizon Specifications.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Automated Synthesis of Social Laws in STRIPS.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Modular Robot Design Synthesis with Deep Reinforcement Learning.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Auto-GAN: Self-Supervised Collaborative Learning for Medical Image Synthesis.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Symmetrical Synthesis for Deep Metric Learning.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Learning Part Generation and Assembly for Structure-Aware Shape Synthesis.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Learning to Deblur Face Images via Sketch Synthesis.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,GDFace: Gated Deformation for Multi-View Face Image Synthesis.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2020,Human Synthesis and Scene Compositing.,https://dblp.org/db/conf/aaai/aaai2020.html
+aaai,2021,XraySyn: Realistic View Synthesis From a Single Radiograph Through CT Priors.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,GTA: Graph Truncated Attention for Retrosynthesis.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,DeepWriteSYN: On-Line Handwriting Synthesis via Deep Short-Term Representations.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,Self-Supervised Sketch-to-Image Synthesis.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,FontRL: Chinese Font Synthesis via Deep Reinforcement Learning.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,On-the-fly Synthesis for LTL over Finite Traces.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,Knowledge Refactoring for Inductive Program Synthesis.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,DeepSynth: Automata Synthesis for Automatic Task Segmentation in Deep Reinforcement Learning.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,Data-Free Knowledge Distillation with Soft Targeted Transfer Set Synthesis.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,Synthesis of Search Heuristics for Temporal Planning via Reinforcement Learning.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2021,TaLNet: Voice Reconstruction from Tongue and Lip Articulation with Transfer Learning from Text-to-Speech Synthesis.,https://dblp.org/db/conf/aaai/aaai2021.html
+aaai,2022,Assessing a Single Image in Reference-Guided Image Synthesis.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,NaturalInversion: Data-Free Image Synthesis Improving Real-World Consistency.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,Recurrent Neural Network Controllers Synthesis with Stability Guarantees for Partially Observed Systems.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,Automated Synthesis of Generalized Invariant Strategies via Counterexample-Guided Strategy Refinement.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,Scaling Neural Program Synthesis with Distribution-Based Search.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,Synthesis from Satisficing and Temporal Goals.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,Formula Synthesis in Propositional Dynamic Logic with Shuffle.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism.,https://dblp.org/db/conf/aaai/aaai2022.html
+aaai,2022,Do We Need a New Large-Scale Quality Assessment Database for Generative Inpainting Based 3D View Synthesis? (Student Abstract).,https://dblp.org/db/conf/aaai/aaai2022.html
+acl,2016,Prototype Synthesis for Model Laws.,https://dblp.org/db/conf/acl/acl2016-1.html
+acl,2016,Continuous Profile Models in ASL Syntactic Facial Expression Synthesis.,https://dblp.org/db/conf/acl/acl2016-1.html
+acl,2021,Text-Free Image-to-Speech Synthesis Using Learned Segmental Units.,https://dblp.org/db/conf/acl/acl2021-1.html
+acl,2022,Requirements and Motivations of Low-Resource Speech Synthesis for Language Revitalization.,https://dblp.org/db/conf/acl/acl2022-1.html
+acl1,2020,Benchmarking Multimodal Regex Synthesis with Complex Structures.,https://dblp.org/db/conf/acl/acl2020.html
+ase,2016,Automatic runtime recovery via error handler synthesis.,https://dblp.org/db/conf/kbse/ase2016.html
+ase,2017,Parsimony: an IDE for example-guided synthesis of lexers and parsers.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2017,DSSynth: an automated digital controller synthesis tool for physical plants.,https://dblp.org/db/conf/kbse/ase2017.html
+ase,2019,Automatically Repairing Binary Programs Using Adapter Synthesis.,https://dblp.org/db/conf/kbse/ase2019.html
+ase,2020,Synthesis of Infinite-State Systems with Random Behavior.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Just-In-Time Reactive Synthesis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Synthesis-Based Resolution of Feature Interactions in Cyber-Physical Systems.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Applying Learning Techniques to Oracle Synthesis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2020,Scalability and Precision Improvement of Neural Program Synthesis.,https://dblp.org/db/conf/kbse/ase2020.html
+ase,2021,VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Evolutionary-Guided Synthesis of Verified Pareto-Optimal MDP Policies.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,A Program Synthesis Approach for Adding Architectural Tactics to An Existing Code Base.,https://dblp.org/db/conf/kbse/ase2021.html
+ase,2021,Program Synthesis with Algorithm Pseudocode Guidance.,https://dblp.org/db/conf/kbse/ase2021.html
+emnlp1,2017,Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension.,https://dblp.org/db/conf/emnlp/emnlp2017.html
+emnlp1,2017,Towards Automatic Construction of News Overview Articles by News Synthesis.,https://dblp.org/db/conf/emnlp/emnlp2017.html
+esem,2017,Structured Synthesis Method: The Evidence Factory Tool.,https://dblp.org/db/conf/esem/esem2017.html
+fse,2016,Guided code synthesis using deep neural networks.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2016,Data structure synthesis.,https://dblp.org/db/conf/sigsoft/fse2016.html
+fse,2017,S3: syntax- and semantic-guided repair synthesis via programming by examples.,https://dblp.org/db/conf/sigsoft/fse2017.html
+fse,2018,Bug synthesis: challenging bug-finding tools with deep faults.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2018,Syntax-guided synthesis of Datalog programs.,https://dblp.org/db/conf/sigsoft/fse2018.html
+fse,2019,Maximal multi-layer specification synthesis.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2019,Phoenix: automated data-driven synthesis of repairs for static analysis violations.,https://dblp.org/db/conf/sigsoft/fse2019.html
+fse,2020,Inductive program synthesis over noisy data.,https://dblp.org/db/conf/sigsoft/fse2020.html
+fse,2021,Synthesis of web layouts from examples.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,Graph-based seed object synthesis for search-based unit testing.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2021,GenSys: a scalable fixed-point engine for maximal controller synthesis over infinite state spaces.,https://dblp.org/db/conf/sigsoft/fse2021.html
+fse,2022,Multi-phase invariant synthesis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,Parasol: efficient parallel synthesis of large model spaces.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,NL2Viz: natural language to visualization via constrained syntax-guided synthesis.,https://dblp.org/db/conf/sigsoft/fse2022.html
+fse,2022,AutoTSG: learning and synthesis for incident troubleshooting.,https://dblp.org/db/conf/sigsoft/fse2022.html
+iclr,2017,Program Synthesis for Character Level Language Modeling.,https://dblp.org/db/conf/iclr/iclr2017.html
+iclr,2017,Neuro-Symbolic Program Synthesis.,https://dblp.org/db/conf/iclr/iclr2017.html
+iclr,2018,Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis.,https://dblp.org/db/conf/iclr/iclr2018.html
+iclr,2018,Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.,https://dblp.org/db/conf/iclr/iclr2018.html
+iclr,2018,Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples.,https://dblp.org/db/conf/iclr/iclr2018.html
+iclr,2018,VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop.,https://dblp.org/db/conf/iclr/iclr2018.html
+iclr,2018,PixelNN: Example-based Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2018.html
+iclr,2019,Large Scale GAN Training for High Fidelity Natural Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2019,Adversarial Audio Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2019,Execution-Guided Neural Program Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2019,GANSynth: Adversarial Neural Audio Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2019,Learning a Meta-Solver for Syntax-Guided Program Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2019,Synthetic Datasets for Neural Program Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2019,Hierarchical Generative Modeling for Controllable Speech Synthesis.,https://dblp.org/db/conf/iclr/iclr2019.html
+iclr,2020,Semi-Supervised Generative Modeling for Controllable Speech Synthesis.,https://dblp.org/db/conf/iclr/iclr2020.html
+iclr,2020,Guiding Program Synthesis by Learning to Generate Examples.,https://dblp.org/db/conf/iclr/iclr2020.html
+iclr,2020,RGBD-GAN: Unsupervised 3D Representation Learning From Natural Image Datasets via RGBD Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2020.html
+iclr,2020,High Fidelity Speech Synthesis with Adversarial Networks.,https://dblp.org/db/conf/iclr/iclr2020.html
+iclr,2021,Neural Synthesis of Binaural Speech From Mono Audio.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,DiffWave: A Versatile Diffusion Model for Audio Synthesis.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,A Good Image Generator Is What You Need for High-Resolution Video Synthesis.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,BUSTLE: Bottom-Up Program Synthesis Through Learning-Guided Exploration.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,You Only Need Adversarial Supervision for Semantic Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,Unsupervised Audiovisual Synthesis via Exemplar Autoencoders.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,Zero-shot Synthesis with Group-Supervised Learning.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2021,Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis.,https://dblp.org/db/conf/iclr/iclr2021.html
+iclr,2022,CrossBeam: Learning to Search in Bottom-Up Program Synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,PEARL: Data Synthesis via Private Embeddings and Adversarial Reconstruction Learning.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,Chunked Autoregressive GAN for Conditional Waveform Synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,Generalized rectifier wavelet covariance models for texture synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,Neural Program Synthesis with Query.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,VOS: Learning What You Don't Know by Virtual Outlier Synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,InfinityGAN: Towards Infinite-Pixel Image Synthesis.,https://dblp.org/db/conf/iclr/iclr2022.html
+iclr,2022,Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design.,https://dblp.org/db/conf/iclr/iclr2022.html
+icml,2016,Generative Adversarial Text to Image Synthesis.,https://dblp.org/db/conf/icml/icml2016.html
+icml,2016,Texture Networks: Feed-forward Synthesis of Textures and Stylized Images.,https://dblp.org/db/conf/icml/icml2016.html
+icml,2017,Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders.,https://dblp.org/db/conf/icml/icml2017.html
+icml,2017,Conditional Image Synthesis with Auxiliary Classifier GANs.,https://dblp.org/db/conf/icml/icml2017.html
+icml,2018,Efficient Neural Audio Synthesis.,https://dblp.org/db/conf/icml/icml2018.html
+icml,2018,Parallel WaveNet: Fast High-Fidelity Speech Synthesis.,https://dblp.org/db/conf/icml/icml2018.html
+icml,2018,Selecting Representative Examples for Program Synthesis.,https://dblp.org/db/conf/icml/icml2018.html
+icml,2018,Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron.,https://dblp.org/db/conf/icml/icml2018.html
+icml,2018,Neural Program Synthesis from Diverse Demonstration Videos.,https://dblp.org/db/conf/icml/icml2018.html
+icml,2018,"Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis.",https://dblp.org/db/conf/icml/icml2018.html
+icml,2019,CHiVE: Varying Prosody in Speech Synthesis with a Linguistically Driven Dynamic Hierarchical Conditional Variational Network.,https://dblp.org/db/conf/icml/icml2019.html
+icml,2019,Adversarial Generation of Time-Frequency Features with application in audio synthesis.,https://dblp.org/db/conf/icml/icml2019.html
+icml,2019,Learning Neurosymbolic Generative Models via Program Synthesis.,https://dblp.org/db/conf/icml/icml2019.html
+icml,2020,SimGANs: Simulator-Based Generative Adversarial Networks for ECG Synthesis to Improve Deep ECG Classification.,https://dblp.org/db/conf/icml/icml2020.html
+icml,2020,Generating Programmatic Referring Expressions via Program Synthesis.,https://dblp.org/db/conf/icml/icml2020.html
+icml,2020,A Graph to Graphs Framework for Retrosynthesis Prediction.,https://dblp.org/db/conf/icml/icml2020.html
+icml,2020,FormulaZero: Distributionally Robust Online Adaptation via Offline Population Synthesis.,https://dblp.org/db/conf/icml/icml2020.html
+icml,2021,A large-scale benchmark for few-shot program induction and synthesis.,https://dblp.org/db/conf/icml/icml2021.html
+icml,2021,Compositional Video Synthesis with Action Graphs.,https://dblp.org/db/conf/icml/icml2021.html
+icml,2021,Latent Programmer: Discrete Latent Codes for Program Synthesis.,https://dblp.org/db/conf/icml/icml2021.html
+icml,2022,A<sup>3</sup>T: Alignment-Aware Acoustic and Text Pretraining for Speech Synthesis and Editing.,https://dblp.org/db/conf/icml/icml2022.html
+icml,2022,ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases.,https://dblp.org/db/conf/icml/icml2022.html
+icml,2022,Planning with Diffusion for Flexible Behavior Synthesis.,https://dblp.org/db/conf/icml/icml2022.html
+icml,2022,VarScene: A Deep Generative Model for Realistic Scene Graph Synthesis.,https://dblp.org/db/conf/icml/icml2022.html
+icml,2022,Retroformer: Pushing the Limits of End-to-end Retrosynthesis Transformer.,https://dblp.org/db/conf/icml/icml2022.html
+icse,2016,Program synthesis using natural language.,https://dblp.org/db/conf/icse/icse2016.html
+icse,2016,SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis.,https://dblp.org/db/conf/icse/icse2016.html
+icse,2016,Cross-supervised synthesis of web-crawlers.,https://dblp.org/db/conf/icse/icse2016.html
+icse,2016,Angelix: scalable multiline program patch synthesis via symbolic analysis.,https://dblp.org/db/conf/icse/icse2016.html
+icse,2016,PAC learning-based verification and model synthesis.,https://dblp.org/db/conf/icse/icse2016.html
+icse,2017,Precise condition synthesis for program repair.,https://dblp.org/db/conf/icse/icse2017.html
+icse,2018,Generalized data structure synthesis.,https://dblp.org/db/conf/icse/icse2018.html
+icse,2021,SOAR: A Synthesis Approach for Data Science API Refactoring.,https://dblp.org/db/conf/icse/icse2021.html
+icse,2021,Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis.,https://dblp.org/db/conf/icse/icse2021.html
+icse,2021,Data-Driven Synthesis of Provably Sound Side Channel Analyses.,https://dblp.org/db/conf/icse/icse2021.html
+icse,2021,TRANSREGEX: Multi-modal Regular Expression Synthesis by Generate-and-Repair.,https://dblp.org/db/conf/icse/icse2021.html
+icse,2022,DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps.,https://dblp.org/db/conf/icse/icse2022.html
+icse,2022,History-Driven Test Program Synthesis for JVM Testing.,https://dblp.org/db/conf/icse/icse2022.html
+icse,2022,Jigsaw: Large Language Models meet Program Synthesis.,https://dblp.org/db/conf/icse/icse2022.html
+icse,2022,Push-Button Synthesis of Watch Companions for Android Apps.,https://dblp.org/db/conf/icse/icse2022.html
+icsme,2016,Empirical Study on Synthesis Engines for Semantics-Based Program Repair.,https://dblp.org/db/conf/icsm/icsme2016.html
+ijcai,2016,Automated Synthesis of Timed Failure Propagation Graphs.,https://dblp.org/db/conf/ijcai/ijcai2016.html
+ijcai,2016,Plan Synthesis for Knowledge and Action Bases.,https://dblp.org/db/conf/ijcai/ijcai2016.html
+ijcai,2016,LTL<sub>f</sub> and LDL<sub>f</sub> Synthesis under Partial Observability.,https://dblp.org/db/conf/ijcai/ijcai2016.html
+ijcai,2016,Dimensionally Guided Synthesis of Mathematical Word Problems.,https://dblp.org/db/conf/ijcai/ijcai2016.html
+ijcai,2016,Logic-Based Inductive Synthesis of Efficient Programs.,https://dblp.org/db/conf/ijcai/ijcai2016.html
+ijcai,2017,Automatic Synthesis of Smart Table Constraints by Abstraction of Table Constraints.,https://dblp.org/db/conf/ijcai/ijcai2017.html
+ijcai,2017,Symbolic LTLf Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2017.html
+ijcai,2017,Deep Graphical Feature Learning for Face Sketch Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2017.html
+ijcai,2017,Fast Preprocessing for Robust Face Sketch Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2017.html
+ijcai,2018,Synthesis of Controllable Nash Equilibria in Quantitative Objective Game.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,Symbolic Synthesis of Fault-Tolerance Ratios in Parameterised Multi-Agent Systems.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,Visual Data Synthesis via GAN for Zero-Shot Video Classification.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,Markov Random Neural Fields for Face Sketch Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,Robust Face Sketch Synthesis via Generative Adversarial Fusion of Priors and Parametric Sigmoid.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,Counterexample-Driven Genetic Programming: Stochastic Synthesis of Provably Correct Programs.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,Optimal Multi-robot Task Planning: from Synthesis to Execution (and Back).,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2018,SynKit: LTL Synthesis as a Service.,https://dblp.org/db/conf/ijcai/ijcai2018.html
+ijcai,2019,Face Photo-Sketch Synthesis via Knowledge Transfer.,https://dblp.org/db/conf/ijcai/ijcai2019.html
+ijcai,2019,Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2019.html
+ijcai,2019,Partitioning Techniques in LTLf Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2019.html
+ijcai,2019,Steady-State Policy Synthesis for Verifiable Control.,https://dblp.org/db/conf/ijcai/ijcai2019.html
+ijcai,2020,Assume-Guarantee Synthesis for Prompt Linear Temporal Logic.,https://dblp.org/db/conf/ijcai/ijcai2020.html
+ijcai,2020,Synthesis of Deceptive Strategies in Reachability Games with Action Misperception.,https://dblp.org/db/conf/ijcai/ijcai2020.html
+ijcai,2020,Automatic Synthesis of Generalized Winning Strategies of Impartial Combinatorial Games Using SMT Solvers.,https://dblp.org/db/conf/ijcai/ijcai2020.html
+ijcai,2020,Model-Based Synthesis of Incremental and Correct Estimators for Discrete Event Systems.,https://dblp.org/db/conf/ijcai/ijcai2020.html
+ijcai,2020,Steady-State Policy Synthesis in Multichain Markov Decision Processes.,https://dblp.org/db/conf/ijcai/ijcai2020.html
+ijcai,2020,Robust Policy Synthesis for Uncertain POMDPs via Convex Optimization.,https://dblp.org/db/conf/ijcai/ijcai2020.html
+ijcai,2021,A Sketch-Transformer Network for Face Photo-Sketch Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,Best-Effort Synthesis: Doing Your Best Is Not Harder Than Giving Up.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,Finite-Trace and Generalized-Reactivity Specifications in Temporal Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,Program Synthesis as Dependency Quantified Formula Modulo Theory.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,Interpretable Minority Synthesis for Imbalanced Classification.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,You Get What You Sow: High Fidelity Image Synthesis with a Single Pretrained Network.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2021,LTL-Constrained Steady-State Policy Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2021.html
+ijcai,2022,Automated Synthesis of Mechanisms.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,HifiHead: One-Shot High Fidelity Neural Head Synthesis with 3D Control.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,LTLf Synthesis as AND-OR Graph Search: Knowledge Compilation at Work.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,Synthesis of Maximally Permissive Strategies for LTLf Specifications.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,Completeness and Diversity in Depth-First Proof-Number Search with Applications to Retrosynthesis.,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,Situation Calculus for Controller Synthesis in Manufacturing Systems with First-Order State Representation (Extended Abstract).,https://dblp.org/db/conf/ijcai/ijcai2022.html
+ijcai,2022,"Counting, Sampling, and Synthesis: The Quest for Scalability.",https://dblp.org/db/conf/ijcai/ijcai2022.html
+kdd,2019,Contextual Fact Ranking and Its Applications in Table Synthesis and Compression.,https://dblp.org/db/conf/kdd/kdd2019.html
+kdd,2020,DeepSinger: Singing Voice Synthesis with Data Mined From the Web.,https://dblp.org/db/conf/kdd/kdd2020.html
+kdd,2020,LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition.,https://dblp.org/db/conf/kdd/kdd2020.html
+kdd,2022,Synthesising Audio Adversarial Examples for Automatic Speech Recognition.,https://dblp.org/db/conf/kdd/kdd2022.html
+naacl,2022,Quantifying Synthesis and Fusion and their Impact on Machine Translation.,https://dblp.org/db/conf/naacl/naacl2022.html
+nips,2020,Generative View Synthesis: From Single-view Semantics to Novel-view Images.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Barking up the right tree: an approach to search over molecule synthesis DAGs.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,GramGAN: Deep 3D Texture Synthesis From 2D Exemplars.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Learning Compositional Rules via Neural Program Synthesis.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,RELATE: Physically Plausible Multi-Object Scene Synthesis Using Structured Latent Spaces.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,A Spectral Energy Distance for Parallel Speech Synthesis.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Program Synthesis with Pragmatic Communication.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Neural FFTs for Universal Texture Image Synthesis.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,"Synthesize, Execute and Debug: Learning to Repair for Neural Program Synthesis.",https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2020,Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis.,https://dblp.org/db/conf/nips/neurips2020.html
+nips,2021,Lip to Speech Synthesis with Visual Context Attentional GAN.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Invertible Tabular GANs: Killing Two Birds with One Stone for Tabular Data Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Learning to Combine Per-Example Solutions for Neural Program Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Diffusion Models Beat GANs on Image Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Learning Graph Models for Retrosynthesis Prediction.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Towards understanding retrosynthesis by energy-based models.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Differentiable Synthesis of Program Architectures.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,ATISS: Autoregressive Transformers for Indoor Scene Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,CCVS: Context-aware Controllable Video Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Neural Circuit Synthesis from Specification Patterns.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Amortized Synthesis of Constrained Configurations Using a Differentiable Surrogate.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Iterative Teaching by Label Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Latent Execution for Neural Program Synthesis Beyond Domain-Specific Languages.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,T&#246;RF: Time-of-Flight Radiance Fields for Dynamic Scene View Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,UFC-BERT: Unifying Multi-Modal Controls for Conditional Image Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis.,https://dblp.org/db/conf/nips/neurips2021.html
+nips,2021,Program Synthesis Guided Reinforcement Learning for Partially Observed Environments.,https://dblp.org/db/conf/nips/neurips2021.html
+pacmpl,1,Model-assisted machine-code synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Synthesis of data completion scripts using finite tree automata.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,SQLizer: query synthesis from natural language.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Natural synthesis of provably-correct data-structure manipulations.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,2,Automated lemma synthesis in symbolic-heap separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Non-linear reasoning for invariant synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Strategy synthesis for linear arithmetic games.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Bonsai: synthesis-based reasoning for type systems.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Program synthesis using abstraction refinement.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Relational program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Robust relational layout synthesis from examples for Android.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,3,Bayesian synthesis of probabilistic programs for automatic data modeling.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Structuring the synthesis of heap-manipulating programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,FrAngel: component-based synthesis with control structures.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Hamsaz: replication coordination analysis and synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Program synthesis with algebraic library specifications.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,On the fly synthesis of edit suggestions.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,AutoPandas: neural-backed generators for program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,4,Program synthesis by type-guided abstraction refinement.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Synthesis of coordination programs from linear temporal specifications.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Augmented example-based synthesis using relational perturbation properties.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Provenance-guided synthesis of Datalog programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Automated policy synthesis for system call sandboxing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Verifying and improving Halide's term rewriting system with program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Interactive synthesis of temporal specifications from examples and natural language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Digging for fold: synthesis-aided API discovery for Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Feedback-driven semi-supervised synthesis of program transformations.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Just-in-time learning for bottom-up enumerative synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,TacTok: semantics-aware proof synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,5,Semantics-guided synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Combining the top-down propagation and bottom-up enumeration for inductive program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Certifying the synthesis of heap-manipulating programs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,LooPy: interactive program synthesis with control structures.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Multi-modal program inference: a marriage of pre-trained language models and component-based synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,UDF to SQL translation through compositional lazy inductive synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,APIfix: output-oriented program synthesis for combating breaking changes in libraries.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Generalizable synthesis through unification.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,"One down, 699 to go: or, synthesising compositional desugarings.",https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Gauss: program synthesis by reasoning over graphs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Formal verification of high-level synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,6,Bottom-up synthesis of recursive functional programs using angelic execution.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Automated transpilation of imperative to functional code using neural-guided program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Complexity-guided container replacement synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pldi,2016,Configuration synthesis for programmable analog devices with Arco.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Stratified synthesis: automatically learning the x86-64 instruction set.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,MapReduce program synthesis.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Fast synthesis of fast collections.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2016,Program synthesis from polymorphic refinement types.,https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2017,Component-based synthesis of table consolidation and transformation tasks from examples.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Network configuration synthesis with abstract topologies.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Synthesis of divide and conquer parallelism for loops.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2017,Gradual synthesis for static parallelization of single-pass array-processing programs.,https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2018,Program synthesis using conflict-driven learning.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2018,Accelerating search-based program synthesis using learned probabilistic models.,https://dblp.org/db/conf/pldi/pldi2018.html
+pldi,2019,Resource-guided program synthesis.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,Synthesis and machine learning for heterogeneous extraction.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2019,An inductive synthesis framework for verifiable reinforcement learning.,https://dblp.org/db/conf/pldi/pldi2019.html
+pldi,2020,Multi-modal synthesis of regular expressions.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Optimizing homomorphic evaluation circuits by program synthesis and term rewriting.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Exact and approximate methods for proving unrealizability of syntax-guided synthesis problems.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Question selection for interactive program synthesis.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2020,Reconciling enumerative and deductive program synthesis.,https://dblp.org/db/conf/pldi/pldi2020.html
+pldi,2021,Web question answering with neurosymbolic program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,RbSyn: type- and effect-guided program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Adaptive restarts for stochastic synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,SyRust: automatic testing of Rust libraries with semantic-aware program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Cyclic program synthesis.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Phased synthesis of divide and conquer programs.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Example-guided synthesis of relational queries.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2021,Specification synthesis with constrained Horn clauses.,https://dblp.org/db/conf/pldi/pldi2021.html
+pldi,2022,ANOSY: approximated knowledge synthesis with refinement types for declassification.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Type-directed program synthesis for RESTful APIs.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Visualization question answering using introspective program synthesis.,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Can reactive synthesis and syntax-guided synthesis be friends?,https://dblp.org/db/conf/pldi/pldi2022.html
+pldi,2022,Recursion synthesis with unrealizability witnesses.,https://dblp.org/db/conf/pldi/pldi2022.html
+tse,43,Automated Synthesis and Dynamic Analysis of Tradeoff Spaces for Object-Relational Mapping.,https://dblp.org/db/journals/tse/tse43.html
+tse,47,Topology-Specific Synthesis of Self-Stabilizing Parameterized Systems with Constant-Space Processes.,https://dblp.org/db/journals/tse/tse47.html

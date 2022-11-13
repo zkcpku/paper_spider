@@ -1,0 +1,538 @@
+name,year,title,link
+icsme,2016,"2016 IEEE International Conference on Software Maintenance and Evolution, ICSME 2016, Raleigh, NC, USA, October 2-7, 2016.",https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,An Ecosystemic and Socio-Technical View on Software Maintenance and Evolution.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,An Empirical Evaluation of Models of Programmer Navigation.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Comprehensive Study on the Energy Efficiency of Java's Thread-Safe Collections.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Maintenance Effort Estimation for Open Source Software: A Systematic Literature Review.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Taxonomy for Program Metamodels in Program Reverse Engineering.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Automated Extraction of Mixins in Cascading Style Sheets.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,The A?B*A Pattern: Undoing Style in CSS and Refactoring Opportunities It Presents.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Detect Cross-Browser Issues for JavaScript-Based Web Applications Based on Record/Replay.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,An Empirical Study of Internationalization Failures in the Web.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Evolving Requirements-to-Code Trace Links across Versions of a Software System.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Inferring Links between Concerns and Methods with Multi-abstraction Vector Space Model.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Inferring Computational State Machine Models from Program Executions.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,An Optimization Approach for Matching Textual Domain Models with Existing Code.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Complete Operator Library for DSL Evolution Specification.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,"Do Contexts Help in Phrase-Based, Statistical Source Code Migration?",https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Evolving NoSQL Databases without Downtime.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Hug the Elephant: Migrating a Legacy Data Analytics Application to Hadoop Ecosystem.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,An Empirical Study on the Characteristics of Python Fine-Grained Source Code Change Types.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Using Topic Model to Suggest Fine-Grained Source Code Changes.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,From Quick Fixes to Slow Fixes: Reimagining Static Analysis Resolutions to Enable Design Space Exploration.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Recommending Code Changes for Automatic Backporting of Linux Device Drivers.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Validated Set of Smells in Model-View-Controller Architectures.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Smells Like Teen Spirit: Improving Bug Prediction Performance Using the Intensity of Code Smells.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Comparing Quality Metrics for Cloned and Non Cloned Java Methods: A Large Scale Empirical Study.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,&#34;Automated Debugging Considered Harmful&#34; Considered Harmful: A User Study Revisiting the Usefulness of Spectra-Based Fault Localization Techniques with Professionals Using Real Bugs from Large Systems.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,An Automated Approach for Recommending When to Stop Performance Tests.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Recovering Commit Branch of Origin from GitHub Repositories.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Why are Commits Being Reverted?: A Comparative Study of Industrial and Open Source Projects.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Understanding Variable Code: Reducing the Complexity by Integrating Variability Information.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,"Concepts, Operations, and Feasibility of a Projection-Based Variation Control System.",https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Understanding the Factors That Impact the Popularity of GitHub Repositories.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Who is Who in the Mailing List? Comparing Six Disambiguation Heuristics to Identify Multiple Addresses of a Participant.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,TechLand: Assisting Technology Landscape Inquiries with Insights from Stack Overflow.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Search-Based Peer Reviewers Recommendation in Modern Code Review.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,ICON: Inferring Temporal Constraints from Natural Language API Descriptions.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Learning to Extract API Mentions from Informal Natural Language Discussions.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,"On the Reaction to Deprecation of 25, 357 Clients of 4+1 Popular Java APIs.",https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Accessing Inaccessible Android APIs: An Empirical Study.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Empirical Study on Synthesis Engines for Semantics-Based Program Repair.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Enhancing Automated Program Repair with Deductive Verification.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Automatic Detection of Instability Architectural Smells.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Towards Accurate Binary Correspondence Using Runtime-Observed Values.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Quantitative and Qualitative Investigation of Performance-Related Commits in Android Apps.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,On the Vocabulary Agreement in Software Issue Descriptions.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Repairing Intricate Faults in Code Using Machine Learning and Path Exploration.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Continuous Maintenance.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Using Temporal and Semantic Developer-Level Information to Predict Maintenance Activity Profiles.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Modular Change Impact Analysis for Configurable Software.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,How Does the Shift to GitHub Impact Project Collaboration?,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Key Elements Extraction and Traces Comprehension Using Gestalt Theory and the Helmholtz Principle.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Part of Speech Tagging Java Method Names.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Detecting Function Constructors in JavaScript.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Improving Code Maintainability: A Case Study on the Impact of Refactoring.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,What is the Cause for a Defect to be Re-Assigned?,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,How Can We Help Software Rearchitecting Efforts? Study of an Industrial Case.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Continuous Delivery Practices in a Large Financial Organization.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Introducing Traceability and Consistency Checking for Change Impact Analysis across Engineering Tools in an Automation Solution Company: An Experience Report.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Use Cases of a Generic Model Interpreter in an Automotive Software Setting.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Integration of Static and Dynamic Code Analysis for Understanding Legacy Source Code.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Case Study of Automated Feature Location Techniques for Industrial Cost Estimation.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Tiered Approach Towards an Incremental BPEL to BPMN 2.0 Migration.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Effect of Time Window on the Performance of Continuous Regression Testing.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Customized Regression Testing Using Telemetry Usage Patterns.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Industrial Application of Automated Regression Testing in Test-Driven ETL Development.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,SchemaAnalyst: Search-Based Test Data Generation for Relational Database Schemas.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,mrstudyr: Retrospectively Studying the Effectiveness of Mutant Reduction Techniques.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,BigCloneEval: A Clone Detection Tool Evaluation Framework with BigCloneBench.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,NullTerminator: Pseudo-Automatic Refactoring to Null Object Design Pattern.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,srcType: A Tool for Efficient Static Type Resolution.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Tool for Efficiently Reverse Engineering Accurate UML Class Diagrams.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,TraceLab Components for Reproducing Source Code Summarization Experiments.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Data and Analysis Code for GP EFSM Inference.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,"Artifact: Cassandra Source Code, Feature Descriptions across 27 Versions, with Starting and Ending Version Trace Matrices.",https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Tool for Detecting and Refactoring the A?B*A Pattern in CSS.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Artifacts for &#34;A Comprehensive Study on the Energy Efficiency of Java's Thread-Safe Collections&#34;.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Experimental Data for the A?B*A Pattern in CSS: Inputs and Outputs.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Resolving Input Validation Vulnerabilities by Retracing Taint Flow Through Source Code.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,On the Popularity of GitHub Software.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Roadmap for Co-Evolution of Meta-Models and Models.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Improving Bug Reporting and Testing for Mobile Applications.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,A Multiagent-Based Framework for Self-Adaptive Software with Search-Based Optimization.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Measuring Code Similarity in Large-Scaled Code Corpora.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Automatically Documenting Software Artifacts.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Alternative Sources of Information for Code Smell Detection: Postcards from Far Away.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Configuring and Assembling Information Retrieval Based Solutions for Software Engineering Tasks.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,iTrace: Overcoming the Limitations of Short Code Examples in Eye Tracking Experiments.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,Automated GUI Testing of Android Apps: From Research to Practice.,https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2016,"srcML 1.0: Explore, Analyze, and Manipulate Source Code.",https://dblp.org/db/conf/icsm/icsme2016.html
+icsme,2017,"2017 IEEE International Conference on Software Maintenance and Evolution, ICSME 2017, Shanghai, China, September 17-22, 2017.",https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,(Withdrawn),https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,The Pricey Bill of Technical Debt: When and by Whom will it be Paid?,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Detecting DOM-Sourced Cross-Site Scripting in Browser Extensions.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,The Co-evolution of Test Maintenance and Code Maintenance through the Lens of Fine-Grained Semantic Changes.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Embroidery: Patching Vulnerable Binary Code of Fragmentized Android Devices.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,What are the Testing Habits of Developers? A Case Study in a Large IT Company.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,How Long and How Much: What to Expect from Summer of Code Participants?,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,The Utility Challenge of Privacy-Preserving Data-Sharing in Cross-Company Defect Prediction: An Empirical Study of the CLIFF&#38;MORPH Algorithm.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Heterogeneous Defect Prediction Through Multiple Kernel Learning and Ensemble Learning.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,AimDroid: Activity-Insulated Multi-level Automated Testing for Android Applications.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Towards Accurate Duplicate Bug Retrieval Using Deep Learning Techniques.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Learning to Predict Severity of Software Vulnerability Using Only Vulnerability Description.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,GEAS: Generic Adaptive Scheduling for High-Efficiency Context Inconsistency Detection.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,An Experiment Comparing Lifted and Delayed Variability-Aware Program Analysis.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Supervised vs Unsupervised Models: A Holistic Look at Effort-Aware Just-in-Time Defect Prediction.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Towards Activity-Aware Tool Support for Change Tasks.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,A Tale of CI Build Failures: An Open Source and a Financial Organization Perspective.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Coarse Hierarchical Delta Debugging.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,SimEvo: Testing Evolving Multi-process Software Systems.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Recommending when Design Technical Debt Should be Self-Admitted.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Bug Propagation through Code Cloning: An Empirical Study.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,An Empirical Study on the Removal of Self-Admitted Technical Debt.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,CCLearner: A Deep Learning-Based Clone Detection Approach.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Revisiting Turnover-Induced Knowledge Loss in Software Projects.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Deep Green: Modelling Time-Series of Software Energy Consumption.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Composite Software Diversification.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Evaluating State-of-the-Art Free and Open Source Static Analysis Tools Against Buffer Errors in Android Apps.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,The Evaluation of an Approach for Automatic Generated Documentation.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Personality and Project Success: Insights from a Large-Scale Study with Professionals.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,On the Optimal Order of Reading Source Code Changes for Review.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,An Exploratory Study of Performance Regression Introducing Code Changes.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Refactoring Asynchrony in JavaScript.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Understanding Android Application Programming and Security: A Dynamic Study.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Semantics-Aware Machine Learning for Function Recognition in Binary Code.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,"Continuous, Evolutionary and Large-Scale: A New Perspective for Automated Mobile App Testing.",https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Is it Safe to Uplift this Patch?: An Empirical Study on Mozilla Firefox.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,A Characterization Study of Repeated Bug Fixes.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Interaction-Based Tracking of Program Entities for Test Case Evolution.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,An Empirical Study of Local Database Usage in Android Applications.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Recommending Framework Extension Examples.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Software Practitioner Perspectives on Merge Conflicts and Resolutions.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,On-demand Developer Documentation.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,How Do Developers Select and Prioritize Code Smells? A Preliminary Study.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,SimPact: Impact Analysis for Simulink Models.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Flattening Code for Metrics Measurement and Analysis.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Constraints Based Approach to Interactive Feature Location.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,An Empirical Study on the Usage of Fault Localization in Automated Program Repair.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Understanding Stack Overflow Code Fragments.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Automated Repair of High Inaccuracies in Numerical Programs.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Dissecting Android Inter-component Communications via Interactive Visual Explorations.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Forecasting the Duration of Incremental Build Jobs.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Automating Aggregation for Software Quality Modeling.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Bug or Not? Bug Report Classification Using N-Gram IDF.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Supporting Microservice Evolution.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Reviewing Career Paths of the OpenStack Developers.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Confusion Detection in Code Reviews.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Behavior Metrics for Prioritizing Investigations of Exceptions.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,An Experience Report on Applying Passive Learning in a Large-Scale Payment Company.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Graph Data Management of Evolving Dependency Graphs for Multi-versioned Codebases.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Predicting and Evaluating Software Model Growth in the Automotive Industry.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Mean Average Distance to Resolver: An Evaluation Metric for Ticket Routing in Expert Network.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,RCIA: Automated Change Impact Analysis to Facilitate a Practical Cancer Registry System.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,How do Developers Test Android Applications?,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,NLP2Code: Code Snippet Content Assist via Natural Language Tasks.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,CityVR: Gameful Software Visualization.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,flexfringe: A Passive Automaton Learning Package.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,DroidFax: A Toolkit for Systematic Characterization of Android Applications.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,REPERSP: Recommending Personalized Software Projects on GitHub.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,KOWALSKI: Collecting API Clients in Easy Mode.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,TraceLab Components for Generating Extractive Summaries of User Stories.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Artifacts for Dynamic Analysis of Android Apps.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Behavior-Informed Algorithms for Automatic Documentation Generation.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Combining Evolutionary Algorithms with Constraint Solving for Configuration Optimization.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Understanding Spreadsheet Evolution in Practice.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Mining AndroZoo: A Retrospect.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2017,Improving Software Maintenance Using Process Mining and Predictive Analytics.,https://dblp.org/db/conf/icsm/icsme2017.html
+icsme,2018,"2018 IEEE International Conference on Software Maintenance and Evolution, ICSME 2018, Madrid, Spain, September 23-29, 2018.",https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,On the Relation of Test Smells to Software Code Quality.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Why are Features Deprecated? An Investigation Into the Motivation Behind Deprecation.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Large-Scale Empirical Study on Linguistic Antipatterns Affecting APIs.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Reproducible Interference-Aware Mobile Testing.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,DRLgencert: Deep Learning-Based Automated Testing of Certificate Verification in SSL/TLS Implementations.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Combining Search-Based Testing and Dynamic Symbolic Execution by Evolvability Metric.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Test Re-Prioritization in Continuous Testing Environments.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Improving Code: The (Mis) Perception of Quality Metrics.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,AutoSpearman: Automatically Mitigating Correlated Software Metrics for Interpreting Defect Models.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,BinMatch: A Semantics-Based Hybrid Approach on Binary Code Clone Analysis.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Automatic Clone Recommendation for Refactoring Based on the Present and the Past.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Change-Aware Dynamic Program Analysis for JavaScript.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,On State Machine Mining from Embedded Control Software.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Reflexion Models for State Machine Extraction and Verification.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Comparing Multiple MATLAB/Simulink Models Using Static Connectivity Matrix Analysis.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Simple NLP-Based Approach to Support Onboarding and Retention in Open Source Communities.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Statistical Translation of English Texts to API Code Templates.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,AudioHighlight: Code Skimming for Blind Programmers.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Gistable: Evaluating the Executability of Python Code Snippets on GitHub.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,How do Multiple Pull Requests Change the Same Code: A Study of Competing Pull Requests in GitHub.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Assessing Test Case Prioritization on Real Faults and Mutants.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Predicting Higher Order Structural Feature Interactions in Variable Systems.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Generating Accurate and Compact Edit Scripts Using Tree Differencing.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Closer Look at Real-World Patches.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,An Empirical Study of Multi-entity Changes in Real Bug Fixes.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Conceptual Replication Study on Bugs that Get Fixed in Open Source Software.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Automatic Test Smell Detection Using Information Retrieval Techniques.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,RegionDroid: A Tool for Detecting Android Application Repackaging Based on Runtime UI Region Features.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,How Maintainability Issues of Android Apps Evolve.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Studying Permission Related Issues in Android Wearable Apps.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,"Efficient, Evolutionary Security Analysis of Interacting Android Apps.",https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Automatic Traceability Maintenance via Machine Learning Classification.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Are Bug Reports Enough for Text Retrieval-Based Bug Localization?,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Linking Source Code to Untangled Change Intents.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,On the Evolution of Technical Lag in the npm Package Dependency Network.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,"Embracing Technical Debt, from a Startup Company Perspective.",https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Reflexive and Automated Approach to Syntactic Pattern Matching in Code Transformations.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,On the Impact of Tokenizer and Parameters on N-Gram Based Code Analysis.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Beyond Metadata: Code-Centric and Usage-Based Analysis of Known Vulnerabilities in Open-Source Software.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Adapting Neural Text Classification for Improved Software Categorization.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Effective Reformulation of Query for Code Search Using Crowdsourced Knowledge and Extra-Large Data Analytics.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Search-Based Scheduling of Experiments in Continuous Deployment.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,"Understanding, Debugging, and Optimizing Distributed Software Builds: A Design Study.",https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Threats of Aggregating Software Repository Data.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Communicative Intention in Code Review Questions.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,On the Value of Bug Reports for Retrieval-Based Bug Localization.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Semi-Automated Feature Traceability with Embedded Annotations.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,An Empirical Study of Flaky Tests in Android Apps.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Toward Automatic Summarization of Arbitrary Java Statements for Novice Programmers.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Towards Feature Envy Design Flaw Detection at Block Level.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Automated Extraction of Augmented Models for Android Apps.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,An Empirical Study on the Effect of Dynamic Slicing on Automated Program Repair Efficiency.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Towards Smoother Library Migrations: A Look at Vulnerable Dependency Migrations at Function Level for npm JavaScript Packages.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Continuous Refactoring in CI: A Preliminary Study on the Perceived Advantages and Barriers.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Reducing Code Duplication by Identifying Fresh Domain Abstractions.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Practical Approach to the Automatic Classification of Security-Relevant Commits.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,COBOL to Java and Newspapers Still Get Delivered.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,An Experience Report of the API Evolution and Maintenance for Software Platforms.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Cloned Buggy Code Detection in Practice Using Normalized Compression Distance.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Stereo: Editing Clones Refactored as Code Generators.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Understanding the Role of Reporting in Work Item Tracking Systems for Software Development: An Industrial Case Study.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,A Qualitative Study of Variability Management of Control Software for Industrial Automation Systems.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Clone-Based Variability Management in the Android Ecosystem.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Relational Database Schema Evolution: An Industrial Case Study.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Detecting and Predicting Evolution in Spreadsheets - A Case Study in an Energy Network Company.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Aligning Technical Debt Prioritization with Business Objectives: A Multiple-Case Study.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Software Process Analysis Methodology - A Methodology Based on Lessons Learned in Embracing Legacy Software.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Mainframe Migration Based on Screen Scraping.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,BLIMP Tracer: Integrating Build Impact Analysis with Code Review.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Developers' Game: A Preliminary Study Concerning a Tool for Automated Developers Assessment.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,GemChecker: Reporting on the Status of Gems in Ruby on Rails Projects.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,DiffViz: A Diff Algorithm Independent Visualization Tool for Edit Scripts.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Replication Package for &#34;Threats of Aggregating Software Repository Data&#34;.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Artefact: An R Implementation of the AutoSpearman Function.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Two Datasets for Sentiment Analysis in Software Engineering.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,TraceLab Components for Generating Speech Act Types in Developer Question/Answer Conversations.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,NLP2API: Query Reformulation for Code Search Using Crowdsourced Knowledge and Extra-Large Data Analytics.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,TUNA: TUning Naturalness-Based Analysis.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Predicting Software Maintainability in Object-Oriented Systems Using Ensemble Techniques.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Methods and Tools for Focusing and Prioritizing the Testing Effort.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Context-Aware Software Documentation.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Team Maturity in Agile Software Development: The Impact on Productivity.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Dead Code.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Integrating Runtime Values with Source Code to Facilitate Program Comprehension.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2018,Automating Software Development for Mobile Computing Platforms.,https://dblp.org/db/conf/icsm/icsme2018.html
+icsme,2019,"2019 IEEE International Conference on Software Maintenance and Evolution, ICSME 2019, Cleveland, OH, USA, September 29 - October 4, 2019.",https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,A Longitudinal Analysis of Bug Handling Across Eclipse Releases.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Impact of Switching Bug Trackers: A Case Study on a Medium-Sized Open Source Project.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,The Impact of Rare Failures on Statistical Fault Localization: The Case of the Defects4J Suite.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Do Energy-Oriented Changes Hinder Maintainability?,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Can Everyone use my app? An Empirical Study on Accessibility in Android Apps.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Quantifying the Performance Impact of SQL Antipatterns on Mobile Applications.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Empirical Study of UI Implementations in Android Applications.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,"Same App, Different Countries: A Preliminary User Reviews Study on Most Downloaded iOS Apps.",https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Improving Bug Triaging with High Confidence Predictions at Ericsson.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Industrial Study on the Differences between Pre-Release and Post-Release Bugs.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Tracing with Less Data: Active Learning for Classification-Based Traceability Link Recovery.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Deep Learning Anti-Patterns from Code Metrics History.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Approach to Recommendation of Verbosity Log Levels Based on Logging Intention.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Automated Characterization of Software Vulnerabilities.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Learning to Identify Security-Related Issues Using Convolutional Neural Networks.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,TECCD: A Tree Embedding Approach for Code Clone Detection.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Investigating Context Adaptation Bugs in Code Clones.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Decomposing God Classes at Siemens.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Tracy: A Business-Driven Technical Debt Prioritization Framework.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Self-Admitted Technical Debt Removal and Refactoring Actions: Co-Occurrence or More?,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Identifying the Within-Statement Changes to Facilitate Change Understanding.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Aiding Code Change Understanding with Semantic Change Impact Analysis.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Towards Generating Transformation Rules without Examples for Android API Replacement.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,How Do Code Changes Evolve in Different Platforms? A Mining-Based Investigation.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,How the Experience of Development Teams Relates to Assertion Density of Test Classes.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Automatic Discovery and Cleansing of Numerical Metamorphic Relations.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,AutoMR: Automatic Discovery and Cleansing of Numerical Metamorphic Relations.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Automated Identification of Over-Privileged SmartThings Apps.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,EmoD: An End-to-End Approach for Investigating Emotion Dynamics in Software Development.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Know-How in Programming Tasks: From Textual Tutorials to Task-Oriented Knowledge Graph.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Empirical Study of Abbreviations and Expansions in Software Artifacts.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Open Dataset of Abbreviations and Expansions.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Estimating Software Task Effort in Crowds.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,"Do as I Do, Not as I Say: Do Contribution Guidelines Match the GitHub Contribution Process?",https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Analysis of 35+ Million Jobs of Travis CI.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Linguistic Change in Open Source Software.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Learning How to Mutate Source Code from Bug-Fixes.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Personalized Code Recommendation.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Syntax and Stack Overflow: A Methodology for Extracting a Corpus of Syntax Errors and Fixes.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,BARRIERFINDER: Recognizing Ad Hoc Barriers.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Impact Analysis of Syntactic and Semantic Similarities on Patch Prioritization in Automated Program Repair.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Losing Confidence in Quality: Unspoken Evolution of Computer Vision Services.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Inappropriate Usage Examples in Web API Documentations.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,What Do Developers Discuss about Biometric APIs?,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Teaching Software Maintenance.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Continuous Collateral Privacy Risk Auditing of Evolving Autonomous Driving Software.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Challenges in re-Platforming Mixed Language PL/I and COBOL IS to an Open Systems Platform.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Application of Philosophical Principles in Linux Kernel Customization.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Lessons Learned from Large-Scale Refactoring.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Interactive Traceability Links Visualization using Hierarchical Trace Map.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Supporting Software Architecture Maintenance by Providing Task-Specific Recommendations.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,A Validation Method of Self-Adaptive Strategy Based on POMDP.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Modeling the Relationship Between Identifier Name and Behavior.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Lib Metamorphosis: A Performance Analysis Framework for Exchanging Data Structures in Performance Sensitive Applications.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Processing Large Datasets of Fined Grained Source Code Changes.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,CodeSonar (R) Extension for Copy-Paste-(Mis) Adapt Error Detection.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Recommending Exception Handling Code.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Near-Omniscient Debugging for Java Using Size-Limited Execution Trace.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Sciit: Aligning Source Control Management and Issue Tracking Architectures.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Ticket Tagger: Machine Learning Driven Issue Classification.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Kraken-Mobile: Cross-Device Interaction-Based Testing of Android Apps.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,MigrationMiner: An Automated Detection Tool of Third-Party Java Library Migration at the Method Level.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,OPIA: A Tool for On-Device Testing of Vulnerabilities in Android Applications.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,OSAIFU: A Source Code Factorizer on Android Studio.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Empirical Study of the Relationship between Continuous Integration and Test Code Evolution.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,What Factors Make SQL Test Cases Understandable for Testers? A Human Study of Automated Test Data Generation Techniques.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Systematically Testing and Diagnosing Responsiveness for Android Apps.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,DeepEvolution: A Search-Based Testing Approach for Deep Neural Networks.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Exploratory Study of Logging Configuration Practice in Java.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Performance-Influence Model for Highly Configurable Software with Fourier Learning and Lasso Regression.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,"Microservices Migration in Industry: Intentions, Strategies, and Challenges.",https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Comparing Constraints Mined From Execution Logs to Understand Software Evolution.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Synthesizing Program Execution Time Discrepancies in Julia Used for Scientific Software.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Comprehending Test Code: An Empirical Study.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,An Empirical Study Assessing Source Code Readability in Comprehension.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Handling Duplicates in Dockerfiles Families: Learning from Experts.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,"Share, But be Aware: Security Smells in Python Gists.",https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Can Automated Impact Analysis Techniques Help Predict Decaying Modules?,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Assuring the Evolvability of Microservices: Insights into Industry Practices and Challenges.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Investigating Instability Architectural Smells Evolution: An Exploratory Case Study.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,A Qualitative Study on Framework Debugging.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,"Adoption, Support, and Challenges of Infrastructure-as-Code: Insights from Industry.",https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Studying the Impact of Policy Changes on Bug Handling Performance.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Automatic Examining of Software Architectures on Mobile Applications Codebases.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,The Relationship Between Cognitive Complexity and the Probability of Defects.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Business-Driven Technical Debt Prioritization.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Applying Markov Models to Identify Grammatical Patterns of Function Identifiers.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Enhancing Eye Tracking of Source Code: A Specialized Fixation Filter for Source Code.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Improving the Robustness and Efficiency of Continuous Integration and Deployment.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Towards Better Understanding Developer Perception of Refactoring.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,RAPTOR: Release-Aware and Prioritized Bug-Fixing Task Assignment Optimization.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Characterizing Performance Regression Introducing Code Changes.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Towards a Model to Appraise and Suggest Identifier Names.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2019,Design Smell Detection and Analysis for Open Source Java Software.,https://dblp.org/db/conf/icsm/icsme2019.html
+icsme,2020,"IEEE International Conference on Software Maintenance and Evolution, ICSME 2020, Adelaide, Australia, September 28 - October 2, 2020.",https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Effects of Adopting Code Review Bots on Pull Requests to OSS Projects.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Can You Capture Information As You Intend To? A Case Study on Logging Practice in Industry.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,"An Empirical Study of Usages, Updates and Risks of Third-Party Libraries in Java Projects.",https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,What Developers (Care to) Recall: An Interview Survey on Smaller Systems.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Database-Access Performance Antipatterns in Database-Backed Web Applications.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,GenSlice: Generalized Semantic History Slicing.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A Method for Finding Missing Unit Tests.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Analysis of Modern Release Engineering Topics : - A Large-Scale Study using StackOverflow -.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Learning Code-Query Interaction for Enhancing Code Searches.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Static source code metrics and static analysis warnings for fine-grained just-in-time defect prediction.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A Framework and DataSet for Bugs in Ethereum Smart Contracts.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A First Look at the Deprecation of RESTful APIs: An Empirical Study.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Detecting Semantic Conflicts via Automated Behavior Change Detection.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Failures and Fixes: A Study of Software System Incident Response.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Every Mutation Should Be Rewarded: Boosting Fault Localization with Mutated Predicates.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Automated Extraction of Requirement Entities by Leveraging LSTM-CRF and Transfer Learning.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A Fine-Grained Analysis on the Inconsistent Changes in Code Clones.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Identifying Compiler and Optimization Options from Binary Code using Deep Learning Approaches.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,"Guided, Deep Testing of X.509 Certificate Validation via Coverage Transfer Graphs.",https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,#ifdef Directives and Program Comprehension: The Dilemma between Correctness and Preference.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Introducing Differential Privacy Mechanisms for Mobile App Analytics of Dynamic Content.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,"Defining a Software Maintainability Dataset: Collecting, Aggregating and Analysing Expert Evaluations of Software Maintainability.",https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Experiments with Interactive Fault Localization Using Simulated and Real Users.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Shake It! Detecting Flaky Tests Caused by Concurrency with Shaker.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Assessing the Characteristics of FOSS Contributions in Network Automation Projects.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Pizza versus Pinsa: On the Perception and Measurability of Unit Test Code Quality.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Evaluating Code Readability and Legibility: An Examination of Human-centric Studies.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A software maintenance-focused process and supporting toolset for academic environments.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,CounterFault: Value-Based Fault Localization by Modeling and Predicting Counterfactual Outcomes.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Commit-Aware Mutation Testing.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Remote Pair Programming in Virtual Reality.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A Cost-Effective Approach for Hyper-Parameter Tuning in Search-based Test Case Generation.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,It Takes a Village to Build a Robot: An Empirical Study of The ROS Ecosystem.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,"How (Not) to Find Bugs: The Interplay Between Merge Conflicts, Co-Changes, and Bugs.",https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Assessing Mock Classes: An Empirical Study.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Automated Recording and Semantics-Aware Replaying of High-Speed Eye Tracking and Interaction Data to Support Cognitive Studies of Software Engineering Tasks.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Characterizing Task-Relevant Information in Natural Language Software Artifacts.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Improving Testing by Mimicking User Behavior.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Expanding the Number of Reviewers in Open-Source Projects by Recommending Appropriate Developers.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,How Does Modern Code Review Impact Software Design Degradation? An In-depth Empirical Study.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,"Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities.",https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Lifting the Curtain on Merge Conflict Resolution: A Sensemaking Perspective.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,On the Impact of Multi-language Development in Machine Learning Frameworks.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Improving Automated GUI Exploration of Android Apps via Static Dependency Analysis.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,On the Performance and Adoption of Search-Based Microservice Identification with toMicroservices.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,An Empirical Study of i18n Collateral Changes and Bugs in GUIs of Android apps.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,AOBTM: Adaptive Online Biterm Topic Modeling for Version Sensitive Short-texts Analysis.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Why are Some Bugs Non-Reproducible? : -An Empirical Investigation using Data Fusion-.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A<sup>3</sup>Ident: A Two-phased Approach to Identify the Leading Authors of Android Apps.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Interest of Defect Technical Debt: An Exploratory Study on Apache Projects.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,CrossASR: Efficient Differential Testing of Automatic Speech Recognition via Text-To-Speech.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Score-Based Automatic Detection and Resolution of Syntactic Ambiguity in Natural Language Requirements.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Moderate Detection and Removal of Omnipresent Modules in Software Clustering.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Improving Log-Based Anomaly Detection with Component-Aware Analysis.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Who (Self) Admits Technical Debt?,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Investigating The Reproducibility of NPM Packages.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,On Package Freshness in Linux Distributions.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Fuzzing to Estimate Gas Costs of Ethereum Contracts.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Regression Testing of Massively Multiplayer Online Role-Playing Games.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,SiblingClassTestDetector: Finding Untested Sibling Functions.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,SBFL-Suitability: A Software Characteristic for Fault Localization.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Examining The Work Experience of Programmers with Visual Impairments.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Using Symbolic Execution to Analyze Linux KBuild Makefiles.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Few-Shot Guided Mix for DNN Repairing.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,On the need for automatic knowledge management in modern collaboration tools to improve software maintenance.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,EWIDL: Single-Source Web API Documentation Management System.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Efficient Bug Triage For Industrial Environments.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,De-Flake Your Tests : Automatically Locating Root Causes of Flaky Tests in Code At Google.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,From 6.2 to 0.15 seconds - an Industrial Case Study on Mobile Web Performance.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Incremental Type Migration Using Type Algebra.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Improving Bug Localization by Mining Crash Reports: An Industrial Study.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Toward a Definition of Cognitive-Driven Development.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A blessing in disguise? Assessing the Relationship between Code Smells and Sustainability.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Reducing accidental clones using instant clone search in automatic code review.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Exploring the Challenges of Cloud Migrations During a Global Pandemic.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Towards a new Test Case Prioritization Approach based on Fuzzy Clustering Analysis.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Robin: A Voice Controlled Virtual Teammate for Software Developers and Teams.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Exploring Bluetooth Communication Protocols in Internet-of-Things Software Development.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Refactoring Recommendations Based on the Optimization of Socio-Technical Congruence.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Practitioners' insights on machine-learning software engineering design patterns: a preliminary study.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Graph Neural Network-based Vulnerability Predication.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,DR-Tools: a suite of lightweight open-source tools to measure and visualize Java source code.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Teddy: Automatic Recommendation of Pythonic Idiom Usage For Pull-Based Software Projects.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,JCoffee: Using Compiler Feedback to Make Partial Code Snippets Compilable.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,A toolset to support a software maintenance process in academic environments.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,QScored: An Open Platform for Code Quality Ranking and Visualization.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,WebRTS: A Dynamic Regression Test Selection Tool for Java Web Applications.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Kaya: A Testing Framework for Blockchain-based Decentralized Applications.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Automatic Support for Multi-Domain Model Management.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Verifying and Testing Concurrent Programs using Constraint Solver based Approaches.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Integration of Program Slicing with Cognitive Complexity for Defect Prediction.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Debugging Declarative Models in Alloy.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,From Transient Information to Persistent Documentation: Enhancing Software Documentation.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Mobile App Energy Consumption: A Study of Known Energy Issues in Mobile Applications and their Classification Schemes - Summary Plan.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Automatic Identification of Rollback Edit with Reasons in Stack Overflow Q&#38;A Site.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,The Making of Accessible Android Applications: An Empirical Study on the State of the Practice.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Leveraging Textual and Non-Textual Features for Documentation Decluttering.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Source Code based On-demand Class Documentation Generation.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,Learning based and Context Aware Non-Informative Comment Detection.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2020,An Empirical Study of the Dependency Networks of Deep Learning Libraries.,https://dblp.org/db/conf/icsm/icsme2020.html
+icsme,2021,"IEEE International Conference on Software Maintenance and Evolution, ICSME 2021, Luxembourg, September 27 - October 1, 2021.",https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Evaluating The Energy Consumption of Java I/O APIs.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Improving Traceability Link Recovery Using Fine-grained Requirements-to-Code Relations.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,SmartGift: Learning to Generate Practical Inputs for Testing Smart Contracts.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Revisiting Test Cases to Boost Generate-and-Validate Program Repair.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,The Unit Test Quality of Deep Learning Libraries: A Mutation Analysis.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,"Test Case Reduction: A Framework, Benchmark, and Comparative Study.",https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,You Look so Different: Finding Structural Clones and Subclones in Java Source Code.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Leveraging Intermediate Artifacts to Improve Automated Trace Link Retrieval.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Incorporating Multiple Features to Predict Bug Fixing Time with Neural Networks.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Analysis of Non-Discrimination Policies in the Sharing Economy.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Towards Just-Enough Documentation for Agile Effort Estimation: What Information Should Be Documented?,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,On the Evaluation of Commit Message Generation Models: An Experimental Study.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Characterization and Automatic Updates of Deprecated Machine-Learning API Usages.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,A Method to Comprehend Feature Dependencies Based on Semi-Static Structures.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,An Empirical Study on Code Comment Completion.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Does Refactoring Break Tests and to What Extent?,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Mutation Analysis for Assessing End-to-End Web Tests.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Toward Less Hidden Cost of Code Completion with Acceptance and Ranking Models.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Untangling Spaghetti of Evolutions in Software Histories to Identify Code and Test Co-evolutions.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Mining Historical Test Failures to Dynamically Batch Tests to Save CI Resources.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Contemporary COBOL: Developers' Perspectives on Defects and Defect Location.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Interactive Patch Filtering as Debugging Aid.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Do practitioners intentionally self-fix Technical Debt and why?,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Dialogue Management for Interactive API Search.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Ensemble Models for Neural Source Code Summarization of Subroutines.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Look Ahead! Revealing Complete Composite Refactorings and their Smelliness Effects.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Soundy Automated Parallelization of Test Execution.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Energy Efficient Guidelines for iOS Core Location Framework.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Design Smells in Deep Learning Programs: An Empirical Study.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Understanding Quantum Software Engineering Challenges An Empirical Study on Stack Exchange Forums and GitHub Issues.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Repo2Vec: A Comprehensive Embedding Approach for Determining Repository Similarity.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,SPICA: A Methodology for Reviewing and Analysing Fault Localisation Techniques.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Cross-language Code Coupling Detection: A Preliminary Study on Android Applications.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,A First Look at Accessibility Issues in Popular GitHub Projects.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,FluentCrypto: Cryptography in Easy Mode.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,An Evolutionary Analysis of Software-Architecture Smells.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Assessing Generalizability of CodeBERT.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Sirius: Static Program Repair with Dependence Graph-Based Systematic Edit Patterns.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Task-Oriented API Usage Examples Prompting Powered By Programming Task Knowledge Graph.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,CAT: Change-focused Android GUI Testing.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Multimodal Representation for Neural Code Search.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Migrating GUI behavior: from GWT to Angular.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Breaking down monoliths with Microservices and DevOps: an industrial experience report.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Report From The Trenches A Case Study In Modernizing Software Development Practices.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,DeepOrder: Deep Learning for Test Case Prioritization in Continuous Integration Testing.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Duplicate Bug Report Detection by Using Sentence Embedding and Fine-tuning.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Efficient Platform Migration of a Mainframe Legacy System Using Custom Transpilation.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,"The Used, the Bloated, and the Vulnerable: Reducing the Attack Surface of an Industrial Application.",https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,eknows: Platform for Multi-Language Reverse Engineering and Documentation Generation.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,An NLP-based Tool for Software Artifacts Analysis.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,iSCREAM: a suite for Smart Contract REAdability assessMent.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,MLCatchUp: Automated Update of Deprecated Machine-Learning APIs in Python.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,FeaRS: Recommending Complete Android Method Implementations.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Restats: A Test Coverage Tool for RESTful APIs.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,IDEAL: An Open-Source Identifier Name Appraisal Tool.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,CodeRibbon: More Efficient Workspace Management and Navigation for Mainstream Development Environments.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,FACER-AS: An API Usage-based Code Recommendation Tool for Android Studio.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Is reputation on Stack Overflow always a good indicator for users' expertise? No!,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Links do Matter: Understanding the Drivers of Developer Interactions in Software Ecosystems.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,The Impact of Continuous Code Quality Assessment on Defects.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Stepwise Refactoring Tools.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Software Architecture Challenges for ML Systems.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,NLP-assisted Web Element Identification Toward Script-free Testing.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,BiasHeal: On-the-Fly Black-Box Healing of Bias in Sentiment Analysis Systems.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Using Bandit Algorithms for Project Selection in Cross-Project Defect Prediction.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,"Human, bot or both? A study on the capabilities of classification models on mixed accounts.",https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Hurdles for Developers in Cryptography.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Contrasting Third-Party Package Management User Experience.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,"Clustering, Separation, and Connection: A Tale of Three Characteristics.",https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Can Differential Testing Improve Automatic Speech Recognition Systems?,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Disambiguating Mentions of API Methods in Stack Overflow via Type Scoping.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,A Partial Reproduction of A Guided Genetic Algorithm for Automated Crash Reproduction.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Automated Refactoring for Energy-Aware Software.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Logs and models in engineering complex embedded systems.,https://dblp.org/db/conf/icsm/icsme2021.html
+icsme,2021,Sine-Cosine Algorithm for Software Fault Prediction.,https://dblp.org/db/conf/icsm/icsme2021.html

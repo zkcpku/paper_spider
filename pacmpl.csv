@@ -1,0 +1,990 @@
+name,year,title,link
+pacmpl,1,Herbarium Racketensis: a stroll through the woods (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Testing and debugging functional reactive programming.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Lock-step simulation is child's play (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Scaling up functional programming education: under the hood of the OCaml MOOC.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Faster coroutine pipelines.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A pretty but not greedy printer (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Generic functional parallel algorithms: scan and FFT.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A unified approach to solving seven programming problems (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Prototyping a query compiler using Coq (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A framework for adaptive differential privacy.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Symbolic conditioning of arrays in probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Abstracting definitional interpreters (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,"On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control.",https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Imperative functional programs that explain their work.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Effect-driven QuickChecking of compilers.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Persistence for the masses: RRB-vectors in a systems language.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Verified low-level programming embedded in F.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Verifying efficient function calls in CakeML.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Better living through operational semantics: an optimizing compiler for radio protocols.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Foundations of strong call by need.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A relational logic for higher-order programs.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,How to prove your calculus is decidable: practical applications of second-order algebraic theories and computation.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,No-brainer CPS conversion (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Kami: a platform for high-level parametric hardware specification and its modular verification.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,SpaceSearch: a library for building and verifying solver-aided tools.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Local refinement typing.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Compiling to categories.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Visitors unchained.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Staged generic programming.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Super 8 languages for making movies (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A specification for dependent types in Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Parametric quantifiers for dependent type theory.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Normalization by evaluation for sized dependent types.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A metaprogramming framework for formal verification.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Chaperone contracts for higher-order sessions.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Whip: higher-order contracts for modern services.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Manifest sharing with session types.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Gradual session types.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,"Theorems for free for free: parametricity, with and without types.",https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,On polymorphic gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Gradual typing with union and intersection types.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Constrained type families.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Automating sized-type inference for complexity analysis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Inferring scope through syntactic sugar.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,SAVI objects: sharing and virtuality incorporated.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A simple soundness proof for dependent object types.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Unifying typing and subtyping.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Fast and precise type checking for JavaScript.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A volatile-by-default JVM for server applications.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Static placement of computation on heterogeneous devices.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Skip blocks: reusing execution history to accelerate web scripts.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Virtual machine warmup blows hot and cold.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Model checking copy phases of concurrent copying garbage collection with various memory models.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Sound gradual typing: only mostly dead.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,The VM already knew that: leveraging compile-time knowledge to optimize gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Sound gradual typing is nominally alive and well.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Effective interactive resolution of static analysis alarms.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Abridging source code.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Evaluating and improving semistructured merge.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Learning to blame: localizing novice type errors with data-driven diagnosis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Model-assisted machine-code synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Synthesis of data completion scripts using finite tree automata.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,SQLizer: query synthesis from natural language.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Synthesizing configuration file specifications with association rule learning.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Natural synthesis of provably-correct data-structure manipulations.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Practical initialization race detection for JavaScript web applications.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Efficient logging in non-volatile memory by exploiting coherency protocols.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Heaps don't lie: countering unsoundness with heap snapshots.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Instrumentation bias for dynamic data race detection.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,"Familia: unifying interfaces, type classes, and family polymorphism.",https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Static stages for heterogeneous programming.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Orca: GC and type system co-design for actor languages.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,"Monadic composition for deterministic, parallel batch processing.",https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,GLORE: generalized loop redundancy elimination upon LER-notation.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Verifying spatial properties of array computations.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,TreeFuser: a framework for analyzing and fusing general recursive tree traversals.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,The tensor algebra compiler.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Seam: provably safe local edits on graphs.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,TiML: a functional language for practical complexity analysis with invariants.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,FairSquare: probabilistic verification of program fairness.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Reasoning on divergent computations with coaxioms.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Restricting grammars with tree automata.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Exploiting implicit beliefs to resolve sparse usage problem in usage-based specification mining.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,D&#233;j&#224;Vu: a map of code duplicates on GitHub.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Understanding the use of lambda expressions in Java.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A model for reasoning about JavaScript promises.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A verified messaging system.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Who guards the guards? formal validation of the Arm v8-m architecture specification.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Robust and compositional verification of object capability patterns.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Type test scripts for TypeScript testing.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,A solver-aided language for test input generation.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Transforming programs and tests in tandem for fault localization.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Automated testing of graphics shader compilers.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Bounded exhaustive test-input generation on GPUs.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Project snowflake: non-blocking safe manual memory management in .NET.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Alpaca: intermittent execution without checkpoints.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,An auditing language for preventing correlated failures in the cloud.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Reliable and automatic composition of language extensions to C: the ableC extensible language framework.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,IDE<sup><i>al</i></sup>: efficient and precise alias-aware dataflow analysis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Data-driven context-sensitivity for points-to analysis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Automatically generating features for learning program analysis heuristics for C-like languages.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,P/Taint: unified points-to and taint analysis.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Deadlock avoidance in parallel programs with futures: why parallel tasks should not wait for strangers.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Detecting argument selection defects.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,How type errors were fixed and what students did?,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Learning user friendly type-error messages.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Geo-distribution of actor-based services.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Paxos made EPR: decidable reasoning about distributed protocols.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Verifying strong eventual consistency in distributed systems.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,1,Verifying distributed programs via canonical sequentialization.,https://dblp.org/db/journals/pacmpl/pacmpl1.html
+pacmpl,2,Synthesizing bijective lenses.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,WebRelate: integrating web data with spreadsheets using examples.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,What is decidable about string constraints with the ReplaceAll function.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,String constraints with concatenation and transducers solved efficiently.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Linear Haskell: practical linearity in a higher-order polymorphic language.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,"Polyadic approximations, fibrations and intersection types.",https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Handling fibred algebraic effects.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Handle with care: relational interpretation of algebraic effects and handlers.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Automated lemma synthesis in symbolic-heap separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Foundations for natural proofs and quantifier instantiation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Higher-order constrained horn clauses for verification.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Relatively complete refinement type system for verification of higher-order non-deterministic programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Unifying analytic and statically-typed quasiquotes.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Jones-optimal partial evaluation by specialization-safe normalization.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Migrating gradual types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Intrinsically-typed definitional interpreters for imperative languages.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Effective stateless model checking for C/C++ concurrency.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Transactions in relaxed memory architectures.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Simplifying ARM concurrency: multicopy-atomic axiomatic and operational models for ARMv8.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Progress of concurrent objects with partial methods.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A principled approach to ornamentation in ML.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Type-preserving CPS translation of &#931; and &#928; types is not not possible.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Decidability of conversion for type theory in type theory.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Safety and conservativity of definitions in HOL and Isabelle/HOL.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,"Sound, complete, and tractable linearizability monitoring for concurrent collections.",https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Reducing liveness to safety in first-order logic.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Alone together: compositional reasoning and inference for weak isolation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Programming and proving with distributed protocols.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Inference of static semantics for incomplete C programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Optimal Dyck reachability for data-dependence and alias analysis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Data-centric dynamic partial order reduction.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Analytical modeling of cache behavior for affine programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A new proof rule for almost-sure termination.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Lexicographic ranking supermartingales: an efficient approach to termination of probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Algorithmic analysis of termination problems for quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Monadic refinements for relational cost analysis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Go with the flow: compositional abstractions for concurrent data structures.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Parametricity versus the universal type.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Linearity in higher-order recursion schemes.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Symbolic types for lenient symbolic execution.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,An axiomatic basis for bidirectional programming.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Simplicitly: foundations and applications of implicit function types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Up-to techniques using sized types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Univalent higher categories via complete Semi-Segal types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Generating good generators for inductive relations.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Why is random testing effective for partition tolerance bugs?,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,On automatically proving the correctness of math.h implementations.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Online detection of effectively callback free objects with applications to smart contracts.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Correctness of speculative optimizations with dynamic deoptimization.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,JaVerT: JavaScript verification toolchain.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Soft contract verification for higher-order stateful programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Collapsing towers of interpreters.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Refinement reflection: complete verification with SMT.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Non-linear reasoning for invariant synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A practical construction for decomposing numerical abstract domains.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Verifying equivalence of database-driven applications.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Proving expected sensitivity of probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Synthesizing coupling proofs of differential privacy.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,"Measurable cones and stable, measurable functions: a model for probabilistic higher-order programming.",https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Denotational validation of higher-order Bayesian inference.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Strategy synthesis for linear arithmetic games.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Bonsai: synthesis-based reasoning for type systems.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Program synthesis using abstraction refinement.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A logical relation for monadic encapsulation of state: proving contextual equivalences in the presence of runST.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Recalling a witness: foundations and applications of monotonic state.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,RustBelt: securing the foundations of the rust programming language.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Versatile event correlation with algebraic effects.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Parametric polymorphism and operational improvement.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Handling delimited continuations with dependent types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,The simple essence of automatic differentiation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A spectrum of type soundness and performance.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Compositional soundness proofs of abstract interpreters.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Graduality from embedding-projection pairs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Incremental relational lenses.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Elaborating dependent (co)pattern matching.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Capturing the future by replaying the past (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,"MoSeL: a general, extensible modal framework for interactive proofs in separation logic.",https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Mtac2: typed tactics for backward reasoning in Coq.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Build systems &#224; la carte.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Synthesizing quotient lenses.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Finitary polymorphism for optimizing type-directed compilation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Teaching how to program using automated assessment and functional glossy games (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Functional programming for modular Bayesian inference.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,What you needa know about Yoneda: profunctor optics and the Yoneda lemma (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Generic deriving of generic traversals.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Relational algebra by way of adjunctions.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Contextual equivalence for a probabilistic language with continuous random variables and recursion.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Strict and lazy semantics for effects: layering monads and comonads.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,"Ready, set, verify! applying hs-to-coq to real-world Haskell code (experience report).",https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A type and scope safe universe of syntaxes with binding: their semantics and proofs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Parallel complexity analysis with temporal session types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Equivalences for free: univalent parametricity for effective transport.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Prototyping a functional language using higher-order logic programming: a functional pearl on learning the ways of &#955;Prolog/Makam.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Tight typings and split bounds.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Competitive parallelism: getting your priorities right.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Fault tolerant functional reactive programming (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Static interpretation of higher-order modules in Futhark: functional GPU programming in the large.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Casts and costs: harmonizing safety and performance in gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Functional programming for compiling and decompiling computer-aided design.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Partially-static data as free extension of algebras.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,What's the difference? a functional pearl on subtracting bijections.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Keep your laziness in check.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Merlin: a language server for OCaml (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Generic zero-cost reuse for dependent types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Refunctionalization of abstract abstract machines: bridging the gap between abstract abstract machines and abstract definitional interpreters (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Reasonably programmable literal notation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Thread-safe reactive programming.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Parallelization of dynamic languages: synchronizing built-in collections.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Virtual machine design for parallel dynamic programming languages.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,goSLP: globally optimized superword level parallelism framework.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Effect handlers for the masses.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Empowering union and intersection types with integrated subtyping.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Julia subtyping: a rational reconstruction.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Scopes as types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,A derivation framework for dependent security label inference.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,MadMax: surviving out-of-gas conditions in Ethereum smart contracts.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Faster variational execution with transparent bytecode transformation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Secure serverless computing using dynamic information flow control.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,AnyDSL: a partial evaluation framework for programming high-performance libraries.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Julia: dynamism and performance reconciled by design.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,GraphIt: a high-performance graph DSL.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,"One tool, many languages: language-parametric transformation with incremental parametric syntax.",https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Format abstraction for sparse tensor algebra compilers.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,ShareJIT: JIT code cache sharing across processes and its practical implementation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Reconciling high-level optimizations and low-level code in LLVM.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,An empirical study of the effect of source-level loop transformations on compiler stability.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Bidirectional evaluation with direct manipulation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,BioScript: programming safe chemistry on laboratories-on-a-chip.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Distributed system development with ScalaLoci.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Concurrency-aware object-oriented programming with roles.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Horn-ICE learning for synthesizing invariants and contracts.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Gradual liquid type inference.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Collapsible contracts: fixing a pathology of gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,The root cause of blame: contracts for intersection and union types.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Optimal stateless model checking under the release-acquire semantics.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Towards understanding the costs of avoiding out-of-thin-air results.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Persistence semantics for weak memory: integrating epoch persistency with the TSO memory model.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Identifying refactoring opportunities for replacing type code with subclass and state.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Incrementalizing lattice-based program analyses in Datalog.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Precise and scalable points-to analysis via data-driven context tunneling.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Precision-guided context sensitivity for pointer analysis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Refinement in object-sensitivity points-to analysis via slicing.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Every data structure deserves lock-free memory reclamation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,RacerD: compositional static race detection.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,What happens-after the first race? enhancing the predictive power of happens-before based dynamic race detection.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Sound deadlock prediction.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,DeepBugs: a learning approach to name-based bug detection.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,ExceLint: automatically finding spreadsheet formula errors.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Finding code that explodes under symbolic evaluation.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,FlashProfile: a framework for synthesizing data profiles.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Cross-component garbage collection.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Reactive caching for composed services: polling at the speed of push.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Object-oriented recovery for non-volatile memory.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Software multiplexing: share your libraries and statically link them too.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Relational program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Robust relational layout synthesis from examples for Android.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Speeding up symbolic reasoning for relational queries.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Automatic diagnosis and correction of logical errors for functional programming assignments.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Compositional programming and testing of dynamic distributed systems.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Randomized testing of distributed systems with probabilistic guarantees.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Test generation for higher-order functions in dynamic languages.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Finding broken promises in asynchronous JavaScript programs.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Leto: verifying application-specific hardware fault tolerance with programmable execution models.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Safe replication through bounded concurrency verification.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Verified three-way program merge.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,2,Conflict resolution for structured merge via version space algebra.,https://dblp.org/db/journals/pacmpl/pacmpl2.html
+pacmpl,3,Higher inductive types in cubical computational type theory.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Constructing quotient inductive-inductive types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Definitional proof-irrelevance without K.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Bisimulation as path type for guarded recursive types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Abstraction-safe effect handlers via tunneling.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Abstracting algebraic effects.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Intersection types and runtime errors in the pi-calculus.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Principality and approximation under dimensional bound.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Sound and complete bidirectional typechecking for higher-rank polymorphism with existentials and indexed types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Fully abstract module compilation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Polymorphic symmetric multiple dispatch with variance.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Abstracting extensible data types: or, rows by any other name.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Type-guided worst-case input generation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Live functional programming with typed holes.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Gradual type theory.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Gradual typing: a new perspective.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Gradual parametricity, revisited.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Dynamic type inference for gradual Hindley-Milner typing.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,StkTokens: enforcing well-bracketed control flow and stack encapsulation using linear capabilities.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Modalities, cohesion, and information flow.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Familial monads and structural operational semantics.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Bindings as bounded natural functors.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Categorical combinatorics of scheduling and synchronization in game semantics.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Better late than never: a fully-abstract semantics for classical processes.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Diagrammatic algebra: from linear to concurrent systems.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Fixpoint games on continuous lattices.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Two sides of the same coin: session types and game semantics: a synchronous side and an asynchronous side.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Exceptional asynchronous session types: session types without tiers.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Distributed programming using role-parametric session types in go: statically-typed endpoint APIs for dynamically-instantiated communication structures.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Less is more: multiparty session types revisited.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Quantitative robustness analysis of quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Game semantics for quantum programming.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Quantum relational Hoare logic.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Quantitative separation logic: a logic for reasoning about probabilistic pointer programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Probabilistic programming with densities in SlicStan: efficient, flexible, and deterministic.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A domain theory for statistical probabilistic programming.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Bayesian synthesis of probabilistic programs for automatic data modeling.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Formal verification of higher-order probabilistic programs: reasoning about approximation, convergence, Bayesian inference, and optimization.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Trace abstraction modulo probability.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,code2vec: learning distributed representations of code.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,An abstract domain for certifying neural networks.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A&#178;I: abstract&#178; interpretation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Concerto: a framework for combined concrete and abstract interpretation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Skeletal semantics and their interpretations.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Refinement of path expressions for static analysis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Decidable verification of uninterpreted programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Inferring frame conditions with static correlation analysis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Context-, flow-, and field-sensitive data-flow analysis using synchronized Pushdown systems.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Decision procedures for path feasibility of string-manipulating programs with complex operations.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Modular quantitative monitoring.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Bounded model checking of signal temporal logic properties using syntactic separation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Adventures in monitorability: from branching to linear time and back again.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Efficient parameterized algorithms for data packing.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Fast and exact analysis for LRU caches.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Closed forms for numerical loops.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Efficient automated repair of high floating-point errors in numerical libraries.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A true positives theorem for a static race detector.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Decoupling lock-free data structures from memory reclamation for static analysis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Pretend synchrony: synchronous verification of asynchronous distributed programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Weak-consistency specification via visibility relaxation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"A calculus for Esterel: if can, can. if no can, no can.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,An abstract stack based approach to verified compositional compilation to machine code.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"A verified, efficient embedding of a verifiable assembly language.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A separation logic for concurrent randomized programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Iron: managing obligations in higher-order concurrent separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,JaVerT 2.0: compositional symbolic execution for JavaScript.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Exploring C semantics and pointer provenance.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,On library correctness under weak memory consistency: specifying and verifying concurrent libraries under declarative consistency models.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Bridging the gap between programming languages and hardware weak memory models.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Grounding thin-air reads with event structures.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"ISA semantics for ARMv8-a, RISC-v, and CHERI-MIPS.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Structuring the synthesis of heap-manipulating programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,FrAngel: component-based synthesis with control structures.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Hamsaz: replication coordination analysis and synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,LWeb: information flow security for multi-tier web applications.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,From fine- to coarse-grained dynamic information flow control and back.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,CT-wasm: type-driven secure cryptography for the web ecosystem.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Rebuilding racket on chez scheme (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Compiling with continuations, or without? whatever.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Lambda calculus with algebraic simplification for reduction parallelization by equational reasoning.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Fairness in responsive parallelism.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Narcissus: correct-by-construction derivation of decoders and encoders from binary formats.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Closure conversion is safe for space.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Linear capabilities for fully abstract compilation of separation-logic-verified code.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,The next 700 compiler correctness theorems (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Equations reloaded: high-level dependently-typed functional programming and proving in Coq.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Cubical agda: a dependently typed programming language with univalence and higher inductive types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Approximate normalization for gradual dependent types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Simple noninterference from parametricity.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Selective applicative functors.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Coherence of type class resolution.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Relational cost analysis for functional-imperative programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Fuzzi: a three-level logic for differential privacy.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Synthesizing differentially private programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Synthesizing symmetric lenses.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Demystifying differentiable programming: shift/reset the penultimate backpropagator.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Efficient differentiable programming in a functional array-processing language.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,From high-level inference algorithms to efficient code.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Sound and robust solid modeling via exact real arithmetic and continuity.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Dependently typed Haskell in industry (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A role for dependent types in Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Higher-order type-level programming in Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A predicate transformer semantics for effects (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Dijkstra monads for all.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Mechanized relational verification of concurrent programs with continuations.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Sequential programming for replicated data stores.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Implementing a modal dependent type theory.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A reasonably exceptional type theory.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Simply RaTT: a fitch-style modal calculus for reactive programming without space leaks.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Quantitative program reasoning with graded modal types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Mixed linear and non-linear recursive types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A mechanical formalization of higher-ranked polymorphic type inference.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,An efficient algorithm for type-safe structural diffing.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Call-by-need is clairvoyant call-by-value.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Teaching the art of functional programming using automated grading (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Lambda: the ultimate sublanguage (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,CLOTHO: directed test generation for weakly consistent database systems.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Probabilistic verification of fairness properties via concentration.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Verifying safety and accuracy of approximate parallel programs via canonical sequentialization.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Qubit allocation as a combination of subgraph isomorphism and token swapping.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Modular verification of heap reachability properties in separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Complete monitors for gradual types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,TLA+ model checking made symbolic.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Value-centric dynamic partial order reduction.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Seq: a high-performance language for bioinformatics.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Staged abstract interpreters: fast and modular whole-program analysis via meta-programming.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Derivative grammars: a symbolic approach to parsing with derivatives.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Efficient lock-free durable sets.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Modular verification for almost-sure termination of probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,IVT: an efficient method for sharing subtype polymorphic objects.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Refinement kinds: type-safe programming with practical type-level computation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Program synthesis with algebraic library specifications.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Weakening WebAssembly.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Generating a fluent API with syntax checking from an LR grammar.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Weak persistency semantics from the ground up: formalising the persistency semantics of ARMv8 and transactional models.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,DeepSEA: a language for certified system software.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,BDA: practical dependence analysis for binary executables by unbiased whole-program path sampling and per-path abstract interpretation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Asphalion: trustworthy shielding against Byzantine faults.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Automatic repair of regular expressions.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Static analysis with demand-driven value refinement.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Relational verification using reinforcement learning.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A formalization of Java's concurrent access modes.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,On the fly synthesis of edit suggestions.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A fault-tolerant programming model for distributed interactive applications.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,A path to DOT: formalizing fully path-dependent types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Reliable and fast DWARF-based stack unwinding.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Leveraging rust types for modular specification and verification.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Precision-preserving yet fast object-sensitive pointer analysis with partial context sensitivity.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Formal foundations of serverless computing.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Optimal stateless model checking for reads-from equivalence under sequential consistency.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Modular verification of web page layout.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Aroma: code recommendation via structural code search.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"On the design, implementation, and use of laziness in R.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Mergeable replicated data types.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Compiler fuzzing: how much does it matter?,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,DProf: distributed profiler with strong guarantees.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Precise reasoning with structured time, structured heaps, and collective operations.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Casting about in the dark: an empirical study of cast operations in Java programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Getafix: learning to fix bugs automatically.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Generating precise error specifications for C: a zero shot learning approach.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Specifying concurrent programs in separation logic: morphisms and simulations.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Improving bug detection via context-based code representation learning and attention-based neural networks.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Scala implicits are everywhere: a large-scale study of the use of Scala implicits in the wild.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Optimization of swift protocols.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,On the complexity of checking transactional consistency.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,System FR: formalized foundations for the stainless verifier.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Language-integrated privacy-aware distributed queries.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,AutoPandas: neural-backed generators for program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Ry&#363; revisited: printf floating point conversion.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,IntelliMerge: a refactoring-aware software merging technique.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Certifying graph-manipulating C programs via localizations within data structures.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Duet: an expressive higher-order language and linear type system for statically enforcing differential privacy.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Effective lock handling in stateless model checking.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,FuzzFactory: domain-specific fuzzing with waypoints.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,AL: autogenerating supervised learning programs.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Sound and reusable components for abstract interpretation.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Design, implementation, and application of GPU-based Java bytecode interpreters.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Specification and inference of trace refinement relations.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Dependence-aware, unbounded sound predictive race detection.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Trace aware random testing for distributed systems.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Coverage guided, property based testing.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,PlanAlyzer: assessing threats to the validity of online experiments.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,I/O dependent idempotence bugs in intermittent systems.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,"Initialize once, start fast: application initialization at build time.",https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Safer smart contract programming with Scilla.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,ApproxHPVM: a portable compiler IR for accuracy-aware optimizations.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Reflection-aware static regression test selection.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Automatic and scalable detection of logical errors in functional programming assignments.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,3,Detecting nondeterministic payment bugs in Ethereum smart contracts.,https://dblp.org/db/journals/pacmpl/pacmpl3.html
+pacmpl,4,"Taylor subsumes Scott, Berry, Kahn and Plotkin.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Deductive verification with ghost monitors.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Dependent type systems as macros.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The next 700 relational program logics.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Complexity and information in invariant inference.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Actris: session-type based reasoning in separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Formal verification of a constant-time preserving C compiler.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Coq Coq correct! verification of type checking and erasure for Coq, in Coq.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Undecidability of <i>d<sub>&#60;: </sub></i> and its decidable fragments.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Incorrectness logic.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Persistency semantics of the Intel-x86 architecture.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Program synthesis by type-guided abstraction refinement.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Reductions for safety proofs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Deterministic parallel fixpoint computation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Recurrence extraction for functional programs through call-by-push-value.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Towards verified stochastic variational inference for probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Fast, sound, and effectively complete dynamic race prediction.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Par means parallel: multiplicative linear logic proofs as concurrent functional programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Trace types and denotational semantics for sound programmable inference in probabilistic languages.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Virtual timeline: a formal abstraction for verifying preemptive schedulers with temporal isolation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Relational proofs for quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Semina&#239;ve evaluation for a higher-order functional language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,CompCertM: CompCert with C-assembly linking and lightweight modular verification.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Liquidate your assets: reasoning about resource usage in liquid Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Proving expected sensitivity of probabilistic programs with randomized variable-dependent termination time.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Parameterized verification under TSO is PSPACE-complete.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The weak call-by-value &#955;-calculus is reasonable for both time and space.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Abstract extensionality: on the properties of incomplete abstract interpretations.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,What is decidable about gradual types?,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Decomposition diversity with symmetric data and codata.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Reduction monads and their signatures.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The high-level benefits of low-level sandboxing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Spy game: verifying a local generic solver in Iris.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,RustBelt meets relaxed memory.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Deciding memory safety for single-pass heap-manipulating programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Optimal approximate sampling from discrete probability distributions.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Aiming low is harder: induction for lower bounds in probabilistic program verification.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A simple differentiable programming language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,P&#955;&#969;NK: functional probabilistic NetKAT.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Partial type constructors: or, making ad hoc datatypes less ad hoc.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Stacked borrows: an aliasing model for Rust.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Abstract interpretation of distributed network control planes.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Executable formal semantics for the POSIX shell.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Mechanized semantics and verified compilation for a dataflow synchronous language with reset.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The future is ours: prophecy variables in separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Graduality and parametricity: together again for the first time.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Disentanglement in nested-parallel programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Binders by day, labels by night: effect instances via lexically scoped handlers.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Visualization by example.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A language for probabilistically oblivious computation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Interaction trees: representing recursive and impure programs in Coq.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Synthesizing replacement classes.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Kind inference for datatypes.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Synthesis of coordination programs from linear temporal specifications.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A probabilistic separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Augmented example-based synthesis using relational perturbation properties.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Semantics of higher-order probabilistic programs with conditioning.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"The fire triangle: how to mix substitution, dependent elimination, and effects.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,SyTeCi: automating contextual equivalence for higher-order programs with references.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Detecting floating-point errors via atomic conditions.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Guarded Kleene algebra with tests: verification of uninterpreted programs in nearly linear time.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Provenance-guided synthesis of Datalog programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Full abstraction for the quantum lambda-calculus.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Backpropagation in the simply typed lambda-calculus with linear negation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Does blame shifting work?,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Decidable subtyping for path dependent types.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Label-dependent session types.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Pointer life cycle types for lock-free data structures with memory reclamation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,APL since 1978.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Thriving in a crowded and changing world: C++ 2006-2020.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A history of Clojure.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,History of coarrays and SPMD parallelism in Fortran.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Origins of the D programming language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Evolution of Emacs Lisp.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The early history of F#.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A history of the Groovy programming language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,JavaScript: the first 20 years.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,LabVIEW.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,History of Logo.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Hygienic macro technology.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A history of MATLAB.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The origins of Objective-C at PPI/Stepstone and its evolution at NeXT.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A history of the Oz multiparadigm language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"S, R, and data science.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The evolution of Smalltalk: from Smalltalk-72 through Squeak.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The history of Standard ML.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Verilog HDL and its ancestors and descendants.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A general approach to define binders using matching logic.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A quick look at impredicativity.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A unified view of modalities in type systems.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A dependently typed calculus with pattern matching and erasure inference.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Compiling effect handlers in capability-passing style.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Composing and decomposing op-based CRDTs with semidirect products.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Computation focusing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Cosmo: a concurrent separation logic for multicore OCaml.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Denotational recurrence extraction for amortized analysis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Duplo: a framework for OCaml post-link optimisation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Effect handlers, evidently.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Effects for efficiency: asymptotic speedup with first-class control.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Elaboration with first-class implicit function types.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Higher-order demand-driven symbolic evaluation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Kindly bent to free us.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Kinds are calling conventions.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Liquid information flow control.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Liquid resource types.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Lower your guards: a compositional pattern-match coverage checker.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Parsing with zippers (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Program sketching with live bidirectional evaluation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Raising expectations: automating expected cost analysis with types.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Recovering purity with comonads and capabilities.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Regular language type inference with term rewriting.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Retrofitting parallelism onto OCaml.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Scala step-by-step: soundness for DOT with step-indexed logical relations in Iris.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Sealing pointer-based optimizations behind pure functions.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Separation logic for sequential programs (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Signature restriction for polymorphic algebraic effects.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Sparcl: a language for partially-invertible computation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Stable relations and abstract interpretation of higher-order programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Staged selective parser combinators.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,SteelCore: an extensible concurrent separation logic for effectful dependently typed programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Strong functional pearl: Harper's regular-expression matcher in Cedille.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,TLC: temporal logic of distributed components.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The simple essence of algebraic subtyping: principal type inference with subtyping made easy (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Fixpoints for the masses: programming with first-class Datalog constraints.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Effects as capabilities: effect handlers and lightweight effect polymorphism.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A systematic approach to deriving incremental type checkers.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Proving highly-concurrent traversals correct.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Certified and efficient instruction scheduling: application to interlocked VLIW processors.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Enabling accuracy-aware Quantum compilers using symbolic resource estimation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Semiring optimizations: dynamic elision of expressions with identity and absorbing elements.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Can advanced type systems be usable? An empirical study of ownership, assets, and typestate in Obsidian.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Assertion-based optimization of Quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Multiparty motion coordination: from choreographies to robotics programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Automated policy synthesis for system call sandboxing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,How do programmers use unsafe rust?,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Learning semantic program embeddings with graph interval neural network.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Mossad: defeating software plagiarism detection.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Handling bidirectional control flow.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Scaling exact inference for discrete probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Formulog: Datalog for SMT-based static analysis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Precise inference of expressive units of measurement types.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,WATCHER: in-situ failure diagnosis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A model for detecting faults in build specifications.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Guided linking: dynamic linking without the costs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Satune: synthesizing efficient SAT encoders.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Exposing cache timing side-channel leaks through out-of-order symbolic execution.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Statically verified refinements for multiparty protocols.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Featherweight go.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Projection-based runtime assertions for testing and debugging Quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Persistent Owicki-Gries reasoning: a program logic for reasoning about persistent programs on Intel-x86.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Igloo: soundly linking compositional refinement and separation logic for distributed system verification.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,DiffStream: differential output testing for stream processing programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Polymorphic types and effects with Boolean unification.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,CAMP: cost-aware multiparty session protocols.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,The anchor verifier for blocking and non-blocking concurrent software.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Automatic and efficient variability-aware lifting of functional programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A sparse iteration space transformation framework for sparse tensor algebra.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Programming with a read-eval-synth loop.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,LiveDroid: identifying and preserving mobile app state in volatile runtime environments.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Towards a unified proof framework for automated fixpoint reasoning using matching logic.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Adversarial examples for models of code.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Towards a formal foundation of intermittent computing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Compiling symbolic execution with staging and algebraic effects.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Testing differential privacy with dual interpreters.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Verifying and improving Halide's term rewriting system with program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Dynamic dispatch of context-sensitive optimizations.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Eliminating abstraction overhead of Java stream pipelines using ahead-of-time program optimization.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Build scripts with perfect dependencies.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Deductive optimization of relational data storage.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Program equivalence for assisted grading of functional programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A modular cost analysis for probabilistic programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Geometry types for graphics programming.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Hidden inheritance: an inline caching design for TypeScript performance.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A type-and-effect system for object initialization.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Sound garbage collection for C using pointer provenance.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Dataflow-based pruning for speeding up superoptimization.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,FlowCFL: generalized type-based reachability analysis: graph reduction and equivalence of CFL-based and type-based reachability.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Learning graph-based heuristics for pointer analysis without handcrafting application-specific features.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Knowing when to ask: sound scheduling of name resolution in type checkers derived from declarative specifications.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Designing types for R, empirically.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Shiftry: RNN inference in 2KB of RAM.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,StreamQL: a query language for processing streaming time series.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Incremental predicate analysis for regression verification.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Perfectly parallel fairness certification of neural networks.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Fuzzing channel-based concurrency runtimes using types and effects.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Detecting locations in JavaScript programs affected by breaking library changes.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Rethinking safe consistency in distributed object-oriented programming.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,DynamiTe: dynamic termination and non-termination proofs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Precise static modeling of Ethereum &#34;memory&#34;.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Taming type annotations in gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Inter-theory dependency analysis for SMT string solvers.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,On the unusual effectiveness of type-aware operator mutations for testing SMT solvers.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Pomsets with preconditions: a simple model of relaxed memory.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Fast linear programming through transprecision computing on small and sparse data.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Random testing for C and C++ compilers with YARPGen.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,CompCertELF: verified separate compilation of C programs into ELF object files.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Scalable and serializable networked multi-actor programming.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Termination analysis for evolving programs: an incremental approach by reusing certified modules.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Programming and reasoning with partial observability.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Interactive synthesis of temporal specifications from examples and natural language.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A large-scale longitudinal study of flaky tests.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Differentially-private software frequency profiling under linear constraints.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Do you have space for dessert? a verified space cost semantics for CakeML programs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Digging for fold: synthesis-aided API discovery for Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Resolution as intersection subtyping via Modus Ponens.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,World age in Julia: optimizing method dispatch in the presence of eval.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,&#953;DOT: a DOT calculus with object initialization.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Taming callbacks for smart contract modularity.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Testing consensus implementations using communication closure.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Finding bugs in database systems via query partitioning.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Structure interpretation of text formats.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Programming at the edge of synchrony.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,"Actor concurrency bugs: a comprehensive study on symptoms, root causes, API usages, and differences.",https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,A structural model for contextual code changes.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Verifying replicated data types with typeclass refinements in Liquid Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Unifying execution of imperative generators and declarative specifications.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Regex matching with counting-set automata.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Feedback-driven semi-supervised synthesis of program transformations.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Contextual dispatch for function specialization.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Counterexample-guided correlation algorithm for translation validation.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Adding interactive visual syntax to textual code.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Revisiting iso-recursive subtyping.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Guiding dynamic programing via structural probability for accelerating programming by example.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Neural reverse engineering of stripped binaries using augmented control flow graphs.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Foundations of empirical memory consistency testing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Just-in-time learning for bottom-up enumerative synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Gradual verification of recursive heap data structures.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Macros for domain-specific languages.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Learning-based controlled concurrency testing.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,TacTok: semantics-aware proof synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Koord: a language for programming and verifying distributed robotics application.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,4,Flow2Vec: value-flow-based precise code embedding.,https://dblp.org/db/journals/pacmpl/pacmpl4.html
+pacmpl,5,"Cyclic proofs, system t, and the power of contraction.",https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Diamonds are not forever: liveness in reactive programming with guarded recursion.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,&#120582;&#8347;: computable semantics for differentiable programming with higher-order functions and datatypes.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Verifying observational robustness against a c11-style memory model.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,On algebraic abstractions for concurrent separation logics.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Efficient and provable local capability revocation using uninitialized capabilities.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Fully abstract from static to gradual.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Deciding accuracy of differential privacy schemes.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A computational interpretation of compact closed categories: reversible programming with negative and fractional types.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Mechanized logical relations for termination-insensitive noninterference.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Probabilistic programming semantics for name generation.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Internalizing representation independence with univalence.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Transfinite step-indexing for termination.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Generating collection transformations from proofs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Learning the boundary of inductive invariants.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Precise subtyping for asynchronous multiparty sessions.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Verifying correct usage of context-free API protocols.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Provably space-efficient parallel functional programming.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Data flow refinement type inference.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Simplifying dependent reductions in the polyhedral model.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,On the semantic expressiveness of recursive types.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Intrinsically typed compilation with nameless labels.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,egg: Fast and extensible equality saturation.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Asynchronous effects.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Modeling and analyzing evaluation cost of CUDA kernels.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Dijkstra monads forever: termination-sensitive specifications for interaction trees.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A unifying type-theory for higher-order (amortized) cost analysis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Automatic differentiation in PCF.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,An approach to generate correctly rounded math libraries for new floating point variants.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Semantics-guided synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,An abstract interpretation for SPMD divergence on reducible control flow graphs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Intersection types and (positive) almost-sure termination.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A separation logic for effect handlers.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,The fine-grained and parallel complexity of andersen's pointer analysis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Giving semantics to program-counter labels via secure effects.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Optimal prediction of synchronization-preserving races.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A verified optimizer for Quantum circuits.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Automata and fixpoints for asynchronous hyperproperties.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Relatively complete verification of probabilistic programs: an expressive language for expectation-based reasoning.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Verified code generation for the polyhedral model.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Petr4: formal foundations for p4 data planes.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Distributed causal memory: modular specification and verification in higher-order distributed separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,PerSeVerE: persistency semantics for verification under ext4.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Context-bounded verification of liveness properties for multithreaded shared-memory programs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A practical mode system for recursive definitions.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Formally verified speculation and deoptimization in a JIT compiler.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Taming x86-TSO persistency.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Deciding &#969;-regular properties on linear recurrence sequences.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Automatically eliminating speculative leaks from cryptographic code with blade.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A graded dependent type system with a usage-aware semantics.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,The (In)Efficiency of interaction.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A pre-expectation calculus for probabilistic sensitivity.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Corpse reviver: sound and efficient gradual typing via contract verification.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Combining the top-down propagation and bottom-up enumeration for inductive program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Intensional datatype refinement: with application to scalable verification of pattern-match safety.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Deciding reachability under persistent x86-TSO.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Functorial semantics for partial theories.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Paradoxes of probabilistic programming: and how to condition on events of measure zero with infinitesimal probabilities.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,On the complexity of bidirected interleaved Dyck-reachability.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,The taming of the rew: a type theory with computational assumptions.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Abstracting gradual typing moving forward: precise and space-efficient.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,An order-aware dataflow model for parallel Unix pipelines.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Getting to the point: index sets and parallelism-preserving autodiff for pointful array programming.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Of JavaScript AOT compilation performance.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Generalized evidence passing for effect handlers: efficient compilation of effect handlers to C.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Symbolic and automatic differentiation of languages.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Algebras for weighted search.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Reasoning about effect interaction by fusion.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Compositional optimizations for CertiCoq.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Contextual modal types for algebraic effects and handlers.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Higher-order probabilistic adversarial computations: categorical semantics and program logics.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Newly-single and loving it: improving higher-order must-alias analysis with heap fragments.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Efficient tree-traversals: reconciling parallelism and dense data representations.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Formal verification of a concurrent bounded queue in a weak memory model.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Steel: proof-oriented programming in a dependently typed concurrent separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A theory of higher-order subtyping with type intervals.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Propositions-as-types and shared state.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Theorems for free from separation logic specifications.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,"Modular, compositional, and executable formal semantics for LLVM IR.",https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Catala: a programming language for the law.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Persistent software transactional memory in Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,CPS transformation with affine types for call-by-value implicit polymorphism.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,ProbNV: probabilistic verification of network control planes.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,How to evaluate blame for gradual types.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,GhostCell: separating permissions from data in Rust.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Distributing intersection and union types with splits and duality (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Automatic amortized resource analysis with the Quantum physicist's method.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,On continuation-passing transformations and expected cost analysis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Skipping the binder bureaucracy with mixed embeddings in a semantics course (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Calculating dependently-typed compilers (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Grafs: declarative graph analytics.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,An existential crisis resolved: type inference for first-class existential types.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Client-server sessions in linear logic.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Certifying the synthesis of heap-manipulating programs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Deriving efficient program transformations from rewrite rules.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Reasoning about the garden of forking paths.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Static detection of silent misconfigurations with deep interaction analysis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Data-driven abductive inference of library specifications.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,What we eval in the shadows: a large-scale study of eval in R programs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,ECROs: building global scale systems from sequential code.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Reconciling optimization with secure compilation.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Compilation of sparse array programming models.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Making pointer analysis more precise by unleashing the power of selective context sensitivity.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,VESPA: static profiling for binary optimization.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,SimTyper: sound type inference for Ruby using type equality prediction.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,LooPy: interactive program synthesis with control structures.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A multiparty session typing discipline for fault-tolerant event-driven distributed programming.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Much ADO about failures: a fault-aware model for compositional verification of strongly consistent distributed systems.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Efficient compilation of algebraic effect handlers.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Copy-and-patch compilation: a fast compilation algorithm for high-level languages and bytecode.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Programming and execution models for parallel bounded exhaustive testing.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Interpretable noninterference measurement and its application to processor designs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Reachability types: tracking aliasing and separation in higher-order functional programs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Rewrite rule inference using equality saturation.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Type stability in Julia: avoiding performance pathologies in JIT compilation.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Multi-modal program inference: a marriage of pre-trained language models and component-based synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Fully automated functional fuzzing of Android apps for detecting non-crashing logic bugs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,SecRSL: security separation logic for C11 release-acquire concurrency.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Generative type-aware mutation for testing SMT solvers.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Modular specification and verification of closures in Rust.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Synthesizing contracts correct modulo a test generator.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Specifying and testing GPU workgroup progress models.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Study of the subtyping machine of nominal subtyping with variance.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A derivative-based parser generator for visibly Pushdown grammars.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Automatic migration from synchronous to asynchronous JavaScript APIs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Compacting points-to sets through object clustering.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Durable functions: semantics for stateful serverless.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Semantic programming by example with pre-trained models.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,UDF to SQL translation through compositional lazy inductive synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Permchecker: a toolchain for debugging memory managers with typestate.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Rich specifications for Ethereum smart contract verification.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Making weak memory models fair.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,The semantics of shared memory in Intel CPU/FPGA systems.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Coarsening optimization for differentiable programming.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,APIfix: output-oriented program synthesis for combating breaking changes in libraries.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Transitioning from structural to nominal code with efficient gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Generalizable synthesis through unification.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,"One down, 699 to go: or, synthesising compositional desugarings.",https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,The reads-from equivalence for the TSO and PSO memory models.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,JavaDL: automatically incrementalizing Java bug pattern detection.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,How statically-typed functional programmers write code.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Scalability and precision by combining expressive type systems and deductive verification.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Program analysis via efficient symbolic abstraction.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Dynaplex: analyzing program complexity using dynamically inferred recurrence relations.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,"Compiling with continuations, correctly.",https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Promises are made to be broken: migrating R to strict semantics.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Efficient automatic scheduling of imaging and vision pipelines for the GPU.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Gauss: program synthesis by reasoning over graphs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,QuickSilver: modeling and parameterized verification for distributed agreement-based systems.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,SpecSafe: detecting cache side channels in a speculative world.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Label dependent lambda calculus and gradual typing.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Not so fast: understanding and mitigating negative impacts of compiler optimizations on code reuse gadget sets.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,FPL: fast Presburger arithmetic through transprecision.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Translating C to safer Rust.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Relational nullable types with Boolean unification.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,LXM: better splittable pseudorandom number generators (and almost as fast).,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Safer at any speed: automatic context-aware safety enhancement for Rust.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Verifying concurrent multicopy search structures.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Formal verification of high-level synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Synbit: synthesizing bidirectional programs using unidirectional sketches.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Statically bounded-memory delayed sampling for probabilistic streams.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Solver-based gradual type migration.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,"Symbolic value-flow static analysis: deep, precise, complete modeling of Ethereum smart contracts.",https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,A type system for extracting functional specifications from memory-safe imperative programs.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,Gradually structured data.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,5,MonkeyDB: effectively testing correctness under weak isolation levels.,https://dblp.org/db/journals/pacmpl/pacmpl5.html
+pacmpl,6,What's decidable about linear loops?,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Linked visualisations via Galois dependencies.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,From enhanced coinduction towards enhanced induction.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Simuliris: a separation logic framework for verifying concurrent program optimizations.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Dependently-typed data plane programming.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A separation logic for negative dependence.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Concurrent incorrectness separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,"Safe, modular packet pipeline programming.",https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Property-directed reachability as abstract interpretation in the monotone theory.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Effectful program distancing.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,"Provably correct, asymptotically efficient, higher-order reverse-mode automatic differentiation.",https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Symmetries in reversible programming: from symmetric rig groupoids to reversible programming languages.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A separation logic for heap space under garbage collection.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Connectivity graphs: a method for proving deadlock freedom based on separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Oblivious algebraic data types.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Observational equality: now for good.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,VIP: verifying real-world C idioms with integer-pointer casts.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Twist: sound reasoning for purity and entanglement in Quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Semantics for variational Quantum programming.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Induction duality: primal-dual search for invariants.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A cost-aware logical framework.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,The leaky semicolon: compositional semantic dependencies for relaxed-memory concurrency.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Isolation without taxation: near-zero-cost transitions for WebAssembly and SFI.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,One polynomial approximation to produce correctly rounded results of an elementary function for multiple representations and rounding modes.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Fair termination of binary sessions.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Layered and object-based game semantics.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A fine-grained computational interpretation of Girard's intuitionistic proof-nets.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Partial (In)Completeness in abstract interpretation: limiting the imprecision in program analysis.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Subcubic certificates for CFL reachability.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,M&#339;bius: metaprogramming using contextual types: the stage where system f can pattern match on itself.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Bottom-up synthesis of recursive functional programs using angelic execution.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Visibility reasoning for concurrent snapshot algorithms.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Reasoning about &#34;reasoning about reasoning&#34;: semantics and contextual equivalence for probabilistic programs with nested queries and recursion.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Static prediction of parallel computation graphs.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Verified compilation of C programs with a nominal memory model.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Efficient algorithms for dynamic bidirected Dyck-reachability.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Staging with class: a specification for typed template Haskell.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A Quantum interpretation of separating conjunction for local reasoning of Quantum programs based on separation logic.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Certifying derivation of state machines from coroutines.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Relational e-matching.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,On incorrectness logic and Kleene algebra with top and tests.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Quantum information effects.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,"On type-cases, union elimination, and occurrence typing.",https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Solving constrained Horn clauses modulo algebraic data types and recursive functions.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Verified tensor-program optimization via high-level scheduling rewrites.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,"Truly stateless, optimal dynamic partial order reduction.",https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,The decidability and complexity of interleaved bidirected Dyck reachability.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Interval universal approximation for neural networks.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Type-level programming with match types.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A relational theory of effects and coeffects.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Pirouette: higher-order typed functional choreographies.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Extending Intel-x86 consistency and persistency: formalising the semantics of Intel-x86 memory types and non-temporal stores.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A dual number abstraction for static analysis of Clarke Jacobians.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Context-bounded verification of thread pools.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Fully abstract models for effectful &#955;-calculi via category-theoretic logical relations.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,PRIMA: general and precise neural network certification via scalable convex hull approximations.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Logarithm and program testing.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Return of CFA: call-site sensitivity can be superior to object sensitivity even for object-oriented programs.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Learning formulas in finite variable logics.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Software model-checking as cyclic-proof search.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,SolType: refinement types for arithmetic overflow in solidity.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Solving string constraints with Regex-dependent functions through transducers with priorities and variables.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Profile inference revisited.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A formal foundation for symbolic evaluation with merging.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Formal metatheory of second-order abstract syntax.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Synthesizing fine-grained synchronization protocols for implicit monitors.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Purity of an ST monad: full abstraction by semantically typed back-translation.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,End-to-end translation validation for the halide language.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,"Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back.",https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Plausible sealing for gradual parametricity.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Bugs in Quantum computing platforms: an empirical study.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Le temps des cerises: efficient temporal stack safety on capability machines using directed capabilities.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Linear types for large-scale systems verification.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,On incorrectness logic for Quantum programs.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Coverage-guided tensor compiler fuzzing with joint IR-pass mutation.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,C4: verified transactional objects.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Automated transpilation of imperative to functional code using neural-guided program synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Quantitative strongest post: a calculus for reasoning about the flow of quantitative information.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Language-parametric static semantic code completion.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,SHARP: fast incremental context-sensitive pointer analysis for Java.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,C to checked C by 3c.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Elipmoc: advanced decompilation of Ethereum smart contracts.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Proof transfer for fast certification of multiple approximate neural networks.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Functional collection programming with semi-ring dictionaries.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Complexity-guided container replacement synthesis.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Finding real bugs in big programs with incorrectness logic.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Weighted programming: a programming paradigm for specifying mathematical models.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Translating canonical SQL to imperative code in Coq.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Applying cognitive principles to model-finding output: the positive value of negative information.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Beyond Relooper: recursive translation of unstructured control flow to structured control flow (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Searching entangled program spaces.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Generating circuits with generators.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Monadic compiler calculation (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A simple and efficient implementation of strong call by need by an abstract machine.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Linearly qualified types: generic inference for capabilities and uniqueness.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Propositional equality for gradual dependently typed programming.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Verified symbolic execution with Kripke specification monads (and no meta-programming).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Datatype-generic programming meets elaborator reflection.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Formal reasoning about layered monadic interpreters.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Later credits: resourceful reasoning for the later modality.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Program adverbs and Tl&#246;n embeddings.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Structural versus pipeline composition of higher-order functions (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Reference counting with frame limited reuse.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Modular probabilistic models via algebraic effects.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A completely unique account of enumeration.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,"Introduction and elimination, left and right.",https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Multiparty GV: functional multiparty session types with certified deadlock freedom.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Fusing industry and academia at GitHub (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,'do' unchained: embracing local imperativity in a purely functional language (functional pearl).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Staged compilation with two-level type theory.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Constraint-based type inference for FreezeML.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Safe couplings: coupled refinement types.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Practical generic programming over a universe of native datatypes.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Analyzing binding extent in 3CPS.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Entanglement detection with near-zero cost.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Aeneas: Rust verification by functional translation.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Automatically deriving control-flow graph generators from operational semantics.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Normalization for fitch-style modal calculi.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Multi types and reasonable space.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,On Feller continuity and full abstraction.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,The theory of call-by-value solvability.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Random testing of a higher-order blockchain language (experience report).,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,Flexible presentations of graded monads.,https://dblp.org/db/journals/pacmpl/pacmpl6.html
+pacmpl,6,A reasonably gradual type theory.,https://dblp.org/db/journals/pacmpl/pacmpl6.html

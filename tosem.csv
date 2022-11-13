@@ -1,0 +1,270 @@
+name,year,title,link
+tosem,25,Editorial Journal-First Publication for the Software Engineering Community.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Understanding Integer Overflow in C/C++.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Intelligent Code Completion with Bayesian Networks.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Combining Genetic Algorithms and Constraint Programming to Support Stress Testing of Task Deadlines.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Do Automatically Generated Test Cases Make Debugging Easier? An Experimental Assessment of Debugging Effectiveness and Efficiency.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Test Case Prioritization Using Extended Digraphs.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Boa: Ultra-Large-Scale Software Repository and Source-Code Mining.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Type-Based Call Graph Construction Algorithms for Scala.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Estimating Semantic Relatedness in Source Code.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Editorial.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Understanding JavaScript Event-Based Interactions with Clematis.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Inflow and Retention in OSS Communities with Commercial Involvement: A Case Study of Three Hybrid Projects.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Concurrency Debugging with Differential Schedule Projections.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Control Explicit-Data Symbolic Model Checking.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Less is More: Estimating Probabilistic Rewards over Partial System Explorations.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,SIP: Optimal Product Selection from Feature Models Using Many-Objective Evolutionary Optimization.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,DiaPro: Unifying Dynamic Impact Analyses for Improved and Variable Cost-Effectiveness.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,A Stack Memory Abstraction and Symbolic Analysis Framework for Executables.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Multi-Step Learning and Adaptive Search for Learning Complex Model Transformations from Examples.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Learning Weighted Assumptions for Compositional Verification of Markov Decision Processes.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Multi-Criteria Code Refactoring Using Search-Based Software Engineering: An Industrial Case Study.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Using Cohesion and Coupling for Software Remodularization: Is It Enough?,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,The Effect of Program and Model Structure on the Effectiveness of MC/DC Test Adequacy Coverage.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Stochastic Performance Analysis of Global Software Development Teams.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Hierarchical Program Paths.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Impact-Driven Process Model Repair.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Generating API Call Rules from Version History and Stack Overflow Posts.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,Dynamic Dependence Summaries.,https://dblp.org/db/journals/tosem/tosem25.html
+tosem,25,"<i>A Posteriori</i> Typing for Model-Driven Engineering: Concepts, Analysis, and Applications.",https://dblp.org/db/journals/tosem/tosem25.html
+tosem,26,Augmenting Field Data for Testing Systems Subject to Incremental Requirements Changes.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Ensuring the Consistency of Adaptation through Inter- and Intra-Component Dependency Analysis.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Human Competitiveness of Genetic Programming in Spectrum-Based Fault Localisation: Theoretical and Empirical Analysis.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Parallel Algorithms for Generating Distinguishing Sequences for Observable Non-deterministic FSMs.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Editorial.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Fixing Faults in C and Java Source Code: Abbreviated vs. Full-Word Identifier Names.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,A Logic-Based Approach for the Verification of UML Timed Models.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Early Evaluation of Implementation Alternatives of Composite Data Structures Toward Maintainability.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Global and Local Deadlock Freedom in BIP.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Variability Bugs in Highly Configurable Systems: A Qualitative Analysis.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,"Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware.",https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Understanding and Combating Memory Bloat in Managed Data-Intensive Systems.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Detecting the Behavior of Design Patterns through Model Checking and Dynamic Analysis.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,26,Configuring Software Product Lines by Combining Many-Objective Optimization and SAT Solvers.,https://dblp.org/db/journals/tosem/tosem26.html
+tosem,27,Editorial.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,How Far We Have Progressed in the Journey? An Examination of Cross-Project Defect Prediction.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Assessing the Refactoring of Brain Methods.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,An Empirical Study of Meta- and Hyper-Heuristic Search for Multi-Objective Release Planning.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Inferring Extended Probabilistic Finite-State Automaton Models from Software Executions.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,FEMOSAA: Feature-Guided and Knee-Driven Multi-Objective Optimization for Self-Adaptive Software.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Prove it! Inferring Formal Proof Scripts from CafeOBJ Proof Scores.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,STADS: Software Testing as Species Discovery.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Maintaining Architecture-Implementation Conformance to Support Architecture Centrality: From Single System to Product Line Development.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Editorial.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Shadow Symbolic Execution for Testing Software Patches.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,The ABC of Software Engineering Research.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Linear Programming as a Baseline for Software Effort Estimation.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Spectrum-Based Fault Localization in Model Transformations.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Multi-Objective Optimization of Energy Consumption of GUIs in Android Apps.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Test-Equivalence Analysis for Automatic Patch Generation.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Recommending Who to Follow in the Software Engineering Twitter Space.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Refactoring Multi-Level Models.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,27,Variability-Aware Static Analysis at Scale: An Empirical Study.,https://dblp.org/db/journals/tosem/tosem27.html
+tosem,28,Farewell Editorial from the Outgoing Editor-in-Chief.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Editorial from the Incoming Editor-in-Chief.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Oracles for Testing Software Timeliness with Uncertainty.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,The State of Empirical Evaluation in Static Feature Location.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,RESTful API Automated Test Case Generation with EvoMaster.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,An Active Learning Approach for Improving the Accuracy of Automated Domain Model Extraction.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Software Effort Interval Prediction via Bayesian Inference and Synthetic Bootstrap Resampling.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Editorial.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Runtime Fault Detection in Programmed Molecular Systems.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Understanding and Analyzing Java Reflection.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,"Domain Analysis and Description Principles, Techniques, and Modelling Languages.",https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Status Quo in Requirements Engineering: A Theory and a Global Family of Surveys.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Isolation Modeling and Analysis Based on Mobility.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,How Understandable Are Pattern-based Behavioral Constraints for Novice Software Designers?,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Editorial.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Automated N-way Program Merging for Facilitating Family-based Analyses of Variant-rich Software.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Theoretical and Practical Aspects of Linking Operational and Algebraic Semantics for MDESL.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Verifying and Quantifying Side-channel Resistance of Masked Software Implementations.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Developing and Evaluating Objective Termination Criteria for Random Testing.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Efficient Verification of Concurrent Systems Using Synchronisation Analysis and SAT/SMT Solving.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Editorial.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,The Virtual Developer: Integrating Code Generation and Manual Development with Conflict Resolution.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Automated Reuse of Model Transformations through Typing Requirements Models.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Recommending New Features from Mobile App Descriptions.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Precise Learn-to-Rank Fault Localization Using Dynamic and Static Features of Target Programs.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,28,Differential Testing of Certificate Validation in SSL/TLS Implementations: An RFC-guided Approach.,https://dblp.org/db/journals/tosem/tosem28.html
+tosem,29,"On the Monitoring of Decentralized Specifications: Semantics, Properties, Analysis, and Simulation.",https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Many-Objective Test Suite Generation for Software Product Lines.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,How C++ Templates Are Used for Generic Programming: An Empirical Study on 50 Open Source Systems.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Automatically Generating SystemC Code from HCSP Formal Models.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Toward Better Evolutionary Program Repair: An Integrated Approach.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Is Static Analysis Able to Identify Unnecessary Source Code?,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,DESEN: Specification of Sociotechnical Systems via Patterns of Regulation and Control.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Editorial.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Assessing and Improving Malware Detection Sustainability through App Evolution Studies.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Visualizing Distributed System Executions.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Quality Indicators in Search-based Software Engineering: An Empirical Evaluation.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Practical Constraint Solving for Generating System Test Data.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,A Defect Estimator for Source Code: Linking Defect Reports with Programming Constructs Usage Metrics.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Editorial.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Computing Alignments of Well-Formed Process Models using Local Search.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Unveiling Elite Developers' Activities in Open Source Projects.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Monotone Precision and Recall Measures for Comparing Executions and Specifications of Dynamic Systems.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Testing Relative to Usage Scope: Revisiting Software Coverage Criteria.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Wireframe-based UI Design Search through Image Autoencoder.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Multi-objective Integer Programming Approaches for Solving the Multi-criteria Test-suite Minimization Problem: Towards Sound and Complete Solutions of a Particular Search-based Software-engineering Problem.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,psc2code: Denoising Code Extraction from Programming Screencasts.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Handling SQL Databases in Automated System Test Generation.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Fine-grained Code Coverage Measurement in Automated Black-box Android Testing.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,iSENSE2.0: Improving Completion-aware Crowdtesting Management with Duplicate Tagger and Sanity Checker.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Measuring Task Conflict and Person Conflict in Software Testing.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Generating Question Titles for Stack Overflow from Mined Code Snippets.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Smart Contract Repair.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Using Relative Lines of Code to Guide Automated Test Generation for Python.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Why Developers Refactor Source Code: A Mining-based Study.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Practical Accuracy Estimation for Efficient Deep Neural Network Testing.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,29,Modular Tree Network for Source Code Representation Learning.,https://dblp.org/db/journals/tosem/tosem29.html
+tosem,30,StreamGen: Model-driven Development of Distributed Streaming Applications.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Mastering Variation in Human Studies: The Role of Aggregation.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Security Smells in Ansible and Chef Scripts: A Replication Study.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Uncertainty-wise Requirements Prioritization with Search.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Verification of Program Transformations with Inductive Refinement Types.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Automated Patch Transplantation.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,RegionTrack: A Trace-Based Sound and Complete Checker to Debug Transactional Atomicity Violations and Non-Serializable Traces.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,An Empirical Study of Developer Discussions in the Gitter Platform.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,A Practical Approach to Verification of Floating-Point C/C++ Programs with math.h/cmath Functions.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,SEADS: Scalable and Cost-effective Dynamic Dependence Analysis of Distributed Systems via Reinforcement Learning.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Technical Q8A Site Answer Recommendation via Question Boosting.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Enabledness-based Testing of Object Protocols.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Test Selection for Deep Learning Systems.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Beyond Tests: Program Vulnerability Repair via Crash Constraint Extraction.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,History-based Model Repair Recommendations.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Adversarial Specification Mining.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Test Data Generation for Path Coverage of MPI Programs Using SAEO.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Emoji-powered Sentiment and Emotion Detection from Software Developers' Communication Data.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Killing Stubborn Mutants with Symbolic Execution.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,"An Empirical Study on Type Annotations: Accuracy, Speed, and Suggestion Effectiveness.",https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Why an Android App Is Classified as Malware: Toward Malware Classification Interpretation.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Leveraging the Defects Life Cycle to Label Affected Versions and Defective Classes.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Editorial.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,A Hybrid Approach to Formal Verification of Higher-Order Masked Arithmetic Programs.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Facet-oriented Modelling.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Are Multi-Language Design Smells Fault-Prone? An Empirical Study.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Toward an Objective Measure of Developers' Cognitive Activities.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Automatic API Usage Scenario Documentation from Technical Q&#38;A Sites.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Taming Reflection: An Essential Step Toward Whole-program Analysis of Android Apps.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Predicting Performance Anomalies in Software Systems at Run-time.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,A Formal Framework of Software Product Line Analyses.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Architecting Internet of Things Systems with Blockchain: A Catalog of Tactics.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,An Adaptive Search Budget Allocation Approach for Search-Based Test Case Generation.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,How Should I Improve the UI of My App?: A Study of User Reviews of Popular Apps in the Google Play.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,DeepWukong: Statically Detecting Software Vulnerabilities Using Deep Graph Neural Network.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,IntDroid: Android Malware Detection Based on API Intimacy Analysis.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,On the Impact of Sample Duplication in Machine-Learning-Based Android Malware Detection.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Leveraging Control Flow Knowledge in SMT Solving of Program Verification.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,When and How to Make Breaking Changes: Policies and Practices in 18 Open Source Software Ecosystems.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Toward a Holistic Approach to Verification and Validation of Autonomous Cognitive Systems.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Diversifying Focused Testing for Unit Testing.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,How Far Have We Progressed in Identifying Self-admitted Technical Debts? A Comprehensive Empirical Study.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Eagle: CFL-Reachability-Based Precision-Preserving Acceleration of Object-Sensitive Pointer Analysis with Partial Context Sensitivity.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Specifying with Interface and Trait Abstractions in Abstract State Machines: A Controlled Experiment.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Automatically Identifying the Quality of Developer Chats for Post Hoc Use.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Speeding Up Data Manipulation Tasks with Alternative Implementations: An Exploratory Study.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Software Architectural Migration: An Automated Planning Approach.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Evaluation of Software Architectures under Uncertainty: A Systematic Literature Review.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,The Agile Success Model: A Mixed-methods Study of a Large-scale Agile Transformation.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Recommending Faulty Configurations for Interacting Systems Under Test Using Multi-objective Search.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,An Empirical Study of the Impact of Data Splitting Decisions on the Performance of AIOps Solutions.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Understanding Software-2.0: A Study of Machine Learning Library Usage and Evolution.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,30,Context-aware Retrieval-based Deep Commit Message Generation.,https://dblp.org/db/journals/tosem/tosem30.html
+tosem,31,Enhancing Search-based Testing with Testability Transformations for Existing APIs.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Adaptive Hypermutation for Search-Based System Test Generation: A Study on REST APIs with EvoMaster.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Memory-Safety Challenge Considered Solved? An In-Depth Study with All Rust CVEs.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,The Impact of Dormant Defects on Defect Prediction: A Study of 19 Apache Projects.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,MICOSE4aPS: Industrially Applicable Maturity Metric to Improve Systematic Reuse of Control Software.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Towards an Anatomy of Software Craftsmanship.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Psychometrics in Behavioral Software Engineering: A Methodological Introduction with Guidelines.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Parallel Test Prioritization.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,The Case for Adaptive Security Interventions.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Bug Localization in Model-Based Systems in the Wild.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Automating App Review Response Generation Based on Contextual Knowledge.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,SPI: Automated Identification of Security Patches via Commits.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Automatic Fault Detection for Deep Learning Programs Using Graph Transformations.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,On the Reproducibility and Replicability of Deep Learning in Software Engineering.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Towards a Consistent Interpretation of AIOps Models.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,A Survey of Flaky Tests.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Editorial: A Retrospective and Prospective Reflection.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,"Model Transformation Development Using Automated Requirements Analysis, Metamodel Matching, and Transformation by Example.",https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Measuring and Modeling Group Dynamics in Open-Source Software Development: A Tensor Decomposition Approach.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Classifying Mobile Applications Using Word Embeddings.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Feature Matching-based Approaches to Improve the Robustness of Android Visual GUI Testing.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,ConE: A Concurrent Edit Detection Tool for Large-scale Software Development.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Why Do Developers Reject Refactorings in Open-Source Projects?,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Analyzing Uncertainty in Release Planning: A Method and Experiment for Fixed-Date Release Cycles.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,How Software Refactoring Impacts Execution Time.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,A Practical Approach for Dynamic Taint Tracking with Control-flow Relationships.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,A Tale of Two Cities: Software Developers Working from Home during the COVID-19 Pandemic.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Guided Feature Identification and Removal for Resource-constrained Firmware.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,In-IDE Code Generation from Natural Language: Promise and Challenges.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,What You See is What it Means! Semantic Representation Learning of Code based on Visualization and Transfer Learning.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,OSS Effort Estimation Using Software Features Similarity and Developer Activity-Based Metrics.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,SemMT: A Semantic-Based Testing Approach for Machine Translation Systems.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Buddy Stacks: Protecting Return Addresses with Efficient Thread-Local Storage and Runtime Re-Randomization.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,A Study on Blockchain Architecture Design Decisions and Their Security Attacks and Threats.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Software Engineering for AI-Based Systems: A Survey.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,L2S: A Framework for Synthesizing the Most Probable Program under a Specification.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Context- and Fairness-Aware In-Process Crowdworker Recommendation.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,ReCDroid+: Automated End-to-End Crash Reproduction from Bug Reports for Android Apps.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Verification of Distributed Systems via Sequential Emulation.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Opinion Mining for Software Development: A Systematic Literature Review.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Stateful Serverless Computing with Crucial.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Applying Bayesian Analysis Guidelines to Empirical Software Engineering Data: The Case of Programming Languages and Code Quality.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,On the Faults Found in REST APIs by Automated Test Generation.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Using Personality Detection Tools for Software Engineering Research: How Far Can We Go?,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,"All in One: Design, Verification, and Implementation of SNOW-optimal Read Atomic Transactions.",https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Do Developers Really Know How to Use Git Commands? A Large-scale Study Using Stack Overflow.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Industry-Academia Research Collaboration and Knowledge Co-creation: Patterns and Anti-patterns.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Continuous and Proactive Software Architecture Evaluation: An IoT Case.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,NPC: Neuron Path Coverage via Characterizing Decision Logic of Deep Neural Networks.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,An Empirical Study of the Effectiveness of an Ensemble of Stand-alone Sentiment Detection Tools for Software Engineering Datasets.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Detecting and Augmenting Missing Key Aspects in Vulnerability Descriptions.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,"Towards Robustness of Deep Program Processing Models - Detection, Estimation, and Enhancement.",https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Context-Aware Code Change Embedding for Better Patch Correctness Assessment.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,XCode: Towards Cross-Language Code Representation with Large-Scale Pre-Training.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,An Empirical Study of the Impact of Hyperparameter Tuning and Model Optimization on the Performance Properties of Deep Neural Networks.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Examining Penetration Tester Behavior in the Collegiate Penetration Testing Competition.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Predictive Models in Software Engineering: Challenges and Opportunities.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Verification Witnesses.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,BiRD: Race Detection in Software Binaries under Relaxed Memory Models.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,A Common Terminology for Software Risk Management.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Adversarial Robustness of Deep Code Comment Generation.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,"Automated, Cost-effective, and Update-driven App Testing.",https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Assessing and Improving an Evaluation Dataset for Detecting Semantic Code Clones via Deep Learning.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Correlating Automated and Human Evaluation of Code Documentation Generation Quality.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Guaranteeing Timed Opacity using Parametric Timed Model Checking.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Deep Reinforcement Learning for Black-box Testing of Android Apps.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Accessibility in Software Practice: A Practitioner's Perspective.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,How Do Successful and Failed Projects Differ? A Socio-Technical Analysis.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Monitoring Constraints and Metaconstraints with Temporal Logics on Finite Traces.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Mutant Reduction Evaluation: What is There and What is Missing?,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Super-optimization of Smart Contracts.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Verification of Programs Sensitive to Heap Layout.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Boosting Compiler Testing via Compiler Optimization Exploration.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Predictive Mutation Analysis via the Natural Language Channel in Source Code.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Verifix: Verified Repair of Programming Assignments.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Turnover of Companies in OpenStack: Prevalence and Rationale.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Predicting Patch Correctness Based on the Similarity of Failing Test Cases.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Uncertainty-aware Prediction Validator in Deep Learning Models for Cyber-physical System Data.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Testing the Plasticity of Reinforcement Learning-based Systems.,https://dblp.org/db/journals/tosem/tosem31.html
+tosem,31,Women's Participation in Open Source Software: A Survey of the Literature.,https://dblp.org/db/journals/tosem/tosem31.html

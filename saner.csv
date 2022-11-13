@@ -1,0 +1,623 @@
+name,year,title,link
+saner,2016,"IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering, SANER 2016, Suita, Osaka, Japan, March 14-18, 2016 - Volume 1.",https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Domino Effect: Move More Methods Once a Method is Moved.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Supporting Selective Undo for Refactoring.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Finding the Best Compromise Between Design Quality and Testing Effort During Refactoring.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Studying the Relation between Anti-Patterns in Design Models and in Source Code.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,An Empirical Study on Recommendations of Similar Bugs.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Cross-Architecture Binary Semantics Understanding via Similar Code Comparison.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Bug Replication in Code Clones: An Empirical Study.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,On the Relationship of Inconsistent Software Clones and Faults: An Empirical Study.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Software-Specific Named Entity Recognition in Software Engineering Social Content.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Forking and the Sustainability of the Developer Community Participation - An Empirical Investigation on Outcomes and Reasons.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,More Common Than You Think: An In-depth Study of Casual Contributors.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,A Study of Visual Studio Usage in Practice.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Evaluating Automatic Spreadsheet Metadata Extraction on a Large Set of Responses from MOOC Participants.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Localizing Multiple Faults in Simulink Models.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,A More Accurate Model for Finding Tutorial Segments Explaining APIs.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,An Empirical Study on the Use of CSS Preprocessors.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Examining the Impact of Self-Admitted Technical Debt on Software Quality.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,The Impact of Human Discussions on Just-in-Time Quality Assurance: An Empirical Study on OpenStack and Eclipse.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Generalizing the Analysis of Evolutionary Coupling for Software Change Impact Analysis.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,History Driven Program Repair.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Negative Effects of Bytecode Instrumentation on Java Source Code Coverage.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,UROBOROS: Instrumenting Stripped Binaries with Static Reassembling.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Towards Transparent Introspection.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Linvail: A General-Purpose Platform for Shadow Execution of JavaScript.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Custom-Tailored Variability Mining for Block-Based Languages.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,A Case Study on Type Hints in Method Argument Names in Pharo Smalltalk Projects.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Visualizing Data-Flows in Functional Programs.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Tracking Null Checks in Open-Source Java Systems.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Parameterizing and Assembling IR-Based Solutions for SE Tasks Using Genetic Algorithms.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Examining the Stability of Logging Statements.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Mining Analogical Libraries in Q&#38;A Discussions - Incorporating Relational and Categorical Knowledge into Word Embedding.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,RACK: Automatic API Recommendation Using Crowdsourced Knowledge.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Do Developers Deprecate APIs with Replacement Messages? A Large-Scale Analysis on Java Systems.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,MICHAC: Defect Prediction via Feature Selection Based on Maximal Information Coefficient with Hierarchical Agglomerative Clustering.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,On the Detection of Licenses Violations in the Android Ecosystem.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Do Code Smells Impact the Effort of Different Maintenance Programming Activities?,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,An Investigation into the Use of Common Libraries in Android Apps.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Revisiting the Description-to-Behavior Fidelity in Android Applications.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Mining Android Apps to Recommend Permissions.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Optimizing User Experience in Choosing Android Applications.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Efficient and Precise Dynamic Slicing for Client-Side JavaScript Programs.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Supporting Program Analysis for Non-Mainstream Languages: Experiences and Lessons Learned.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Analyzing the State of Static Analysis: A Large-Scale Evaluation in Open Source Software.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Marea: A Semi-Automatic Decision Support System for Breaking Dependency Cycles.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,When GitHub Meets CRAN: An Analysis of Inter-Repository Package Dependency Problems.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Achieving Knowledge Evolution in Dynamic Software Product Lines.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Haskell in Green Land: Analyzing the Energy Behavior of a Purely Functional Language.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Client-Side Energy Efficiency of HTTP/2 for Web and Mobile App Developers.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Predicting Build Co-changes with Source Code Change and Commit Categories.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Release Practices for Mobile Apps - What do Users and Developers Think?,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,A Large Scale Study of Multiple Programming Languages and Code Quality.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Botched Releases: Do We Need to Roll Back? Empirical Study on a Commercial Web App.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,"Parameter Values of Android APIs: A Preliminary Study on 100, 000 Apps.",https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Native or Web? A Preliminary Study on the Energy Consumption of Android Development Models.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Composite Refactoring for Decoupling Multiple Classes.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,A Code Refactoring Dataset and Its Assessment Regarding Software Maintainability.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Frankencode: Creating Diverse Programs Using Code Clones.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Antipattern and Code Smell False Positives: Preliminary Conceptualization and Classification.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Identifying Utility Functions Using Random Forests.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Towards Building API Usage Example Metrics.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Software Language Identification with Natural Language Classifiers.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,At Ease with Your Warnings: The Principles of the Salutogenesis Model Applied to Automatic Static Analysis.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,An Empirical Study on the Usage of the Swift Programming Language.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,AutoBench: Finding Workloads That You Need Using Pluggable Hybrid Analyses.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Analyzing the Decision Criteria of Software Developers Based on Prospect Theory.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,BUMPER: A Tool for Coping with Natural Language Searches of Millions of Bugs and Fixes.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,BINSEC/SE: A Dynamic Symbolic Execution Toolkit for Binary-Level Analysis.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,CoreTAna: A Trace Analyzer for Reverse Engineering Real-Time Software.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Supporting Merge Conflict Resolution by Using Fine-Grained Code Change History.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Managing Traceability Links with MaTraca.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Automated Generalization and Refinement of Code Templates with Ekeko/X.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Improving the Performance of a Large Scale Spreadsheet: A Case Study.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,A Systematic Framework for Modernizing Legacy Application Systems.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Experience Report on Building ASTM Based Tools for Multi-language Reverse Engineering.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,On Error-Class Distribution in Automotive Model-Based Software.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2016,Designing and Developing Automated Refactoring Transformations: An Experience Report.,https://dblp.org/db/conf/wcre/saner2016.html
+saner,2017,"IEEE 24th International Conference on Software Analysis, Evolution and Reengineering, SANER 2017, Klagenfurt, Austria, February 20-24, 2017.",https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,"UNVEIL: A large-scale, automated approach to detecting ransomware (keynote).",https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,An empirical comparison of dependency issues in OSS packaging ecosystems.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Detecting similar repositories on GitHub.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Code of conduct in open source projects.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Socio-technical evolution of the Ruby ecosystem in GitHub.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,StiCProb: A novel feature mining approach using conditional probability.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,HDSKG: Harvesting domain specific knowledge graph from content of webpages.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Analyzing closeness of code dependencies for improving IR-based Traceability Recovery.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,STRICT: Information retrieval based search term identification for concept location.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Analyzing reviews and code of mobile apps for better release planning.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,"Software-based energy profiling of Android apps: Simple, efficient and reliable?",https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Investigating the energy impact of Android smells.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Automated generation of consistency-achieving model editors.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Historical and impact analysis of API breaking changes: A large-scale study.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Reducing redundancies in multi-revision code analysis.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Recommending source code locations for system specific transformations.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Extracting executable transformations from distilled code changes.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Automatic generation of opaque constants based on the k-clique problem for resilient data obfuscation.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,The dark side of event sourcing: Managing data conversion.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Automatically generating natural language descriptions for object-related statement sequences.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Shorter identifier names take longer to comprehend.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Lexical categories for source code identifiers.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Computing counter-examples for privilege protection losses using security models.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Enriching in-IDE process information with fine-grained source code history.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,How to gamify software engineering.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Scalable tag recommendation for software information sites.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Stack Overflow: A code laundering platform?,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,An empirical study of code smells in JavaScript projects.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Antipatterns causing memory bloat: A case study.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Variant-preserving refactorings for migrating cloned products to a product line.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Efficient method extraction for automatic elimination of type-3 clones.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Spreadsheet testing in practice.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Dynamic patch generation for null pointer exceptions using metaprogramming.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Improving fault localization for Simulink models using search-based testing and prediction models.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,An empirical investigation into the cost-effectiveness of test effort allocation strategies for finding faults.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,What information about code snippets is available in different software-related documents? An exploratory study.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Harnessing Twitter to support serendipitous learning of developers.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Why do we break APIs? First answers from developers.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,An arc-based approach for visualization of code smells.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Towards continuous software release planning.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,An exploratory study on library aging by monitoring client usage in a software ecosystem.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Trends on empty exception handlers for Java open source libraries.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Analyzing the evolution of testing library usage in open source Java projects.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,On the evolution of exception usage in Java projects.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Statically identifying class dependencies in legacy JavaScript systems: First results.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,CodeCritics applied to database schema: Challenges and first results.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Cloud-based parallel concolic execution.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Under-optimized smart contracts devour your money.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Pluggable Controllers and Nano-Patterns.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Query Construction Patterns in PHP.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Supporting schema evolution in schema-less NoSQL data stores.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,XCORE: Support for developing program analysis tools.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,srcQL: A syntax-aware query language for source code.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,UAV: Warnings from multiple Automated Static Analysis Tools at a glance.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,The Spartanizer: Massive automatic refactoring.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,c-JRefRec: Change-based identification of Move Method refactoring opportunities.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Lightweight detection of Android-specific code smells: The aDoctor project.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,scat: Learning from a single execution of a binary.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,dynStruct: An automatic reverse engineering tool for structure recovery and memory use analysis.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,InsDal: A safe and extensible instrumentation tool on Dalvik byte-code for Android applications.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Columbo: High perfomance unpacking.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Hindsight: Revealing the evolution of dependencies to developers.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Replan: A Release Planning Tool.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Bringing back-in-time debugging down to the database.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Performance tuning for automotive Software Fault Prediction.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Business process recovery based on system log and information of organizational structure.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Multi-language re-documentation to support a COBOL to Java migration project.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Proactive reviews of textual requirements.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Data access visualization for legacy application maintenance.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,An empirical study of clone density evolution and developer cloning tendency.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Towards reverse engineering of intermediate code for documentation generators.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,A framework for classifying and comparing source code recommendation systems.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Self-adaptive systems framework based on agent and search-based optimization.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,The importance of program Design Patterns training.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Conventionality analysis of array objects in JavaScript.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Two improvements to detect duplicates in Stack Overflow.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Modernizing domain-specific languages with XMLText and IntellEdit.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Lost comments support program comprehension.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Does the release cycle of a library project influence when it is adopted by a client project?,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Which review feedback did long-term contributors get on OSS projects?,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Frame-based behavior preservation in refactoring.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Log generation for coding behavior analysis: For focusing on how kids are coding not what they are coding.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2017,Towards understanding an open-source bounty: Analysis of Bountysource.,https://dblp.org/db/conf/wcre/saner2017.html
+saner,2018,"25th International Conference on Software Analysis, Evolution and Reengineering, SANER 2018, Campobasso, Italy, March 20-23, 2018.",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,"A decade of software quality analysis in practice: Surprises, anecdotes, and lessons learned (keynote).",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,"Towards a new digital business operating system: Speed, data, ecosystems, and empowerment (keynote).",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Compilers are sprinters - IDEs are marathoners (keynote).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Ten years of JDeodorant: Lessons learned from the hunt for smells.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Design patterns impact on software quality: Where are the theories?,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Benchmarks for software clone detection: A ten-year retrospective.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Context is king: The developer perspective on the usage of static analysis tools.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Micro-clones in evolving software.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,SMARTLOG: Place error log statement by deep understanding of log intention.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Exploring the integration of user feedback in automated testing of Android applications.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Structured random differential testing of instruction decoders.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Clustering support for inadequate test suite reduction.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Automatically repairing dependency-related build breakage.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Mining stackoverflow for program repair.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Dissection of a bug dataset: Anatomy of 395 patches from Defects4J.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Detecting third-party libraries in Android applications with high precision and recall.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,How do developers fix issues and pay back technical debt in the Apache ecosystem?,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,How good is your puppet? An empirically defined and validated quality model for puppet.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Maintaining behaviour driven development specifications: Challenges and opportunities.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Recursion aware modeling and discovery for hierarchical software event log analysis.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Automatically exploiting implicit design knowledge when solving the class responsibility assignment problem.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Cross-version defect prediction via hybrid active learning with kernel principal component analysis.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Using a probabilistic model to predict bug fixes.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Connecting software metrics across versions to predict defects.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Classifying stack overflow posts on API issues.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Why and how Java developers break APIs.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Mining accurate message formats for service APIs.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Mining framework usage graphs from app corpora.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,"A generalized model for visualizing library popularity, adoption, and diffusion within a software ecosystem.",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Supporting exploratory code search with differencing and visualization.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Syntax and sensibility: Using language models to detect and correct syntax errors.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,A deep neural network language model with contexts for source code.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Efficient features for function matching between binary executables.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Using recurrent neural networks for decompilation.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,How do developers discuss rationale?,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Automated quality assessment for crowdsourced test reports of mobile applications.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,The impact of refactoring changes on the SZZ algorithm: An empirical study.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,An extensible approach for taming the challenges of JavaScript dead code elimination.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Automated refactoring of client-side JavaScript code to ES6 modules.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Improving developers awareness of the exception handling policy.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Detecting faulty empty cells in spreadsheets.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Detection of protection-impacting changes during software evolution.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Mining sandboxes: Are we there yet?,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,DeepWeak: Reasoning common software weaknesses via knowledge graph embedding.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Towards just-in-time suggestions for log changes (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Which log level should developers choose for a new logging statement? (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,A study of the relation of mobile device attributes with the user-perceived quality of Android apps (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,How developers micro-optimize Android apps (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,The relationship between evolutionary coupling and defects in large industrial software (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,A comparison framework for runtime monitoring approaches (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Modularity and architecture of PLC-based software for automated production systems: An analysis in industrial companies (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,A mapping study on design-time quality attributes and metrics (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,"Review participation in modern code review: An empirical study of the Android, Qt, and OpenStack projects (journal-first abstract).",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Spreadsheet guardian: An approach to protecting semantic correctness throughout the evolution of spreadsheets (journal-first abstract).,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Extracting features from requirements: Achieving accuracy and automation with neural networks.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,OctoBubbles: A Multi-view interactive environment for concurrent visualization and synchronization of UML models and code.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,A comparison of software engineering domain specific sentiment analysis tools.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Generating descriptions for screenshots to assist crowdsourced testing.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Reconciling the past and the present: An empirical study on the application of source code transformations to automatically rejuvenate Java programs.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,The Statechart Workbench: Enabling scalable software event log analysis using process mining.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,APIDiff: Detecting API breaking changes.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,LICCA: A tool for cross-language clone detection.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,GoldRusher: A miner for rapid identification of hidden code.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,BECLoMA: Augmenting stack traces with user review information.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Bring your own coding style.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,"FINALIsT<sup>2</sup>: Feature identification, localization, and tracing tool.",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,ChangeMacroRecorder: Recording fine-grained textual changes of source code.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,RETICULA: Real-time code quality assessment.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,"Reengineering an industrial HMI: Approach, objectives, and challenges.",https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Model-based software restructuring: Lessons from cleaning up COM interfaces in industrial legacy code.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Grammatical inference from data exchange files: An experiment on engineering software.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Fuzz testing in practice: Obstacles and solutions.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Diggit: Automated code review via software repository mining.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Duplicate question detection in stack overflow: A reproducibility study.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,How do scientists develop scientific software? An external replication.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Re-evaluating method-level bug prediction.,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Keep it simple: Is deep learning good for linguistic smell detection?,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2018,Detecting code smells using machine learning techniques: Are we there yet?,https://dblp.org/db/conf/wcre/saner2018.html
+saner,2019,"26th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2019, Hangzhou, China, February 24-27, 2019.",https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,"Message from the General Chair, Program Co-Chairs, and Local Chair.",https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Software engineering in a data science future (Keynote).,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Does your software value what you value? (Keynote).,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Forward and backward traceability: Requirements and challenges (Keynote).,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Software Multiple-Level Change Detection Based on Two-Step MPAT Matching.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Pruning the AST with Hunks to Speed up Tree Differencing.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Expressions of Sentiments during Code Reviews: Male vs. Female.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,A Study on the Interplay between Pull Request Review and Continuous Integration Builds.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,"Confusion in Code Reviews: Reasons, Impacts, and Coping Strategies.",https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Deep Review Sharing.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,A Comparative Study of Software Bugs in Micro-clones and Regular Code Clones.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,On Precision of Code Clone Detection Tools.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Learning-Based Recursive Aggregation of Abstract Syntax Trees for Code Clone Detection.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Fuzzing Program Logic Deeply Hidden in Binary Program Stages.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,How Stable Are Eclipse Application Framework Internal Interfaces?,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Unveiling Exception Handling Guidelines Adopted by Java Developers.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Migrating to GraphQL: A Practical Assessment.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Are Refactorings to Blame? An Empirical Study of Refactorings in Merge Conflicts.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Accurate Design Pattern Detection Based on Idiomatic Implementation Matching in Java Language Context.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Detecting Feature-Interaction Symptoms in Automotive Software using Lightweight Analysis.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Mining Cross-Task Artifact Dependencies from Developer Interactions.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,A Human-as-Sensors Approach to API Documentation Integration and Its Effects on Novice Programmers.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Feature Maps: A Comprehensible Software Representation for Design Pattern Detection.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Reformulating Queries for Duplicate Bug Report Detection.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Identifying Redundancies in Fork-based Development.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Systematic Comprehension for Developer Reply in Mobile System Forum.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Improving Model Inference in Industry by Combining Active and Passive Learning.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Towards Understandable Guards of Extracted State Machines from Embedded Software.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Mining Specifications from Documentation using a Crowd.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Studying Android App Popularity by Cross-Linking GitHub and Google Play Store.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,An Empirical Study of Learning to Rank Techniques for Effort-Aware Defect Prediction.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,COLOR: Correct Locator Recommender for Broken Test Scripts using Various Clues in Web Application.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,A Comparative Study of Android Repackaged Apps Detection Techniques.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Want to Earn a Few Extra Bucks? A First Look at Money-Making Apps.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,APPCOMMUNE: Automated Third-Party Libraries De-duplicating and Updating for Android Apps.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Characterizing and Detecting Inefficient Image Displaying Issues in Android Apps.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Detecting Data Races Caused by Inconsistent Lock Protection in Device Drivers.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,An Empirical Study of Messaging Passing Concurrency in Go Projects.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,A Splitting Strategy for Testing Concurrent Programs.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Understanding Node Change Bugs for Distributed Systems.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,A Neural Model for Method Name Generation from Functional Description.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Bilateral Dependency Neural Networks for Cross-Language Algorithm Classification.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,DeepLink: A Code Knowledge Graph Based Deep Learning Approach for Issue-Commit Link Recovery.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,CNN-FL: An Effective Approach for Localizing Faults using Convolutional Neural Networks.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,AVATAR: Fixing Semantic Bugs with Fix Patterns of Static Analysis Violations.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,BEARS: An Extensible Java Bug Benchmark for Automatic Program Repair Studies.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,"On the Relation between Outdated Docker Containers, Severity Vulnerabilities, and Bugs.",https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Exploring Regular Expression Evolution.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Mining Scala Framework Extensions for Recommendation Patterns.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Reuse (or Lack Thereof) in Travis CI Specifications: An Empirical Study of CI Phases and Commands.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Is Self-Admitted Technical Debt a Good Indicator of Architectural Divergences?,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Identifying Feature Clones: An Industrial Case Study.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Towards Generating Cost-Effective Test-Suite for Ethereum Smart Contract.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,EVM<sup>*</sup>: From Offline Detection to Online Reinforcement for Ethereum Virtual Machine.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Testing the Message Flow of Android Auto Apps.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Open-Source License Violations of Binary Software at Large Scale.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Qualify First! A Large Scale Modernisation Report.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Challenges of SonarQube Plug-In Maintenance.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,GUI Migration using MDE from GWT to Angular 6: An Industrial Case.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Program State Coverage: A Test Coverage Metric Based on Executed Program States.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,On the Diversity of Software Package Popularity Metrics: An Empirical Study of npm.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,On the Impact of Refactoring Operations on Code Naturalness.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Knowledge Graphing Git Repositories: A Preliminary Study.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Should You Consider Adware as Malware in Your Study?,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Please Help! A Preliminary Study on the Effect of Social Proof and Legitimization of Paltry Contributions in Donations to OSS.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,DeepCT: Tomographic Combinatorial Testing for Deep Learning Systems.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,On the Impact of Outdated and Vulnerable Javascript Packages in Docker Images.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,GUARDIAML: Machine Learning-Assisted Dynamic Information Flow Control.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,OBLIVE: Seamless Code Obfuscation for Java Programs and Android Apps.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Madoop: Improving Browser-Based Volunteer Computing Based on Modern Web Technologies.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,Automating Performance Antipattern Detection and Software Refactoring in UML Models.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,ICSD: Interactive Visual Support for Understanding Code Control Structure.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2019,GoCity: Code City for Go.,https://dblp.org/db/conf/wcre/saner2019.html
+saner,2020,"27th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2020, London, ON, Canada, February 18-21, 2020.",https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Referee: A Pattern-Guided Approach for Auto Design in Compiler-Based Analyzers.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Web APIs in Android through the Lens of Security.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,SMARTSHIELD: Automatic Smart Contract Protection Made Easy.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Automatically Extracting Subroutine Summary Descriptions from Unstructured Comments.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Resource Race Attacks on Android.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,We Are Family: Analyzing Communication in GitHub Software Repositories and Their Forks.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Exploring Type Inference Techniques of Dynamically Typed Languages.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,How Do Python Framework APIs Evolve? An Exploratory Study.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Associating Code Clones with Association Rules for Change Impact Analysis.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,LibDX: A Cross-Platform and Accurate System to Detect Third-Party Libraries in Binary Code.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Sequence Directed Hybrid Fuzzing.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,LESSQL: Dealing with Database Schema Changes in Continuous Deployment.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Cross-Dataset Design Discussion Mining.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,C-3PR: A Bot for Fixing Static Analysis Violations via Pull Requests.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Automated Bug Detection and Replay for COTS Linux Kernel Modules with Concolic Execution.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Ultra-Large-Scale Repository Analysis via Graph Compression.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Studying Developer Reading Behavior on Stack Overflow during API Summarization Tasks.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,On the Adoption of Kotlin on Android Development: A Triangulation Study.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Energy Refactorings for Android in the Large and in the Wild.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Essential Sentences for Navigating Stack Overflow Answers.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,HistoRank: History-Based Ranking of Co-change Candidates.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,SAGA: Efficient and Large-Scale Detection of Near-Miss Clones with GPU Acceleration.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,CORE: Automating Review Recommendation for Code Changes.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Distinguishing Similar Design Pattern Instances through Temporal Behavior Analysis.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Relationship between the Effectiveness of Spectrum-Based Fault Localization and Bug-Fix Types in JavaScript Programs.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Incremental Map-Reduce on Repository History.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,How EvoStreets Are Observed in Three-Dimensional and Virtual Reality Environments.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Are the Code Snippets What We Are Searching for? A Benchmark and an Empirical Study on Code Search with Natural-Language Queries.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Automatically Learning Patterns for Self-Admitted Technical Debt Removal.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Refactoring Graphs: Assessing Refactoring over Time.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,"On Relating Technical, Social Factors, and the Introduction of Bugs.",https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Characterizing Architectural Drifts of Adaptive Systems.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Using Productive Collaboration Bursts to Analyze Open Source Collaboration Effectiveness.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Slice-Based Cognitive Complexity Metrics for Defect Prediction.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,The Silent Helper: The Impact of Continuous Integration on Code Reviews.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Heap Memory Snapshot Assisted Program Analysis for Android Permission Specification.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,A Code-Description Representation Learning Model Based on Attention.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Suggesting Comment Completions for Python using Neural Language Models.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Leveraging Contextual Information from Function Call Chains to Improve Fault Localization.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Deep Learning Based Identification of Suspicious Return Statements.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Clone Detection in Test Code: An Empirical Evaluation.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Are SonarQube Rules Inducing Bugs?,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Enhancing Source Code Refactoring Detection with Explanations from Commit Messages.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Unleashing the Potentials of Immersive Augmented Reality for Software Engineering.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Reflection on Building Hybrid Access Control by Configuring RBAC and MAC Features.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Is Developer Sentiment Related to Software Bugs: An Exploratory Study on GitHub Commits.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,"The Python/C API: Evolution, Usage Statistics, and Bug Patterns.",https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Revisiting the Challenges and Opportunities in Software Plagiarism Detection.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Req2Lib: A Semantic Neural Model for Software Library Recommendation.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,"Dependency Solving Is Still Hard, but We Are Getting Better at It.",https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,A Reflection on &#34;An Exploratory Study on Exception Handling Bugs in Java Programs&#34;.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,A Preliminary Study on Open-Source Memory Vulnerability Detectors.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,A Reflection on the Predictive Accuracy of Dynamic Impact Analysis.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,JavaScript API Deprecation in the Wild: A First Assessment.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,A Semantic-Based Framework for Analyzing App Users' Feedback.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Identifying Vulnerable IoT Applications using Deep Learning.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,A Mutation Framework for Evaluating Security Analysis Tools in IoT Applications.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Pull Requests or Commits? Which Method Should We Use to Study Contributors' Behavior?,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Automated Deprecated-API Usage Update for Android Apps: How Far are We?,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Experience Report: How Effective is Automated Program Repair for Industrial Software?,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Reducing Code Complexity through Code Refactoring and Model-Based Rejuvenation.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Leveraging Machine Learning for Software Redocumentation.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Automated Code Transformations: Dealing with the Aftermath.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,CryptoExplorer: An Interactive Web Platform Supporting Secure Use of Cryptography APIs.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,AUSearch: Accurate API Usage Search in GitHub Repositories with Type Resolution.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Clone Notifier: Developing and Improving the System to Notify Changes of Code Clones.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Mining Version Control Systems and Issue Trackers with LibVCS4j.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,SpojitR: Intelligently Link Development Artifacts.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,ChangeBeadsThreader: An Interactive Environment for Tailoring Automatically Untangled Changes.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Reinforcement Learning Guided Symbolic Execution.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Live Replay of Screen Videos: Automatically Executing Real Applications as Shown in Recordings.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Documentation of Machine Learning Software.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2020,Building an Inclusive Distributed Ledger System.,https://dblp.org/db/conf/wcre/saner2020.html
+saner,2021,"28th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2021, Honolulu, HI, USA, March 9-12, 2021.",https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Towards Understanding Tool-chain Bugs in the LLVM Compiler Infrastructure.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Analyzing and Detecting Emerging Quality-Related Concerns across OSS Defect Report Summaries.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,An Empirical Study for Common Language Features Used in Python Projects.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Graph Neural Network Based Collaborative Filtering for API Usage Recommendation.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,MulCode: A Multi-task Learning Approach for Source Code Understanding.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Neural Question Answering System for Basic Questions about Subroutines.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Multi-Metric Ranking Approach for Library Migration Recommendations.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,HashMTI: Scalable Mutation-based Taint Inference with Hash Records.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Is the Ground Truth Really Accurate? Dataset Purification for Automated Program Repair.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,OTA: An Operation-oriented Time Allocation Strategy for Greybox Fuzzing.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Leveraging Stack Overflow to Detect Relevant Tutorial Fragments of APIs.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Binary level toolchain provenance identification with graph neural networks.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Assessing time-based and range-based strategies for commit assignment to releases.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,XSnare: Application-specific client-side cross-site scripting protection.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Combining Query Reduction and Expansion for Text-Retrieval-Based Bug Localization.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Survey-Based Empirical Evaluation of Bad Smells in LabVIEW Systems Models.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,DeepCon: Contribution Coverage Testing for Deep Learning Systems.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,FrameFix: Automatically Repairing Statically-Detected Directive Violations in Framework Applications.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,VIVA: Binary Level Vulnerability Identification via Partial Signature.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,"Assessing Code Clone Harmfulness: Indicators, Factors, and Counter Measures.",https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,The Usability (or Not) of Refactoring Tools.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Javadoc Violations and Their Evolution in Open-Source Software.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Quality Assurance for Automated Commit Message Generation.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Understanding and Facilitating the Co-Evolution of Production and Test Code.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Leveraging Fault Localisation to Enhance Defect Prediction.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,On the Impact of Flaky Tests in Automated Program Repair.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,GhostBuster: understanding and overcoming the pitfalls of transient execution vulnerability checkers.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Automatic Detection of Five API Documentation Smells: Practitioners' Perspectives.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Action Word Prediction for Neural Source Code Summarization.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Two-Stage Attention-Based Model for Code Search with Textual and Structural Features.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,SQLIFIX: Learning Based Approach to Fix SQL Injection Vulnerabilities in Source Code.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Call Frequency-Based Fault Localization.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Multi-Criteria Strategy for Redesigning Legacy Features as Microservices: An Industrial Case Study.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Underproduction: An Approach for Measuring Risk in Open Source Software.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Large-Scale Empirical Study of Android App Decompilation.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,EnHMM: On the Use of Ensemble HMMs and Stack Traces to Predict the Reassignment of Bug Report Fields.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,On the Co-evolution of ML Pipelines and Source Code - Empirical Study of DVC Projects.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Summarizing Relevant Parts from Technical Videos.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Empirical Analysis of Security Vulnerabilities in Python Packages.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Plot2API: Recommending Graphic API from Plot via Semantic Parsing Guided Neural Network.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Understanding Code Reuse in Smart Contracts.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Android Compatibility Issue Detection Using API Differences.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Evaluating Bug Prediction under Realistic Settings.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Multi-threshold token-based code clone detection.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Onboarding to Open Source Projects with Good First Issues: A Preliminary Analysis.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Human-Centric Issues in eHealth App Development and Usage: A Preliminary Assessment.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Enhancing Just-in-Time Defect Prediction Using Change Request-based Metrics.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Linking Developer Experience to Coding Style in Open-Source Repositories.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Adaptive Immunity for Software: Towards Autonomous Self-healing Systems.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,How Do Users Answer MATLAB Questions on Q&#38;A Sites? A Case Study on Stack Overflow and MathWorks.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Anti-patterns in Modern Code Review: Symptoms and Prevalence.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,MSR4ML: Reconstructing Artifact Traceability in Machine Learning Repositories.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Automatically Customizing Static Analysis Tools to Coding Rules Really Followed by Developers.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Using Structural and Semantic Information to Identify Software Components.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,G-Repo: a Tool to Support MSR Studies on GitHub.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Gasser.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,"Recording, Visualising and Understanding Developer Programming Behaviour.",https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,ClarchMap: API-oriented reconstruction of architecture for cloud-based systems.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,"TinySpline: A Small, yet Powerful Library for Interpolating, Transforming, and Querying NURBS, B-Splines, and B&#233;zier Curves.",https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Makar: A Framework for Multi-source Studies based on Unstructured Data.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Practitioners' Testimonials about Software Testing.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Technical Debt in Large-Scale Distributed Projects: An Industrial Case Study.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Mining for Graph-Based Library Usage Patterns in COBOL Systems.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Testing Approach While Re-engineering Legacy Systems: An Industrial Case Study.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,How do Technical Debt Payment Practices Relate to the Effects of the Presence of Debt Items in Software Projects?,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,How Explicit Feature Traces Did Not Impact Developers' Memory.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Will Data Influence the Experiment Results?: A Replication Study of Automatic Identification of Decisions.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Regression Test Selection Tool for Python in Continuous Integration Process.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,An Analysis of Testing Scenarios for Automated Driving Systems.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,A Case Study on the Evolution of Configuration Options of a Highly-Configurable Software System.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,AI-Based Enhancement of Test Models in an Industrial Model-Based Testing Tool.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Research Progress of Flaky Tests.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Representation vs. Model: What Matters Most for Source Code Vulnerability Detection.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Bug Question Answering with Pretrained Encoders.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Characterizing Duplicate Bugs: An Empirical Analysis.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Blockchain in Agri-Food Traceability Systems: a Model Proposal for a Typical Italian Food Product.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Drone-based Risk Management of Autonomous Systems Using Contracts and Blockchain.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Lightweight extension of an execution environment for safer function calls in Solidity/Ethereum Virtual Machine smart contracts.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Raising Sustainability Awareness in Agile Blockchain-Oriented Software Engineering.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Analysis of Source Code Duplication in Ethreum Smart Contracts.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Smart-Graph: Graphical Representations for Smart Contract on the Ethereum Blockchain.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Investigation of Blockchain Cryptocurrencies' Price Movements Through Deep Learning: A Comparative Analysis.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2021,Blockchain and Contact Tracing Applications for COVID-19: The Opportunity and The Challenges.,https://dblp.org/db/conf/wcre/saner2021.html
+saner,2022,"IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2022, Honolulu, HI, USA, March 15-18, 2022.",https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,PR-SZZ: How pull requests can support the tracing of defects in software repositories.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Source Code Summarization with Structural Relative Position Guided Transformer.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Do Developers Refactor Data Access Code? An Empirical Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Towards a Robust Approach to Analyze Time-Dependent Data in Software Engineering.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,First-class artifacts as building blocks for live in-IDE documentation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the Benefits of the Accelerate Metrics: An Industrial Survey at Vendasta.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,HERMES: Using Commit-Issue Linking to Detect Vulnerability-Fixing Commits.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Lessons from Research to Practice on Writing Better Quality Puppet Scripts.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Program Transformations for Precise Analysis of Enterprise Information Systems.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Efficient Search of Live-Coding Screencasts from Online Videos.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Lifelong Dynamic Optimization for Self-Adaptive Systems: Fact or Fiction?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,An Exploratory Study on Self-Fixed Software Vulnerabilities in OSS Projects.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Study on Screen Logging Risks of Secure Keyboards of Android Financial Apps.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,DIComP: Lightweight Data-Driven Inference of Binary Compiler Provenance with High Accuracy.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Evolution of GitHub Action Workflows.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the Influence of Biases in Bug Localization: Evaluation and Benchmark.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Generating Clarifying Questions for Query Refinement in Source Code Search.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Adapting Software Architectures to Machine Learning Challenges.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Cost-effective Simulation-based Test Selection in Self-driving Cars Software with SDC-Scissor.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Exploring API Deprecation Evolution in JavaScript.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Hits and Misses: Newcomers' ability to identify Skills needed for OSS tasks.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,DAPSTEP: Deep Assignee Prediction for Stack Trace Error rePresentation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Machine Learning Regression Techniques for Test Case Prioritization in Continuous Integration Environment.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Uncovering Library Features from API Usage on Stack Overflow.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Identifying Software Engineering Challenges in Software SMEs: A Case Study in Thailand.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Extracting Vulnerabilities from GitHub Commits.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Evaluating the Use of Semantics for Identifying Task-relevant Textual Information.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Kuber: Cost-Efficient Microservice Deployment Planner.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,PANDORA: Continuous Mining Software Repository and Dataset Generation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,FuzzingDriver: the Missing Dictionary to Increase Code Coverage in Fuzzers.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Gender Diversity and Community Smells: A Double-Replication Study on Brazilian Software Teams.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Automating Test Oracle Generation in DevOps for Industrial Elevators.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,BCL-FL: A Data Augmentation Approach with Between-Class Learning for Fault Localization.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,What really is software design?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Lightweight Approach of Human-Like Playtest for Android Apps.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,An Empirical Investigation into the Reproduction of Bug Reports for Android Apps.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,ClusterCommit: A Just-in-Time Defect Prediction Approach Using Clusters of Projects.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,An Investigation into Inconsistency of Software Vulnerability Severity across Data Sources.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,LoGenText: Automatically Generating Logging Texts Using Neural Machine Translation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,DualSC: Automatic Generation and Summarization of Shellcode via Transformer and Dual Learning.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Detecting Runtime Exceptions by Deep Code Representation Learning with Attention-Based Graph Neural Networks.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Fine-grained Co-Attentive Representation Learning for Semantic Code Search.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the Way to Microservices: Exploring Problems and Solutions from Online Q&#38;A Community.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Preliminary Analysis of GPL-Related License Violations in Docker Images.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Recommending Base Image for Docker Containers based on Deep Configuration Comprehension.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Preliminary Study on Accessibility of Augmented Reality Features in Mobile Apps.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Bunk8s: Enabling Easy Integration Testing of Microservices in Kubernetes.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,desync-cc: An Automatic Disassembly-Desynchronization Obfuscator.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Cr&#232;me de la cr&#232;me. Investigating Metadata and Survivability of Top Android Apps.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Isolating Compiler Optimization Faults via Differentiating Finer-grained Options.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,ReSplit: Improving the Structure of Jupyter Notebooks by Re-Splitting Their Cells.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,JISDLab: A web-based interactive literate debugging environment.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Phrase2Set: Phrase-to-Set Machine Translation and Its Software Engineering Applications.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,An Empirical Investigation into the Use of Image Captioning for Automated Software Documentation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Semantic Robustness of Models of Source Code.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,How and Why Developers Migrate Python Tests.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Towards the Isolation of Failure-Inducing Inputs in Cyber-Physical Systems: is Delta Debugging Enough?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Learning Program Semantics with Code Representations: An Empirical Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,ArchTacRV: Detecting and Runtime Verifying Architectural Tactics in Code.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,VCMatch: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Cross-Language Binary-Source Code Matching with Intermediate Representations.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,CoolTeD: A Web-based Collaborative Labeling Tool for the Textual Dataset.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Gelato: Feedback-driven and Guided Security Analysis of Client-side Web Applications.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,RIBDetector: an RFC-guided Inconsistency Bug Detecting Approach for Protocol Implementations.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,"HyDRa: A Framework for Modeling, Manipulating and Evolving Hybrid Polystores.",https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Identifying Relevant Changes for Incremental Verification of Evolving Software Systems.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the rise and fall of CI services in GitHub.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,FUM - A Framework for API Usage constraint and Misuse Classification.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,DeepAnna: Deep Learning based Java Annotation Recommendation and Misuse Detection.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Detecting Connectivity Issues in Android Apps.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Replication Study on Predicting Metamorphic Relations at Unit Testing Level.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,State Selection Algorithms and Their Impact on The Performance of Stateful Network Protocol Fuzzing.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Toward Understanding the Impact of Refactoring on Program Comprehension.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Common Programming Mistakes Leading to Information Disclosure: A Preliminary Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Towards a Fine-grained Analysis of Cognitive Load During Program Comprehension.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the Influential Interactive Factors on Degrees of Design Decay: A Multi-Project Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Automatic Detection and Analysis of Technical Debts in Peer-Review Documentation of R Packages.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Rebot: An Automatic Multi-modal Requirements Review Bot.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Can We Automatically Fix Bugs by Learning Edit Operations?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,How Do Injected Bugs Affect Deep Learning?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Static Analysis Warnings and Automatic Fixing: A Replication for C# Projects.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Endowing third-party libraries recommender systems with explicit user feedback mechanisms.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Towards Attribute Grammar Mining by Symbolic Execution.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Investigating the Effectiveness of Clustering for Story Point Estimation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Kraken 2.0: A platform-agnostic and cross-device interaction testing tool.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,An Empirical Study on the Impact of Deep Parameters on Mobile App Energy Usage.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,ExcePy: A Python Benchmark for Bugs with Python Built-in Types.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Variant Forks - Motivations and Impediments.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Flexible semi-automatic support for type migration of primitives for C/C++ programs.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the Importance of Performing App Analysis Within Peer Groups.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Removing Decorator to Improve Energy Efficiency.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Mining Software Information Sites to Recommend Cross-Language Analogical Libraries.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,"Detect, Fix, and Verify TensorFlow API Misuses.",https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Static Analysis of Database Accesses in MongoDB Applications.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Assemble Foundation Models for Automatic Code Summarization.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,On the Evolution of Inheritance and Delegation Mechanisms and Their Impact on Code Quality.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,VELVET: a noVel Ensemble Learning approach to automatically locate VulnErable sTatements.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Characterizing and Improving Bug-Finders with Synthetic Bugs.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Phishing Kits Source Code Similarity Distribution: A Case Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,When They Go Low: Automated Replacement of Low-level Functions in Ethereum Smart Contracts.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Learning CI Configuration Correctness for Early Build Feedback.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,"Searching for Technical Debt - An Empirical, Exploratory, and Descriptive Case Study.",https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,BinMLM: Binary Authorship Verification with Flow-aware Mixture-of-Shared Language Model.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Where Should I Look at? Recommending Lines that Reviewers Should Pay Attention To.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Bytecode-based Approach for Smart Contract Classification.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Web Element Identification by Combining NLP and Heuristic Search for Web Testing.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Well Begun is Half Done: An Empirical Study of Exploitability &#38; Impact of Base-Image Vulnerabilities.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Automatically Generating Code Comment Using Heterogeneous Graph Neural Networks.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Simple Retrieval-based Method for Code Comment Generation.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Method Name Generation Based on Code Structure Guidance.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,NeuRecover: Regression-Controlled Repair of Deep Neural Networks with Training History.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Analyzing Offline Social Engagements: An Empirical Study of Meetup Events Related to Software Development.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Fault Localization in Server-Side Applications Using Spectrum-Based Fault Localization.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Using Source Code Metrics for Predicting Metamorphic Relations at Method Level.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,iTest: Using coverage measurements to improve test efficiency.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,An Exploratory Study on the Usage of Gherkin Features in Open-Source Projects.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,What Do We Know About Readability of Test Code? - A Systematic Mapping Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Type Profiling to the Rescue: Test Amplification in Python and Smalltalk.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,ProPy: Prolog-based Fault Localization Tool for Python.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Visualizing Web Application Execution Logs to Improve Software Security Defect Localization.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Blockchain-Oriented Software Variant Forks: A Preliminary Study.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Tool to check the Ownership of Solana's Smart Contracts.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Stone: A Privacy Policy Enforcement System for Smart Contracts.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,"On the use of Petri Nets in Smart Contracts modeling, generation and verification.",https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Analysis Of The Relationship Between Smart Contracts' Categories and Vulnerabilities.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Can Solana be the Solution to the Blockchain Scalability Problem?,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Goal and Policy Based Code Generation and Deployment of Smart Contracts.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Blockchain-based Data Notarization System for Smart Mobility Services.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,A Comprehensive Study of Bug Fixes in Quantum Programs.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,1-2-3 Reproducibility for Quantum Software Experiments.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,How to Approximate any Objective Function via Quadratic Unconstrained Binary Optimization.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Prioritization of Compiled Quantum Circuits for Different Quantum Computers.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Towards using focus groups to identify software developer's interests regarding their development process.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Exploring Relevant Artifacts of Release Notes: The Practitioners' Perspective.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Accessing the Presentation of Causal Graphs and an Application of Gestalt Principles with Eye Tracking.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Humans in Empirical Software Engineering Studies: An Experience Report.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,MLOps for evolvable AI intensive software systems.,https://dblp.org/db/conf/wcre/saner2022.html
+saner,2022,Knowledge Management Challenges for AI Quality.,https://dblp.org/db/conf/wcre/saner2022.html

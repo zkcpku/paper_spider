@@ -1,0 +1,352 @@
+name,year,title,link
+icpc,2016,"24th IEEE International Conference on Program Comprehension, ICPC 2016, Austin, TX, USA, May 16-17, 2016.",https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,A textual-based technique for Smell Detection.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Context-based code smells prioritization for prefactoring.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Do code smells hamper novice programming? A controlled experiment on Scratch programs.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Improving code readability models with textual features.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Multistaging to understand: Distilling the essence of java code examples.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Navigating the WordPress plugin landscape.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,A case study of program comprehension effort and technical debt estimations.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,On method ordering.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Identifying modularization patterns by visual comparison of multiple hierarchies.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Glyph-based software component identification.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Taming the IDE with fine-grained interaction data.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Learning to rank for bug report assignee recommendation.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Can we find stable alternatives for unstable Eclipse interfaces?,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,A cooperative approach for combining client-based and library-based API usage pattern mining.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,A novel approach for estimating Truck Factors.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Can we enforce a benefit for dynamically typed languages in comparison to statically typed ones? A controlled experiment.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Identifying functionally similar code in complex codebases.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,On automatically detecting similar Android apps.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Rule-directed code clone synchronization.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Are unreachable methods harmful? Results from a controlled experiment.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Investigating the android apps' success: An empirical study.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Retrofitting automatic testing through library tests reusing.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Measuring energy footprint of software features.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Human-machine resolution of Invisible Control Flow?,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Extracting configuration parameter interactions using static analysis.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Android build dependency analysis.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Software development and tool usability.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Detecting exploratory programming behaviors for introductory programming exercises.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Embedding programming context into source code.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Synchronized static and dynamic visualization in a web-based programming environment.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Case studies of optimized sequence diagram for program comprehension.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Comprehending source code of large software system for reuse.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Defending against the attack of the micro-clones.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Towards quality gates in continuous delivery and deployment.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Revisiting the relationship between code smells and refactoring.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Generating clone references with less human subjectivity.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Understanding interactive debugging with Swarm Debug Infrastructure.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,FeedBaG: An interaction tracker for Visual Studio.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,InfectoMeter: A tool that helps to place bug fixes.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,INLINE: Now you're coding with portals.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,WAVI: A reverse engineering tool for web applications.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,PORBS: A parallel observation-based slicer.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,STAC: A tool for Static Textual Analysis of Code.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,Hey! Are you injecting side effect?: A tool for detecting purity changes in java methods.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2016,WB4SP: A tool to build the word base for specific programs.,https://dblp.org/db/conf/iwpc/icpc2016.html
+icpc,2017,"Proceedings of the 25th International Conference on Program Comprehension, ICPC 2017, Buenos Aires, Argentina, May 22-23, 2017.",https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Do software developers understand open source licenses?,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Software engineers' information seeking behavior in change impact analysis: an interview study.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,How developers document pull requests with external references.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Variability through the eyes of the programmer.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Meaningful identifier names: the case of single-letter variables.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Effects of variable names on comprehension an empirical study.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,"Syntax, predicates, idioms: what really affects code complexity?",https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Exploiting type hints in method argument names to improve lightweight type inference.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Binary code clone detection across architectures and compiling configurations.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Identifying code clones having high possibilities of containing bugs.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Smells are sensitive to developers!: on the efficiency of (un)guided customized detection.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,On the uniqueness of code redundancies.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,RepDroid: an automated tool for Android application repackaging detection.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Comprehension of ads-supported and paid Android applications: are they different?,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,How professional hackers understand protected code while performing attack tasks.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,NetDroid: summarizing network behavior of Android apps for network code maintenance.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,An exploratory study on the relationship between changes and refactoring.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Developer-related factors in change prediction: an empirical assessment.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Analyzing user comments on YouTube coding tutorial videos.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,A comparison of three algorithms for computing truck factors.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Bug localization with combination of deep learning and information retrieval.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Bug report enrichment with application of automated fixer recommendation.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,How does execution information help with information-retrieval based bug localization?,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Automatically detecting integrity violations in database-centric applications.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Constructing feature model by identifying variability-aware modules.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,An empirical study on code comprehension: data context interaction compared to classical object oriented.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,The effect of delocalized plans on spreadsheet comprehension: a controlled experiment.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,The discipline of preprocessor-based annotations does #ifdef TAG n't #endif matter.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Comprehending studies on program comprehension.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,It's duck (typing) season!,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Replicating parser behavior using neural machine translation.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Towards automatic generation of short summaries of commits.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Android repository mining for detecting publicly accessible functions missing permission checks.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Studying the prevalence of exception handling anti-patterns.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,On the properties of design-relevant classes for design anomaly assessment.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Removing code clones from industrial systems using compiler directives.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Language-independent information flow tracking engine for program comprehension tools.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,The <i>code time machine</i>.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,FindSmells: flexible composition of bad smell detection strategies.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,Docio: documenting API input/output examples.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2017,MetricAttitude++: enhancing polymetric views with information retrieval.,https://dblp.org/db/conf/iwpc/icpc2017.html
+icpc,2018,"Proceedings of the 26th Conference on Program Comprehension, ICPC 2018, Gothenburg, Sweden, May 27-28, 2018.",https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,"Mining the mind, minding the mine: grand challenges in comprehension and mining.",https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Sensing and supporting software developers' focus.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Overcoming language dichotomies: toward effective program comprehension for mobile app development.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Adventures in NICAD: a ten-year retrospective.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Meaningful variable names for decompiled code: a machine translation approach.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Descriptive compound identifier names improve source code comprehension.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Un-break my build: assisting developers with build repair hints.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Aiding comprehension of unit test cases and test suites with stereotype-based tagging.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,JIT feedback: what experienced developers like about static analysis.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,How do design decisions affect the distribution of software metrics?,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Hierarchical abstraction of execution traces for program comprehension.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Component interface identification and behavioral model discovery from software execution data.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Recognizing software bug-specific named entity in software bug repository.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Recommending frequently encountered bugs.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Cross version defect prediction with representative data via sparse subset selection.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Unsupervised deep bug report summarization.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Analysis of test log information through interactive visualizations.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,A search-based approach for accurate identification of log message formats.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Logtracker: learning log revision behaviors proactively from software evolution history.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Identifying software components from object-oriented APIs based on dynamic analysis.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Deep code comment generation.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Automatically classifying posts into question categories on stack overflow.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Automatic tag recommendation for software development video tutorials.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Classification of APIs by hierarchical clustering.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,LESdroid: a tool for detecting exported service leaks of Android applications.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Do developers update third-party libraries in mobile apps?,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,What's inside my app?: understanding feature redundancy in mobile apps.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Impacts of coding practices on readability.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,The effect of poor source code lexicon and readability on developers' cognitive load.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Assessing an architecture's ability to support feature evolution.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Code phonology: an exploration into the vocalization of code.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Towards just-in-time refactoring recommenders.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Toward refactoring evaluation with code naturalness.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Replicomment: identifying clones in code comments.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,A preliminary study on using code smells to improve bug localization.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,What design topics do developers discuss?,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Toward introducing automated program repair techniques to industrial software development.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Learning lexical features of programming languages from imagery using convolutional neural networks.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,On the naturalness of auto-generated code: can we identify auto-generated code automatically?,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Augmenting source code lines with sample variable values.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,An empirical investigation on the readability of manual and generated test cases.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,How slim will my system be?: estimating refactored code size by merging clones.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Codecompass: an open software comprehension framework for industrial usage.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,Leveraging the agile development process for selecting invoking/excluding tests to support feature location.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,SDexplorer: a generic toolkit for smoothly exploring massive-scale sequence diagram.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,CoBOT: static C/C++ bug detection in the presence of incomplete code.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,MetropolJS: visualizing and debugging large-scale javascript program structure with treemaps.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2018,The codecompass comprehension framework.,https://dblp.org/db/conf/iwpc/icpc2018.html
+icpc,2019,"Proceedings of the 27th International Conference on Program Comprehension, ICPC 2019, Montreal, QC, Canada, May 25-31, 2019.",https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,What goes on in your brain when you read and understand code?,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Improving source code readability: theory and practice.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Replicating novices' struggles with coding style.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,How does feature dependency affect configurable system comprehensibility?,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Live programming and software evolution: questions during a programming change task.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Measuring the cognitive load of software developers: a systematic mapping study.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,A large-scale empirical study on code-comment inconsistencies.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,An empirical study on practicality of specification mining algorithms on a real-world application.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Neural detection of semantic code clones via tree-based convolution.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Comparing bug replication in regular and micro code clones.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Comparing heuristic and machine learning approaches for metric-based code smell detection.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Enabling clone detection for ethereum via smart contract birthmarks.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Prevalence of bad smells in PL/SQL projects.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,CCEvovis: a clone evolution visualization system for software maintenance.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,CodersMUSE: multi-modal data exploration of program-comprehension experiments.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,DeepVisual: a visual programming tool for deep learning systems.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,PADLA: a dynamic log level adapter using online phase detection.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Visualizing sequences of debugging sessions using swarm debugging.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,srcPtr: a framework for implementing static pointer analysis approaches.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Removal of design problems through refactorings: are we looking at the right symptoms?,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Indentation: simply a matter of style or support for program comprehension?,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Does BLEU score work for code migration?,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,To CamelCase or under_score.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,The untapped potential of analyzing complete developer workflows.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Replication can improve prior results: a GitHub study of pull request acceptance.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Do extracted state machine models help to understand embedded software?,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Exploring tools and strategies used during regular expression composition tasks.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Are static analysis violations really fixed?: a closer look at realistic usage of SonarQube.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,CCSpec: a correctness condition specification tool.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Comparing the EvoStreets visualization technique in two D and three-dimensional environments: a controlled experiment.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Learning a classifier for prediction of maintainability based on static analysis tools.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Sequence coverage directed greybox fuzzing.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Recommending differentiated code to support smart contract update.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Understanding evolutionary coupling by fine-grained co-change relationship analysis.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Understanding large-scale software: a hierarchical view.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Towards automated testing of blockchain-based decentralized applications.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Analyzing performance-aware code changes in software development process.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,A replication study on code comprehension and expertise using lightweight biometric sensors.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Measuring interprocess communications in distributed systems.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Meditor: inference and application of API migration edits.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,On the use of information retrieval to automate the detection of third-party Java library migration at the method level.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Recommending comprehensive solutions for programming tasks by mining crowd knowledge.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2019,Using frugal user feedback with closeness analysis on code to improve IR-based traceability recovery.,https://dblp.org/db/conf/iwpc/icpc2019.html
+icpc,2020,"ICPC '20: 28th International Conference on Program Comprehension, Seoul, Republic of Korea, July 13-15, 2020.",https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,On the Equivalence of Information Retrieval Methods for Automated Traceability Link Recovery: A Ten-Year Retrospective.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,A Human Study of Comprehension and Code Summarization.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,A Literature Review of Automatic Traceability Links Recovery for Software Change Impact Analysis.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,A Model to Detect Readability Improvements in Incremental Changes.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Adaptive Deep Code Search.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,An Empirical Study of Quick Remedy Commits.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,An Empirical Study on Critical Blocking Bugs.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,An Empirical Study on Dynamic Typing Related Practices in Python Systems.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,BugSum: Deep Context Understanding for Bug Report Summarization.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Deep-Diving into Documentation to Develop Improved Java-to-Swift API Mapping.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Duplicate Bug Report Detection Using Dual-Channel Convolutional Neural Networks.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Evaluating a Visual Approach for Understanding JavaScript Source Code.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,GGF: A Graph-based Method for Programming Language Syntax Error Correction.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,How Does Incomplete Composite Refactoring Affect Internal Quality Attributes?,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,How Graduate Computing Students Search When Using an Unfamiliar Programming Language.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,How are Deep Learning Models Similar?: An Empirical Study on Clone Analysis of Deep Learning Software.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Improved Code Summarization via a Graph Neural Network.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Improving Code Search with Co-Attentive Representation Learning.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Investigating Near-Miss Micro-Clones in Evolving Software.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Exploiting Code Knowledge Graph for Bug Localization via Bi-directional Attention.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Knowledge Transfer in Modern Code Review.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Measuring Software Testability Modulo Test Quality.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,On Combining IR Methods to Improve Bug Localization.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Performing Tasks Can Improve Program Comprehension Mental Model of Novice Developers: An Empirical Approach.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,srcClone: Detecting Code Clones via Decompositional Slicing.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Supporting Program Comprehension through Fast Query response in Large-Scale Systems.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Testing of Mobile Applications in the Wild: A Large-Scale Empirical Study on Android Apps.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,The Secret Life of Commented-Out Source Code.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,UI Screens Identification and Extraction from Mobile Programming Screencasts.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Unified Configuration Setting Access in Configuration Management Systems.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,What Drives the Reading Order of Programmers?: An Eye Tracking Study.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,When Are Smells Indicators of Architectural Refactoring Opportunities: A Study of 50 Software Projects.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Combining Biometric Data with Focused Document Types Classifies a Success of Program Comprehension.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Detecting Code Comment Inconsistency using Siamese Recurrent Network.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Improving the Accuracy of Spectrum-based Fault Localization for Automated Program Repair.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Inheritance software metrics on smart contracts.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Linguistic Documentation of Software History.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Program Comprehension in Virtual Reality.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Staged Tree Matching for Detecting Code Move across Files.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Automatic Android Deprecated-API Usage Update by Learning from Single Updated Example.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Ownership at Large: Open Problems and Challenges in Ownership Management.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Program Slicing and Execution Tracing for Differential Testing at Adobe Analytics.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Understanding What Software Engineers Are Working on: The Work-Item Prediction Challenge.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,How do Students Experience and Judge Software Comprehension Techniques?,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,BugVis: Commit Slicing for Fault Visualisation.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Just-In-Time Test Smell Detection and Refactoring: The DARTS Project.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,"OpenSZZ: A Free, Open-Source, Web-Accessible Implementation of the SZZ Algorithm.",https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,Refactoring Android-specific Energy Smells: A Plugin for Android Studio.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2020,SimplyHover: Improving Comprehension of else Statements.,https://dblp.org/db/conf/iwpc/icpc2020.html
+icpc,2021,"29th IEEE/ACM International Conference on Program Comprehension, ICPC 2021, Madrid, Spain, May 20-21, 2021.",https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,A Multi-Modal Transformer-based Code Summarization Approach for Smart Contracts.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Assessing Semantic Frames to Support Program Comprehension Activities.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Atoms of Confusion in Java.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Automated Comment Update: How Far are We?,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Bug or not bug? That is the question.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Characterization and Prediction of Questions without Accepted Answers on Stack Overflow.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Code Authors Hidden in File Revision Histories: An Empirical Study.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Comprehensive Integration of API Usage Patterns.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,ConfInLog: Leveraging Software Logs to Infer Configuration Constraints.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Considerations and Pitfalls in Controlled Experiments on Code Comprehension.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Does Code Structure Affect Comprehension? On Using and Naming Intermediate Variables.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,EtherSolve: Computing an Accurate Control-Flow Graph from Ethereum Bytecode.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Exploiting Method Names to Improve Code Summarization: A Deliberation Multi-Task Learning Approach.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Exploiting the Unique Expression for Improved Sentiment Analysis in Software Engineering Text.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,FLeCCS: A Technique for Suggesting Fragment-Level Similar Co-change Candidates.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,From Novice to Expert: Analysis of Token Level Effects in a Longitudinal Eye Tracking Study.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Keywords Guided Method Name Generation.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Locating Faulty Methods with a Mixed RNN and Attention Model.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Multi-Programming-Language Commits in OSS: An Empirical Study on Apache Projects.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Predicting Community Smells' Occurrence on Individual Developers by Sentiments.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Predicting Crash Fault Residence via Simplified Deep Forest Based on A Reduced Feature Set.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Project-Level Encoding for Neural Source Code Summarization of Subroutines.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,RAID: Tool Support for Refactoring-Aware Code Reviews.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Shallow or Deep? An Empirical Study on Detecting Vulnerabilities using Deep Learning.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,The Effect of a Block-based Language on Formula Comprehension in Spreadsheets.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,The Effect Of Crowding On The Reading Of Program Code For Programmers With Dyslexia.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Understanding Architecture Erosion: The Practitioners' Perceptive.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Understanding Code Smell Detection via Code Review: A Study of the OpenStack Community.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Using Grammar Patterns to Interpret Test Method Name Evolution.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Using Non-Verbal Expressions as a Tool in Naming Research.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Weighing the Evidence: On Relationship Types in Microservice Extraction.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Where to Handle an Exception? Recommending Exception Handling Locations from a Global Perspective.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Automatic Extraction of Code Dependency in Virtual Reality Software.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Comprehending Spreadsheets: Which Strategies do Users Apply?,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Detecting Inconsistent Thrown Exceptions.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Toward Automated Exploit Generation for Known Vulnerabilities in Open-Source Libraries.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Towards improving architectural diagram consistency using system descriptors.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Understanding Execution Environment of File-Manipulation Scripts by Extracting Pre-Conditions.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,API2Com: On the Improvement of Automatically Generated Code Comments Using API Documentations.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Checking App Behavior Against App Descriptions: What If There are No App Descriptions?,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,"Warning-Introducing Commits vs Bug-Introducing Commits: A tool, statistical models, and a preliminary user study.",https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,What is the Vocabulary of Flaky Tests? An Extended Replication.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Is Algorithm Comprehension Different from Program Comprehension?,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,"Let's Ask Students About Their Programs, Automatically.",https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Students' Misunderstanding of the Order of Evaluation in Conjoined Conditions.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,ArCode: A Tool for Supporting Comprehension and Implementation of Architectural Concerns.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,Interactive Static Software Performance Analysis in the IDE.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2021,RefactorHub: A Commit Annotator for Refactoring.,https://dblp.org/db/conf/iwpc/icpc2021.html
+icpc,2022,"Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, ICPC 2022, Virtual Event, May 16-17, 2022.",https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,PTM4Tag: sharpening tag recommendation of stack overflow posts with pre-trained models.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,GypSum: learning hybrid representations for code summarization.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,M2TS: multi-scale multi-modal approach based on transformer for source code summarization.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Semantic similarity metrics for evaluating source code summarization.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,LAMNER: code comment generation using character language model and named entity recognition.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Zero-shot program representation learning.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,On the cross-modal transfer from natural language to code through adapter modules.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Self-supervised learning of smart contract representations.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,An exploratory study of analyzing JavaScript online code clones.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Accurate generation of trigger-action programs with domain-adapted sequence-to-sequence learning.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Estimating developers' cognitive load at a fine-grained level using eye-tracking measures.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,So many brackets!: an analysis of how SQL learners (mis)manage complexity during query formulation.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Anchoring code understandability evaluations through task descriptions.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,The effect of information content and length on name recollection.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Understanding code snippets in code reviews: a preliminary study of the OpenStack community.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,GitQ- towards using badges as visual cues for GitHub projects.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Revisiting the effect of branch handling strategies on change recommendation.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,pycefr: Python competency level through code analysis.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Automated identification of libraries from vulnerability data: can we do better?,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Example-based vulnerability detection and repair in Java code.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,An approach to automatically assess method names.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,An empirical investigation on the trade-off between smart contract readability and gas consumption.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,CodePanorama: a language agnostic tool for visual code inspection.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Simple or complex?: together for a more accurate just-in-time defect predictor.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Causette: user-controlled rearrangement of causal constructs in a code editor.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Error identification strategies for Python Jupyter notebooks.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Performance anomaly detection through sequence alignment of system-level traces.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,QuLog: data-driven approach for log instruction quality assessment.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Fixing continuous integration tests from within the IDE with contextual information.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Shape-analysis driven memory graph visualization.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,On the effectiveness of pretrained models for API learning.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Deep API learning revisited.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,ARSeek: identifying API resource using code and discussion on stack overflow.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Benchmarking library recognition in tweets.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,HELoC: hierarchical contrastive learning of source code representation.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Exploring GNN based program embedding technologies for binary related tasks.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Learning to represent programs with heterogeneous graphs.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Unified abstract syntax tree representation learning for cross-language program classification.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,On the transferability of pre-trained language models for low-resource programming languages.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,C4: contrastive cross-language code clone detection.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Predicting change propagation between code clone instances by graph-based deep learning.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,An exploratory study on code attention in BERT.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Exploring and understanding cross-service code clones in microservice projects.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,MSCCD: grammar pluggable clone detection based on ANTLR parser generation.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Algorithm identification in programming assignments.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Context-based cluster fault localization.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,A study of single statement bugs involving dynamic language features.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,XAI4FL: enhancing spectrum-based fault localization with explainable artificial intelligence.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Do visual issue reports help developers fix bugs?: a preliminary study of using videos and images to report issues on GitHub.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Find bugs in static bug finders.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,didiffff: a viewer for comparing changes in both code and execution traces.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,CSRS: code search with relevance matching and semantic matching.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Clone-based code method usage pattern mining.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Towards exploring the code reuse from stack overflow during software development.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,The ineffectiveness of domain-specific word embedding models for GUI test reuse.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Impact of change granularity in refactoring detection.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,On the developers' attitude towards CRAN checks.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Does coding in Pythonic zen peak performance?: preliminary experiments of nine Pythonic idioms at scale.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Code smells in Elixir: early results from a grey literature review.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Fine-grained code-comment semantic interaction analysis.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Using discord conversations as program comprehension aid.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Demystifying software release note issues on GitHub.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,A first look at duplicate and near-duplicate self-admitted technical debt comments.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,HatCUP: hybrid analysis and attention based just-in-time comment updating.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Casdoc: unobtrusive explanations in code examples.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,"Backports: change types, challenges and strategies.",https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,How do i model my system?: a qualitative study on the challenges that modelers experience.,https://dblp.org/db/conf/iwpc/icpc2022.html
+icpc,2022,Two approaches to survival analysis of open source Python projects.,https://dblp.org/db/conf/iwpc/icpc2022.html
